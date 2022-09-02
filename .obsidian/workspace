@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "a1bf965d76e2fd98",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bb405d7563c7fe",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d72101d3de546766",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c7b89b84fc8fb05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a3494a3c98fb7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab8e21c6b41f1f9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e899b3eb0e795585",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e7f4664b52bb408",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d7a2773d769b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f48265ebaf6631",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a9726876c964dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8b5129789ac9190",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6db7038a1d271495",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f1a3494a3c98fb7e",
+  "lastOpenFiles": [
+    "Test.md",
+    "test2.md",
+    "2022-08-31.md",
+    "Maths/Suites.md"
+  ]
+}
