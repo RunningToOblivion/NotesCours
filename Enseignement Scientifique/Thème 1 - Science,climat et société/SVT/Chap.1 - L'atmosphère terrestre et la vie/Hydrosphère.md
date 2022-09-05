@@ -1,0 +1,1 @@
+**Hydrosphère** : Ensemble des enveloppes terrestres superficielles composées essentiellement d'eau
