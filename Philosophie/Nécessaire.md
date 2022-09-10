@@ -1,0 +1,1 @@
+**Nécessaire** : Ce qui ne peut pas ne pas être

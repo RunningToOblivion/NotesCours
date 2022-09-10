@@ -7,12 +7,8 @@
         "id": "2b74e4120928a7ab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philosophie/Définition de la philosophie.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Définition de la philosophie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Définition de la philosophie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +101,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophie/Définition de la philosophie.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "172cab7646a7f876",
+  "active": "2b74e4120928a7ab",
   "lastOpenFiles": [
     "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Crise de 1929.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/John Mayard Keynes.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Réponses à la crise de 1929.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Causes de la crise de 1929.md",
-    "[[[[[[Réponses à la crise de 1929.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Lexique de la crise.md",
+    "Philosophie/Origine-Fondements.md",
+    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/O2.md",
+    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Hydrosphère.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Atmosphère.md",
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Chondrites.md",
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Couche d'ozone.md",
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/O2.md"
+    "Philosophie/Définition de la philosophie.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Causes de la crise de 1929.md"
   ]
 }

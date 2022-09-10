@@ -19,3 +19,9 @@ Spéculateurs profitent de augmentation continue des cours de la bourse sur plus
 
 Les banques prêtent de l'argent aux spéculateurs "gratuitement" (sans apport) en espérant se rembourser sur les bénéfices
 
+
+
+
+
+
+#Crise_1929

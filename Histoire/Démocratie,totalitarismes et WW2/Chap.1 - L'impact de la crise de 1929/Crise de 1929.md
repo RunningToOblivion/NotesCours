@@ -15,18 +15,26 @@
 			- 1/4 des banques ferment
 			- Les produits ne trouvent plus d'acheteurs -> Henry Ford licensie 3/4 de ses employés
 			- Les habitants sont chassés des logements achetés à crédit quand ils ne peuvent plus payer à cause des banques qui essaient de se stabiliser
-			- 25% de chômeurs à cause des licenciements, sans couverture sociale
-				- Ils vont sur les routes pour trouver n'importe quel travail
+			- Usines ferment + Paysans ne vendent qu'à bas prix :
+				- Licenciement
+				- Paysans quittent leurs exploitations ou en sont chassés
+					=> 25% de chômeurs sans couverture sociale
+						- Ils vont sur les routes pour trouver n'importe quel travail
 			- Commerce extérieur s'arrête
 			- PIB est / par 2
 			- Dure jusqu'à la veille de la guerre
+			- Avec chômeurs dans les rues, misère et violence règnent ->Les extrêmes politiques montent car la bourgeoisie cherche des systèmes politiques forts pour rétablir l'odre dans les rues par peur
 
 - ### Les conséquences de la crise
-		- Le moteur américain s'effondre -> retour des investissements
+		- Le moteur américain s'effondre -> crise devient mondiale (cf p.18):
+			- Les Américains rapatrient leurs investissements à l'étranger
+			- Baisse de la conso -> Baisse du commerce international
 			=> Crises en Europe et en Amérique latine
 				=> Commerce international ralentit (baisse des importations)
 					- Premiers pays touchés (1931) : Allemagne et Autriche
 					- Baisse des prix => Déflation
 					- Chômage de masse
 					- Surproduction agricole et industrielle
-		- Les états tentent de répondre à la crise mais [[Réponses à la crise de 1929|leurs réponses sont inadaptées]]
+Les états tentent de réagir mais leurs [[Réponses à la crise de 1929|réponses]] sont inadaptées
+
+#Crise_1929
