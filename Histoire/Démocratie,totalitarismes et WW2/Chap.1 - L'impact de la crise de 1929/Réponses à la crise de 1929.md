@@ -16,4 +16,8 @@ Les gouvernements jouent la carte individuelle et font preuve d'une trop grande 
 
 [[John Mayard Keynes]] trouve une réponse adaptée pour sortir de la dépression plus tard (ouverture des frontières et augmentation des salaires). En effet, il prouve que c'est l'interventionnisme qui peut faire sortir les USA de la crise
 
+Hoover n'arrive donc pas à redresser les USA mais son successeur, [[Franklin Delano Roosevelt]] y arrivera avec le [[New Deal]], inspiré des idées de Keynes.
+
+
+
 #Crise_1929 

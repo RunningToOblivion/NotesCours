@@ -1,14 +1,14 @@
 # Origine/Fondements
 
 - ## Origine
-		- Désigne point de départ de quelque chose et + largement ensemble de processus de formation
-		- Terme historique, mythologique et parfois scientifique et philosophique, qui concerne question de la génèse
-		- Dans usages religieux et mythiques, origine a aussi dimension normative
-			=> Raconter origine permet de donner un sens voire de justifier ordre des choses
+	- Désigne point de départ de quelque chose et + largement ensemble de processus de formation
+	- Terme historique, mythologique et parfois scientifique et philosophique, qui concerne question de la génèse
+	- Dans usages religieux et mythiques, origine a aussi dimension normative
+		=> Raconter origine permet de donner un sens voire de justifier ordre des choses
 
 - ## Fondement
-		- Désigne principe ou réalité qui rend raison, en expliquant ou en justifiant
-		- Il s'agit d'un concept philosophique et savant qui concerne question de la raison des choses
+	- Désigne principe ou réalité qui rend raison, en expliquant ou en justifiant
+	- Il s'agit d'un concept philosophique et savant qui concerne question de la raison des choses
 
 Par exemple, origine religieuse du mal dans christianisme=pêché originel alors que origine historique d'un évènement renverrait plutôt à ses différentes causes.
 Quant au fondement, on peut trouver celui du droit dans un principe moral, l'égalité morale entre hommes fondant ainsi l'égalité juridique devant la loi
