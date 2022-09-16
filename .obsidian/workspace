@@ -7,8 +7,12 @@
         "id": "2b74e4120928a7ab",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Philosophie/Peut-on penser par soi-même.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philosophie/Peut-on penser par soi-même.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philosophie/Peut-on penser par soi-même.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Philosophie/Peut-on penser par soi-même.md"
+              }
             }
           }
         ],
@@ -123,15 +131,15 @@
   },
   "active": "2b74e4120928a7ab",
   "lastOpenFiles": [
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Crise en Amérique latine.md",
-    "Philosophie/Raison.md",
-    "Philosophie/Nécessaire.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Front populaire.md",
+    "Philosophie/Peut-on penser par soi-même.md",
     "Philosophie/Définition de la philosophie.md",
-    "Philosophie/Origine-Fondements.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Crise de 1929.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Franklin Delano Roosevelt.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Crise en Amérique latine.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/John Mayard Keynes.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Lexique de la crise.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Réponses à la crise de 1929.md"
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/New Deal.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Réponses à la crise de 1929.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Causes de la crise de 1929.md"
   ]
 }

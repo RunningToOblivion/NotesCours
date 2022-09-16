@@ -29,7 +29,7 @@
 	- Le moteur américain s'effondre -> crise devient mondiale (cf p.18):
 		Les Américains rapatrient leurs investissements à l'étranger
 		Baisse de la conso -> Baisse du commerce international
-=> Crises en Europe et en [[Crise en Amérique latine|Amérique latine]]
+=> Crises en [[Front populaire|Europe]] et en [[Crise en Amérique latine|Amérique latine]]
 				=> Commerce international ralentit (baisse des importations)
 					- Baisse des prix => Déflation
 					- Chômage de masse

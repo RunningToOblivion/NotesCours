@@ -39,5 +39,7 @@ Viser la rationnalité : Savoir théorique mais aussi dimension pratique pour av
 Représenter les choses = pensée
 Philo consiste à rééxaminer -> on peut considérer que c'est une activité qui consiste à penser par soi-même
 
+[[Peut-on penser par soi-même|Cours sous forme de dissertation]]
+
 
 
