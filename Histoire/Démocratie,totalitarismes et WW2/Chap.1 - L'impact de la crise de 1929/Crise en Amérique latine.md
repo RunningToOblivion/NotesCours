@@ -1,3 +1,5 @@
+# La Crise en Amérique Latine
+
 ## Les causes
 
 Amérique latine est dans contexte de prospérité grâce à essor économique après WW1 (investissements étrangers,...).

@@ -1,3 +1,4 @@
+# Le New Deal
 - Dès les cents premiers jours de son mandat, Roosevelt propose une politique de relance de l'écon. par la conso (politique du "go") en créant des millions d'emplois et en fournissant de l'aide aux plus démunis à travers le pays -> relancer le pays mais aussi vient de principe chrétien d'aide à son prochain
 - Il redéfinit là le modèle américain en étendant la notion de liberté pour y inclure une forme de protection contre les aléas de l'existence et l'interventionnisme de l'Etat -> met en place l'interventionnisme de l'Etat dans l'écon. et la société
 

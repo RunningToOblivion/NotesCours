@@ -27,13 +27,21 @@
 
 - ### Les conséquences de la crise
 	- Le moteur américain s'effondre -> crise devient mondiale (cf p.18):
-		Les Américains rapatrient leurs investissements à l'étranger
-		Baisse de la conso -> Baisse du commerce international
+		- Les Américains rapatrient leurs investissements à l'étranger
+		- Baisse de la conso -> Baisse du commerce international
+
 => Crises en [[Front populaire|Europe]] et en [[Crise en Amérique latine|Amérique latine]]
-				=> Commerce international ralentit (baisse des importations)
-					- Baisse des prix => Déflation
-					- Chômage de masse
-					- Surproduction agricole et industrielle
+=> Commerce international ralentit (baisse des importations)
+	- Baisse des prix => Déflation
+	- Chômage de masse
+	- Surproduction agricole et industrielle
 Les états tentent de réagir mais leurs [[Réponses à la crise de 1929|réponses]] sont inadaptées
 
+## Conclusion
+- Quelles sont les conséquences de la crise de 1929 ?
+	- Des csqces éco, sociales et politiques
+	- Csqces éco très graves menant à récession puis dépression
+	- Csqces sociales dramatiques (chômage de masse)
+	- Dépression, contexte économique qui contribue à expliquer des évènements pol fondamentaux
+	- Montée des régimes autoritaires dans le monde et en réaction émergence d'Etats providence (USA/France)
 #Crise_1929
