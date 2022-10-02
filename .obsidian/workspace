@@ -7,12 +7,8 @@
         "id": "2b74e4120928a7ab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philosophie/La liberté de penser n'est-elle que le droit d'exprimer ses opinions.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/La liberté de penser n'est-elle que le droit d'exprimer ses opinions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/La liberté de penser n'est-elle que le droit d'exprimer ses opinions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophie/La liberté de penser n'est-elle que le droit d'exprimer ses opinions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b74e4120928a7ab",
+  "active": "172cab7646a7f876",
   "lastOpenFiles": [
     "Philosophie/La liberté de penser n'est-elle que le droit d'exprimer ses opinions.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.1 - L'impact de la crise de 1929/Lexique de la crise.md",
