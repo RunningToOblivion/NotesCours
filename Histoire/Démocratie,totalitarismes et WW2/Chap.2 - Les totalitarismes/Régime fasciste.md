@@ -12,7 +12,7 @@
 				- Bourgeoisie italienne (industrielle au Nord, agricole au Sud) prend peur -> se jette dans les bras de l'extrême droite fasciste montante menée par [[Benito Mussolini ]] 
 				- extrême droite constituée de groupes paramilitaires nationalistes d'anciens combattants (Arditi). Ces groupes sont appellés des Squadra et leurs membres les Squadristes.
 	2. La mise au pas de l'Italie
-		- Au début, Mussolini fait patte blanche en tant que Premier Ministre -> Règle délimitation de l'Etat pontifical en créant le Vatican
+		- Au début, Mussolini fait patte blanche en tant que Premier Ministre (après 1922) -> Règle délimitation de l'Etat pontifical en créant le Vatican
 		- Mais rapidement Mussolini se discrédite par violence qu'il exerce
 		- Police politique : l'OVRA -> intimidation ou passage à tabac d'oppposants politiques
 		- Aidée par groupes paramilitaires : les faisceaux de combat
@@ -24,14 +24,15 @@
 		- Régime fasciste est un régimme totalitaire de droite
 		- Contre la démocratie, le pacifisme et le communisme
 		- Pour une société encadrée par l'Etat et par un parti unique
-		- Pour corporatisme, impérialisme, nationalisme et patriotisme
+		- Pour corporatisme, impérialisme, nationalisme (nation italienne considérée comme supérieure aux autres) et patriotisme
 		- Volonté de créer un homme nouveau bon père, bon mari et bon soldat
 		- Idéologie contre l'individualisme et veut que l'Etat soit au-dessus de la société et domine le peuple
 		- Contre la démocratie libérale -> pas de partis
 		- Belliciste
-		- Impérialisme se manifeste par volonté de conquêtede l'Ethiopie et de restaurer l'Empire Romain
+		- Impérialisme se manifeste par volonté de conquête de l'Ethiopie et de restaurer l'Empire Romain
 		- Corporatisme = Conception de la société qui associe patrons et ouvriers dans les mêmes intérêts
 		- Economie : interventionnisme étatique -> "batailles économiques" -> "guerre du blé" pour augmenter prod agricole
+		- Idéologie agressive -> "Croire, obéir, combattre"
 		- Mise en pratique de l'idéologie se fait par les Lois Fascistissimes qui limitent libertés individuelles, instituent le régime fasciste, affirment l'abandon de la pratique démocratique (parti unique), qui abandonnent l'Etat de droit et mettent en place un pouvoir universel
 	2. Encadrement, adhésion et culte de la personnalité
 		- Organisations de jeunesse : Gioventu Italiana del Littorio (Jeunesse italienne du licteur)
@@ -46,7 +47,7 @@
 		- Culte de la personnalité :
 			- Tous les médias et artistes sont aux ordres du pouvoir
 			- Description d'un chef autoritaire, viril, énergique et puissant physiquement
-				- Organise de grands rassemblements de propgnde (comme les rassemblements de SS sous le [[régime nazi]])
+				- Organise de grands rassemblements de propagande (comme les rassemblements de SS sous le [[régime nazi]])
 		- Adhésion :
 			- Société italienne est peu totalisable et résiste à l'embrigadement
 			- Raison : contrepoids culturel et social de l'église et de la tradition et influence de la mafia + différences régionales très marquées empêchent centralisation
@@ -54,6 +55,7 @@
 			- Enfin ,conquête de l'Ethiopie très difficile avec bcp de pertes et armée faible (se fait repousser en Grèce) -> image du leader encore affaiblie
 3. L'usage de la violence
 	- Police politique : L'OVRA :
+		- Surveille la population
 		- pourchasse opposants politiques
 		- torture et arrête sans contrôle de la justice
 		- envoie au bagne dans les îles Lépari
