@@ -49,3 +49,50 @@
 			- Konrad Adenauer (CDU : droite) -> maire de Cologne -> emprisonné car opposé au régime -> deviendra chancelier à la fin de la guerre -> signe traité de réconciliation de l'Allemagne et de la France en 1963
 			- Willy Brandt (SPD:gauche) -> chancelier rentré dans la clandestinité -> dirige l'All. après Adenauer et rapproche les deux Allemagnes avec "die Ostpolitik"
 		- Quand les échecs ont commencé à s'accumuler, Allemands se sont détachés, notamment armée -> Complot de Von Staffenberg me 20 juillet 1944 pour tuer Hitler -> échoue -> purge des officiers supérieurs dans l'armée
+3. L'exercice de la terreur
+	1. Les cibles
+		- Première cibles : Les Juifs sont peu à peu exclus par des lois antisémites puis persécutés
+		- Problème se pose : On ne peut pa reconnaître un Juif -> Loi de 1933 définit un Aryen comme celui qui n'a aucun de ses 4 grands-parentss juifs
+		- Exclusion :
+			- 1933: Boycott des boutiques juives
+			- 1933 : Exclusion des juifs de la fonction publique
+			- **15 septembre 1935** : Lois de Nuremberg :
+				- Excluent les juifs de la citoyenneté
+				- Interdiction du mariage entre Juifs et Allemands
+				- Les Juifs n'ont pas le droit d'employer comme femme de ménage une femme allemande de moins de 45 ans (car risque qu'elle devienne maîtresse de son patron)
+				- Interdiction des Juifs de hisser le drapeau nazi
+			- **Juillet-novembre 1938** : 
+				- Interdiction aux Juifs d'être médecins
+				- Interdiction aux Juifs d'être artisan ou de tenir un magasin
+				- Interdiction aux Juifs d'être à la tête d'une entreprise
+				- -> Exclusion économique
+				- Exclusion des Juifs de la vie sociale et culturelle "Interdiction d'assistance aux manifestations culturelles"
+		- 2eme cible : Handicapés -> eugénisme -> On assassine 200 000 handicapés et on en stérilise 400 000
+			- Aussi les "Reichsbastard" -> ceux nés d'union entre troupes coloniales françaises qui occupaient la Ruhr et femmes allemandes
+		- 3e cible : Homosexuels -> persécutés puis déportés dans les camps de concentration
+		- 4e cible : Opposants politiques ->Enlevés, torturés, emmenés dans les camps
+			- Par exemple, dirigeants communistes arrêtés en 1933 -> déportés à Dachau -> continuent à résister depuis le camp -> abattus par les SS 10 ans après car ils voulaient faire place nette après la débâcle
+	2. Les outils
+		- Police politique : Geheime Staat Polizei (Gestapo
+		- Groupe para-militaire : SA (Sturm Abteilung : Section d'Assaut), les "tuniques brunes" -> éliminés car trop de gauche lors de la Nuit des Longs Couteaux
+		- Camp de concentration :
+			- Ouverts dès 1933
+			- Dachau
+			- Buchenwald (à côté de Weimar)
+			- Là où on envoie tous les "déviants"
+			- Dirigée par une section des SS, les "Totenkopf" (tête de mort) qui dirigeront ensuite les camps d'extermination
+	3. La nuit de cristal
+		- **9-10 novembre 1938**
+		- Contexte :
+			- Politique antisémite du Reich -> octobre 1938 : 16000 juifs polonais sont arrêtés en All. et convoyés jusqu'à la frontière polonaise
+			- 7 novembre 1838 : Attentat à Paris sur un diplomate allemand en réponse à l'arrestation des juifs polonais commis par un juif polonais => Nazis profitent de cet attentat pour provoquer un pogrom
+		- La Nuit de Cristal :
+			- Les SA, SS et militants nazis y participent
+			- Le Reich esperait que les habitants y participent mais ils ne le font pas
+			- Vitrines des magasins sont détruites -> Débris donnent son nom à la Nuit de Cristal
+			- Destruction des magasins et appartements des Juifs
+			- 91 Juifs assassinés, beaucoup de blessés, on emprisonne et  on torture
+			- 30 000 Juifs sont déportés
+		- Les conséquences :
+			- **12 novembre 1938** : Contribution d'un milliard de Reichmarks imposée aux Juifs
+			- De nombreux Juifs émigrent en France ou aux USA
