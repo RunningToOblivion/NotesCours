@@ -1,6 +1,7 @@
 # Régime totalitaire
 
 Un régime autoritaire qui a pour but le contrôle total de la société
+Idéocraties -> Régimes où le pouvoir se met au service de l'idéologie
 
 En opposition avec :
 - Démocratie libérale : Régime qui repose sur les libertés individuelles (d'expression, de conscience,...) et collectives (syndicales,de la presse) et dans laquelle la vie politique repose sur des élections régulières et transparentes et le multipartisme.
