@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fdfa9572c2c2059b",
+        "id": "03fd38807ec7df3a",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Philosophie/Correction Dissert Philo _Liberté de penser n'est-elle que droit d'exprimer ses opinions __.md",
+=======
+                "file": "Philosophie/correction_dissert_philo.md",
+>>>>>>> 5757d1b480ffaf3c4b8be8aa234fa473c69bbddc
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Philosophie/Correction Dissert Philo _Liberté de penser n'est-elle que droit d'exprimer ses opinions __.md",
+=======
+                "file": "Philosophie/correction_dissert_philo.md",
+>>>>>>> 5757d1b480ffaf3c4b8be8aa234fa473c69bbddc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Philosophie/Correction Dissert Philo _Liberté de penser n'est-elle que droit d'exprimer ses opinions __.md",
+=======
+                "file": "Philosophie/correction_dissert_philo.md",
+>>>>>>> 5757d1b480ffaf3c4b8be8aa234fa473c69bbddc
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Philosophie/Correction Dissert Philo _Liberté de penser n'est-elle que droit d'exprimer ses opinions __.md"
+=======
+                "file": "Philosophie/correction_dissert_philo.md"
+>>>>>>> 5757d1b480ffaf3c4b8be8aa234fa473c69bbddc
               }
             }
           }
@@ -137,17 +153,20 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "7b1f33974f5ae4a9",
   "lastOpenFiles": [
-    "EMC/La protection des libertés individuelles et collectives au sein de l'Etat de droit.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Benito Mussolini.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Grande Terreur.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime totalitaire.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Les conséquences des totalitarismes sur l'équilibre européen.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Marxisme.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Grande Terreur.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime fasciste.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Nuit de cristal.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime nazi.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Staline.md",
+    "Untitled.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime soviétique.md",
-    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime totalitaire.md"
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Benito Mussolini.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Nuit de cristal.md"
   ]
 }
