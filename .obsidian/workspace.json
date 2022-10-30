@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "46274dcf014347fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a4fba866857ef77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae19a391a75b389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Correction Dissert Philo \"Liberté de penser n'est-elle que droit d'exprimer ses opinions ?\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea02db4aa85e9ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f2e2e16bde8358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "172cab7646a7f876",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc96ed0eed9456d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2783e7d6a386a555",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b7c1eab53bf3790",
+    "type": "split",
+    "children": [
+      {
+        "id": "63d5e064a972029b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32f421f8f9d00d07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Correction Dissert Philo \"Liberté de penser n'est-elle que droit d'exprimer ses opinions ?\".md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "53df0e1656195fd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Correction Dissert Philo \"Liberté de penser n'est-elle que droit d'exprimer ses opinions ?\".md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4b8c5c20959282c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8009f7d98f6414c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Correction Dissert Philo \"Liberté de penser n'est-elle que droit d'exprimer ses opinions ?\".md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3ae19a391a75b389",
+  "lastOpenFiles": [
+    "Correction Dissert Philo \"Liberté de penser n'est-elle que droit d'exprimer ses opinions ?\".md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime totalitaire.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Les conséquences des totalitarismes sur l'équilibre européen.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Grande Terreur.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime fasciste.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime nazi.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Staline.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Régime soviétique.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Benito Mussolini.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap.2 - Les totalitarismes/Nuit de cristal.md"
+  ]
+}
