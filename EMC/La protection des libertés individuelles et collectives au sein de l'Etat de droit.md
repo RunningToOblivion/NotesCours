@@ -1,0 +1,16 @@
+
+- Comment on la protège ? (Attention : Partout) -> Vincent
+	- Organisations
+	- constitution
+	- Traités, dont traités européens -> attaque état français
+	- Lois
+	- Séparation des pouvoirs permet etat de droit -> pas de pouvoir arbitraire
+ - Point de vue historique ? -> Moi, à faire après 3e partie
+	- DDHC
+	- Libertés collectives
+	- Libertés individuelles
+- Arrive-t-on à la protéger ? -> Moi
+	- Etat d'urgence
+	- Vigipirate
+	- Covid
+- Pas
