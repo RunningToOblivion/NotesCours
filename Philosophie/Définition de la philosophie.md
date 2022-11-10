@@ -25,6 +25,7 @@ Objectif philosophe:
 	- Augmenter qualitativement son savoir
 	- = Se débarasser des préjugés et des fausses connaissances pour comprendre [[Origine-Fondements|origine et surtout fondements]]
 	- Pas avancer mais faire retour sur connaissances pour s'interroger sur leur valeur sur plan théorique et pratique
+	- PS : Un scientifique peut avoir une attitude philosophique (cf Copernic) mais philosophe n'a QUE cette démarche
 
 La philo est activité de réfléxion, elle réexamine le savoir -> Savoir du second degré
 
@@ -40,6 +41,17 @@ Représenter les choses = pensée
 Philo consiste à rééxaminer -> on peut considérer que c'est une activité qui consiste à penser par soi-même
 
 [[Peut-on penser par soi-même|Cours sous forme de dissertation]]
+
+## Pourquoi la philosophie
+
+"philosophie" -> désigne l'ensemble du savoir
+
+Analyse du terme "Pourquoi"
+-> Cause finale (Finalité)
+-> Cause antérieure
+-> A quoi bon ? dans le sens commun
+
+[[pourquoi_philosopher_aristote|cf texte d'aristote]]
 
 
 

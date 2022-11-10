@@ -44,5 +44,5 @@ Plan :
 	3.  La liberté d'expression doit d'abriter du jugement du grand public, dans le domaine de la recherche comme de la création
 		- Dans le domaine scientifique, un seul a souvent eu raison contre tous
 		- Dans le domaine de la recherche comme de la création esthetique, production ne fait pas l'unanimité voire peut venir heurter la conscience du grand public parce qu'on ne les comprend pas -> la vraie culture ne peut pas s'arrêter à ce que le grand public reconnaît immédiatement comme valable -> vraies idées et vraies oeuvres se font à l'abri du public (ateliers, laboratoires)
-		- Ce sont de vraies idées et de vraies ouvrers qui prepareront la culture genrale de l'homme de demain et sera une veritable condtion de la libération de la pensée.
+		- Ce sont de vraies idées et de vraies oeuvres qui prepareront la culture generale de l'homme de demain et sera une veritable condtion de la libération de la pensée.
 
