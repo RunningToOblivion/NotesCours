@@ -55,4 +55,5 @@ Ramener le désordre des phénomènes naturels à l'ordre de la rationnalité.
 Exemple: "Loi de la nature" permet de ramener la nature à la rationnalité, à une loi.
 L'homme ne survit dans la nature que grâce à l'artificiel
 Pour pouvoir commander la nature, il faut d'abord en connaître les lois
+
 Question : Ou trouve-t-on les lois de la nature ?

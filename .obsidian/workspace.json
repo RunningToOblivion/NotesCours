@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md",
+                "file": "Philosophie/pourquoi_philosopher_aristote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec11fb77c2b3df4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md",
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md",
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md"
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99923161ac98df92",
+  "active": "172cab7646a7f876",
   "lastOpenFiles": [
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/flux de carbone.md",
+    "Philosophie/pourquoi_philosopher_aristote.md",
+    "Philosophie/Raison.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md",
+    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/flux de carbone.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Hydrosphère.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/O2.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Atmosphère.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Chondrites.md",
     "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Couche d'ozone.md",
-    "EMC/La protection des libertés individuelles et collectives au sein de l'Etat de droit.md",
-    "Philosophie/Peut-on penser par soi-même.md",
-    "Philosophie/pourquoi_philosopher_aristote.md"
+    "EMC/La protection des libertés individuelles et collectives au sein de l'Etat de droit.md"
   ]
 }
