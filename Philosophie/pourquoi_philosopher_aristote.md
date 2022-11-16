@@ -58,7 +58,6 @@ Pour pouvoir commander la nature, il faut d'abord en connaître les lois
 
 Question : Ou trouve-t-on les lois de la nature ?
 
-## 2e mouvement :
 Aristote dit qu'aimer les mythes c'est se montrer philosophe :
 - Etonnant : c'est grâce au miracle grec que l'on est entré dans l'ère de la philosophie occidentale : les philosophes renoncent à l'interprétation mythico-religieuse au profit de la rationnalité -> rapprochement étonnant -> quel est le dénominateur commun entre le mythe et la philo
 - -> Le mythe comme la philos sont des activités qui résultent d'un étonnement et ont une  intention de <u>signifier</u>, de rendre familier ce qui ne l'est pas, et ainsi rapprochent le réel et l'homme
@@ -82,6 +81,50 @@ Exemple que la science n'est que discours : Descartes a l'intuition que le sang 
 
 On peut avoir une certaine connaissance de la nature mais on ne connaîtra jamais la nature de la nature -> espace pour la croyance
 
+Vérité est l'adéquation des choses et du jugement qu'on porte sur elles. Vrai n'est pas propriété des choses mais propriété du jugement. Réalité est propriété des choses.
+
+Le réel est l'ensemble des choses qui existent
+
+La science a l'aĝe de ses instruments de mesure, pas de connaissance absolue possible
+
+## 2e mouvement : Aristote insiste sur le caractère désintéressé de la philosophie
+
+L'homme peut se consacrer uniquement à la connaissance sans intérêt immdiat
+Cette activité nous rappelle que la conscience de l'homme a la capacité de se situer en dehors de la sphère des besoins, de l'immédiateté
+
+"Ce qui s'est passé en fournit la preuve" : prouve sa thèse à l'aide du passé
+-> Philo est désintéressée, inutile car tout ce qui était utile à la conservation était déjà connu quand on a commencé à la pratiquer -> philo est inutile
+
+Pour autant, activité désintéressée n'exclut pas qu'elle soit essentielle, càd qu'elle renvoie à essence de l'homme -> Si l'homme ne se donnait pour fin que conservation, il aurait pu renoncer à la philo, or il n'y  renonce pas après satisfaction de tous ses besoins -> il ne se satisfait pas seulement de répondre à ses besoins, il dépasse la sphère physique, des besoins -> c'est un animal métaphysique (cf texte de Stuart Mill, porc satisfait vs socrate insatisfait)
+
+Pour autant, cette activité désintéressée n'exclut pas le fait qu'elle puisse avoir des retombées prattiques -> activité essentielle bien qu'inutile et intéressante bien que désintéressée peut avoir des retombées pratiques -> recherche scientifique désintéressée est à l'origine de nombreux outils qui améliorent notre vie.
+Exemple : Pascal et Torricelli découvrent la pression atmosphérique par la recherche fondamentale qui sera utilisée par les fontainiers de Florence pour faire monter l'eau plus haut -> retombée pratique.
+Exemple : Decouverte  des ondes électromagnétiques appliquée aux micro-ondes
+C'est en recherche fondamentale que les découvertes sont à l'origine des outils les plus performants.
+
+On considère comme enrichissant ce qui a de la valeur dans un échange.
+On a tendance même tout petit, à vouloir flouer l'autre 
+L'échange réussi est l'échange de biens à valeurs égales dans le meilleur des cas et dans le pire des cas, quand l'un a réussi à flouer l'autre mais le meilleur échange est celui qui repart convaincu d'avoir floué l'autre.
+En vérité, l'échange vraiment intéressant est l'échange culturel.
+Exemple : Echange linguistique, ...
+
+(Digression : La politique ajd ne fait plus rêver, les politiques tiennent un discours technocratique avec des chiffres alors que l'humain doit pouvoir envisager une avenir, ce qui n'implique pas qu'il se fasse des illusions)
+
+Il n'en reste pas moins vrai que désir de savoir  n'est subordonné à rien d'autre quer lui-même -> la philosophie ne doit servir à rien mais ne doit aussi rien servir (-> elle ne doit pas être utilisée à des fins politiques ou religieuses par exemple, ne doit pas être partisane, doit examiner toutes les perspectives possibles en évincant celles qui ne s'accorderaient pas avec la loi de la raison)
+
+Sophia = Savoir ET Sagesse -> dimension théorique et pratique
+
+Mouvement s'achève par une analogie -> Philosophie est comme l'homme libre(qui est en lui-même le moteur de son action) , qui n'a d'autre fin que lui-même et ne doit être soumis à rien d'autre que lui-même, philosophie est une activité libérale.
+
+Obligation a pour fin notre propre intérêt alors que la contrainte a généralement une autre fin que notre propre intérê (exemple : on peut vivre l'obligation d'aller à l'école comme une contrainte même si cette obligation  a pour but notre émancipation)
+
+La philosophie est à elle-même sa propre fin, ce qui lui assure de n'être l'esclave de rien, càd le moyen de rien
+
+Aussi la philosophie doit consister avant toute chose à se libérer de tout ce qui pourrait venir entacher l'exercice autonome du jugement
+
+La raison, cet outil sur lequel la philosophie s'appuie, ne semble n'avoir dans un premier temps pour fin que la connaissance du réel. elle est bien cette activité qui tente de réduire la distance entre nous et le réel qui ne nous est pas familier
+
+Connaître, c'est faire que ce qui nous est opaque et étrange devienne transparent et familier
 
 
 
