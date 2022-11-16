@@ -1,3 +1,5 @@
+## Réflexion personnelle
+
 Comment -> Par quelles méthodes
 
 Sait -> pas subjectif, connaissance objective
@@ -12,3 +14,5 @@ De plus, empirisme permet de vérifier des faits, qui ne sont pas démontrables 
 
 Moments où on ne peut pas savoir si on a raison -> Croyance en Dieu
 Connaissance absolue de la véracité de nos savoirs est impossible -> pensée entre nous et les choses + pensée est piégée dans ses axiomes, si les axiomes sont faux, et ils peuvent l'être car l'évidence n'est pas forcément vraie, alors la pensée qui en découle sera fausse
+
+## Cours

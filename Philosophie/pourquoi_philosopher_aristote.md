@@ -32,7 +32,7 @@ Enjeu de ce texte : Aristote donne une définition de l'homme comme animal qui n
 
 Analyse du texte :
 
-Premier moment : Répond à la question de savoir pourquoi la philosophie au sens de la cause antérieure
+## Premier moment : Répond à la question de savoir pourquoi la philosophie au sens de la cause antérieure
 
 Texte dit que ce qui est à l'origine de la philosphie c'est l'étonnement (cf Jeanne  Hersch : L'étonnement)
 
@@ -57,3 +57,32 @@ L'homme ne survit dans la nature que grâce à l'artificiel
 Pour pouvoir commander la nature, il faut d'abord en connaître les lois
 
 Question : Ou trouve-t-on les lois de la nature ?
+
+## 2e mouvement :
+Aristote dit qu'aimer les mythes c'est se montrer philosophe :
+- Etonnant : c'est grâce au miracle grec que l'on est entré dans l'ère de la philosophie occidentale : les philosophes renoncent à l'interprétation mythico-religieuse au profit de la rationnalité -> rapprochement étonnant -> quel est le dénominateur commun entre le mythe et la philo
+- -> Le mythe comme la philos sont des activités qui résultent d'un étonnement et ont une  intention de <u>signifier</u>, de rendre familier ce qui ne l'est pas, et ainsi rapprochent le réel et l'homme
+- -> C'est exactement ce qu'on fait quand on énonce les lois de la nature -> on signifie les phénomènes naturels
+
+Le réel est l'ensemble des choses qui existent, elles ne nous sont pas familières immédiatement -> L'etonnement vise à réduire la distance entre ce qui est connu, moi et ce qui n'est pas connu, tout ce qui n'est pas moi
+Se trouve particulièrement dans la démarche scientifique
+
+Question : Que sont les lois de la nature ?
+Les lois de nature ont comme condition l'existence de l'homme -> elles sont en l'homme et non dans les choses
+
+Les lois de la nature sont qqchose de vrai à propos de la nature
+Or ce qui est vrai est ce qui est énoncé
+Les lois de la nature sont une manière de faire correspondre le réel avec sa raison
+L'homme assoit son pouvoir sur le réel par la science mais la science n'est qu'un discours sur les choses, la preuve les théories scientifiques sont sans cesse modifiées.
+
+Vrai = adequatio rei et intellectus -> l'accord des choses avec ce qu'on en dit
+Si mon jugement s'accorde avec les choses, ce que je dis est vrai. Sinon, ce que j'en dis est faux
+
+Exemple que la science n'est que discours : Descartes a l'intuition que le sang circule, ce qui s'accorde avec les choses, mais pense que ce sont des esprits animaux qui transportent le sang, ce qui est faux.
+
+On peut avoir une certaine connaissance de la nature mais on ne connaîtra jamais la nature de la nature -> espace pour la croyance
+
+
+
+
+
