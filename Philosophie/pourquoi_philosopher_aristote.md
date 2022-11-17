@@ -126,6 +126,8 @@ La raison, cet outil sur lequel la philosophie s'appuie, ne semble n'avoir dans 
 
 Connaître, c'est faire que ce qui nous est opaque et étrange devienne transparent et familier
 
+## Concl
 
+La science utilise la raison pour se rapprocher du réel: Mais alors, [[La raison n_a t_elle pour fin que la connaissance du réel | La raison n'a-t-elle pour fin que la connaissance du réel ?]]
 
 
