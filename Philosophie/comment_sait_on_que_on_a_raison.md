@@ -34,3 +34,30 @@ III/ On ne peut pas prouver la véracité de ses théories sur tous les sujets
 	1. Religion, quand sujet dépasse l'entendement il est impossible de savoir si on a raison ou tort
 	2. Connaissance au final n'est que relative à notre perception, notre esprit est entre nous et les choses, c'est pourquoi nous ne pouvons connaître ce que nous ne percevons pas :  nous sommes par exemple incapables d'imaginer une nouvelle couleur.
 	3. La science a l'âge de ses instruments et ne fait que construire un "projet" plutôt que de réellement connaître la nature de la chose.
+
+## Correction
+
+L'expression "je sais que j'ai raison" s'utilise dans le domaine scientifique, moral ou  esthétique
+Pour savoir si l'on a raison, on s'appuie sur des critères
+
+Le problème est donc "Sur quoi est-ce que je m'appuie pour affirmer que j'ai raison ou tort ?"
+Question nous mène à déterminer des critères sur lesquels on s'appuie
+
+SI on s'appuie sur le préjugé on ne fait que croire ou penser que j'ai raison car préjugé est certitude subjective
+Certitude subjective est le prermier critère que l'on utilise pour dire qu'on a raison.
+Ce critère s'appuie sur des connaissances qui ne s'applioquent qu'à moi donc ce critère n'est pas valable
+Il faut passer d'une certitude subjective à une certitude objective
+
+Une certitude subjective n'est qu'une opinion
+Une opinion peut être une vérité : les opinions dites "droites" s'accordent par accident avec la vérité
+Pour passer d'une certitude subjective à une certitude objecitve, il faut prouver mon opinion grâce à la science.
+Le seul critère valable pour dire que l'on a raison c'est la démonstration
+
+Dans l'absolu, je sais que j'ai raison quand je peux démonter. Le problème, c que la preuve devient impuissante face à qqun avec une certitude subjective. De plus, la démonstration a pour condition de possibilité l'indémontrable (donc si les axiomes sont faux la démonstration est fausse) et ce qui est démontré ajd peut être falsifié dans le futur
+
+1. La démonstration est la démarche pour savoir si on a raison
+	1. Preuves rationnelles
+	2. Preuves empiriques
+2. Mais certaines choses échappent à la démonstration : Celles qui influencent nos choix, donc celles qui sont les plus importantes -> On ne peut pas savoir si on a raison ou non
+
+
