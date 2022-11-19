@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01dbe3b81fd277e9",
+            "id": "f16560b08cdecb3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
+                "file": "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Le basculement et les contre-offensives des Alliés.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
+                "file": "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Le basculement et les contre-offensives des Alliés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
+                "file": "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Le basculement et les contre-offensives des Alliés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/comment_sait_on_que_on_a_raison.md"
+                "file": "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Le basculement et les contre-offensives des Alliés.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01dbe3b81fd277e9",
+  "active": "f16560b08cdecb3f",
   "lastOpenFiles": [
+    "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Les victoires de l'Axe.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Le basculement et les contre-offensives des Alliés.md",
+    "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/La seconde guerre mondiale.md",
     "Philosophie/comment_sait_on_que_on_a_raison.md",
     "Philosophie/correction_dissert_philo.md",
     "Philosophie/Définition de la philosophie.md",
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
     "Philosophie/Peut-on penser par soi-même.md",
-    "Philosophie/Raison.md",
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Histoire de la Terre.md",
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/flux de carbone.md",
-    "Enseignement Scientifique/Thème 1 - Science,climat et société/SVT/Chap.1 - L'atmosphère terrestre et la vie/Hydrosphère.md"
+    "Philosophie/Raison.md"
   ]
 }
