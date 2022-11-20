@@ -17,3 +17,16 @@
 	- [[Le basculement et les contre-offensives des Alliés|Les Alliés organisent une contre-offensive après 1942]]
 
 Problématique : En quoi la Seconde Guerre mondiale a-t-elle atteint des degrés de violence jamais connus ?
+
+La WW2 est une [[La Guerre d_anéantissement|guerre d'anéantissement]]
+
+## Conclusion
+
+Violence a des degrés jamais connus :
+- Guerre d'anéantissement
+- Bombardements stratégiques et nucléaires
+- Génocides (renforcés par progrès techniques)
+
+L'occident s'interroge sur sa croyance d'être la civilisation la plus évoluée
+Remise en question de cette place par les intellectuels -> Albert Camus
+Contradiction de l'Allemagne : pays fasciné par la Kultur qui est capable d'atteindre des degrés de barbarie jamais vus

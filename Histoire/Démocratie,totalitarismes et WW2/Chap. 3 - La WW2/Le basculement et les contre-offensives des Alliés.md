@@ -71,7 +71,7 @@ Novembre 1943 : Staline, Churchill et Roosevelt se retrouvent à Téhéran :
 ## Le débarquement en Normandie
 
 Se déroule le 6 juin 1944
-Quand offensive de l'URSS engrange les victoires, USA et UK décident l'assaut par esprit de compétition
+Quand l'URSS engrange les victoires, USA et UK décident l'assaut par esprit de compétition
 
 Plus grande opération militaire de l'histoire :
 - 7000 bateaux
@@ -86,3 +86,29 @@ Débarquement est une réussite logistique
 - Exemple : Les Américains emportent des ports en kit à construire en Normandie car tous les ports qui auraient pu accueillir les bateaux étaient défendus par les Allemands
 
 Choix du débarquement en Normandie vient du fait que bunkers n'étaient pas nombreux car Mur de l'Atlantique était encore en construction ici -> Allemands avaient préféré fortifier ports et villes proches de l'Angleterre
+
+Déroulement :
+- Après bombardement pour racturer les défenses allemandes, début du débarquement -> s'étend sur 80km de côtes
+- Plus connue est Omaha Beach car bombardements étaient tombés trop loin -> Allemands ont pu attaquer les soldats -> Bcp de morts
+
+6 juin est devenu symbole de démocraties se battant pour la liberté -> Célébration instaurée par Ronald Reagan qui veut attiser la flamme patriotique
+- Mais front de l'Est est plus important dans la défaite allemande
+
+62% des officiers américains se demandaient si la guerre devait être livrée
+Seuls 18% des soldats voulaient anéantissement du Reich alors que 70% voulaient celui du Japon
+
+6 juin sert à balayer sous le tapis les moments moins glorieux de l'histoire de la guerre et à attiser l'orgueil national
+
+PS : Un débarquement en Provence suivra le 15 août pour prendre les Allemands à revers
+
+## L'opération Bagration
+
+- Nom vient d'un général tsariste qui a combattu l'armée de Napoléon
+- Se déroule du 22 juin (anniversaire de opération Barbarossa) au 19 août 1944
+- Se déroule sur le front Est
+- Armée soviétique bien plus nombreuse que armée allemande car Allemagne occupée à gérer le débarquement
+- Blitzkrieg foudroyante par les Russes : avions + blindés
+- Grand succès
+	- Territoire libéré très étendu
+	- 300 000 morts et 150 000 prisonniers chez les Allemands -> Victoire psychologique essentielle
+- Quasiment tout le territoire soviétique va être reconquis, ils s'arrêtent aux portes de Varsovie
