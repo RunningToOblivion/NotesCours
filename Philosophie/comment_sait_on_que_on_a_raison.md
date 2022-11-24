@@ -53,11 +53,18 @@ Une opinion peut être une vérité : les opinions dites "droites" s'accordent p
 Pour passer d'une certitude subjective à une certitude objecitve, il faut prouver mon opinion grâce à la science.
 Le seul critère valable pour dire que l'on a raison c'est la démonstration
 
-Dans l'absolu, je sais que j'ai raison quand je peux démonter. Le problème, c que la preuve devient impuissante face à qqun avec une certitude subjective. De plus, la démonstration a pour condition de possibilité l'indémontrable (donc si les axiomes sont faux la démonstration est fausse) et ce qui est démontré ajd peut être falsifié dans le futur
+Dans l'absolu, je sais que j'ai raison quand je peux démontrer. Le problème, c'est que la preuve devient impuissante face à qqun avec une certitude subjective. De plus, la démonstration a pour condition de possibilité l'indémontrable (donc si les axiomes sont faux la démonstration est fausse) et ce qui est démontré ajd peut être falsifié dans le futur
 
 1. La démonstration est la démarche pour savoir si on a raison
 	1. Preuves rationnelles
 	2. Preuves empiriques
 2. Mais certaines choses échappent à la démonstration : Celles qui influencent nos choix, donc celles qui sont les plus importantes -> On ne peut pas savoir si on a raison ou non
+3. Quelles sont les procédures qui vont nous permettre de faire le meilleur choix possible ?
+
+Digression : Quelles sont les procédures, les modèles qui nous permettent de conduire de notre raison dans le domaine pratique (quoique démonstration a une faille : elle est basée sur l'indémontrable, sauf le cogito ergo sum "dubito, ergo, cogito, ergo  sum" (Je doute donc je pense donc je suis). Autre formulation plus juste "dubito;cogito;sum" -> Le fait de savoir qu'on est lorsqu'on doute est une intuition, une vérité immédiate, qui ne doit pas être déduite) -> cogito ergo sum est une vérité qui n'a pas besoin d'être démontrée pour être certaine or démonstration repose sur l'indémontrable (système hypothético-déductif) -> volonté de Descartes est de refonder en raison notre système du savoir, fait table rase de ses préjugés -> il dit "SI nous voulons atteindre à des vérités certaines dans le domaine de la science, n'adhérons qu'à des principes qui s'imposent avec évidence à l'esprit" -> Cogito est un modèle de ce raisonnement, veut dire qu'il existe des vérités innées) -> Malheureusement, il existe très peu de vérités de cette sorte -> Cogito est révolutionnaire car il montre qu'il y a des vérités innées au sein de l'esprit humain -> Connaissance est possible
+
+Sur plan politique, cogito est aussi révolutionnaire (Tocqueville dit des révolutionnaires que ce sont des cartésiens descendus dans la rue) -> il inaugure le fait que le sujet, le "Je" qui pense est bien l'auteur de ses pensées et de ses actions -> c'est ce qu'affirme les révolutionnaires, ils veulent être les auteurs de leur histoire
+
+Selon Descartes, l'existence de Dieu est évidente car l'homme peut imaginer la perfection alors qu'il est imparfait, c'est donc un être parfait qui lui a mis en tête
 
 

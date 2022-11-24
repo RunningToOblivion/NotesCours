@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/correction_ds_descartes.md",
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/correction_ds_descartes.md",
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/correction_ds_descartes.md",
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/correction_ds_descartes.md"
+                "file": "Philosophie/comment_sait_on_que_on_a_raison.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "172cab7646a7f876",
+  "active": "dcbe65dbd149ac53",
   "lastOpenFiles": [
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+    "Philosophie/correction_dissert_philo.md",
+    "Philosophie/correction_ds_descartes.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/La Guerre d_anéantissement.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/La seconde guerre mondiale.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Le basculement et les contre-offensives des Alliés.md",
     "Histoire/Démocratie,totalitarismes et WW2/Chap. 3 - La WW2/Les victoires de l'Axe.md",
     "Philosophie/comment_sait_on_que_on_a_raison.md",
-    "Philosophie/correction_dissert_philo.md",
     "Philosophie/Définition de la philosophie.md",
-    "Philosophie/pourquoi_philosopher_aristote.md",
-    "Philosophie/Peut-on penser par soi-même.md"
+    "Philosophie/pourquoi_philosopher_aristote.md"
   ]
 }
