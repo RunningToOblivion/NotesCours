@@ -12,7 +12,7 @@ Plan :
 
 1. La raison a pour fin le savoir
 2. Fin technique (sans connaissance de la nature, pas possible d'assoir son pouvoir sur la nature) -> Pouvoir
-3. morale -> Devoir (même si certaines choses sont possibles, nous ne devons pas nécessairement les faire)
+3.Pouvorir ne peut se faire sans dimension morale -> Devoir (même si certaines choses sont possibles, nous ne devons pas nécessairement les faire)
 
 Accorder des droits aux animaux -> Example corrida : on en peut pas les bouffer si on leur accorde des droits
 Si on leur accorde des droits -> quels devoirs peut-on leur demander ?
@@ -50,6 +50,51 @@ Kant dit que toutes les langues doivent penser le Je même sans l'exprimer -> c'
 L'enfant commence par parler de lui à la 3e personne : c'est quand il commence à dire Je qu'il commence à penser
 )
 
+Plan renvoie à la notion de savoir (science), à celle de pouvoir (donc de technique) et de devoir -> notion en jeu est la raison mais trois autres notions sont engagées
+
+La raison permet à l'homme de se représenter le réel -> quelle est donc cette faculté qui nous permet d'atteindre à une vérité objective -> on peut dire que la recherche de la vérité peut être comprise comme la fin de la raison
+Il semble que  cette vérité représente le but le plus élevé de l'esprit humain
+Cependant, ceci est contredit par les faits -> nous ne faisons pas usage de la raison uniquement pour connaître, nous l'utilisons pour assoir un pouvoir sur les choses -> la raison a aussi  une fin pratique, pas que théorique, qui consiste à assoir sur les choses un pouvoir, à se rendre "comme maître et possesseur de la nature" (Descartes). Les techniques semblent être également des produits de la raison humaine et on pourrait aller jusqu'à dire que souvent le savoir est mis au service du pouvoir. Dans ce cas je ne peux pas réduire la raison à cette seule fonction théorique -> Comment articuler ces deux fins qui sont à priori antithétiques ? Existe-t-il une fin à laquelle la fin autant théorique que pratique serait subordonnée
+(Distinction savoir (connaissance désintéressée)/pouvoir assoir un pouvoir sur les choses)
+
+## Finalité théorique de la raison
+
+### 1) La raison comme faculté de connaissance
+
+On définit souvent l'homme comme un animal doué de raison -> On sait
+
+Esprit est somme de facultés :
+- Raison -> faculté de juger
+- Imagination
+- Mémoire
+- Sensibilité
+- Capacités qui sont éveillées par le langage
+
+On dit que l'homme est animal doué de raison car **chaque homme a été doté de la même quantité de raison** 
+Egalité des raisons est le fondement de l'égalité en droits, il n'y a pas d'homme incapable de penser
+Mais n'implique pas égalité des pensées, aucun homme ne vaut plus qu'un autre mais certaines pensées valent plus que d'autres :
+- Car certains conduisent mal leur raison
+- Et car certaines pensées ne sont pas fondées en raison : fruit de l'imagination ou de la sensibilité
+
+La conscience est une activité de penser, conscience et penser sont la même chose
+Conscience est une activité qui me fait savoir que je pense -> raisonner, imaginer, me rappeler,...
+Consiste à se représenter des choses, à avoir une pensée
+Homme peut se penser lui-même -> conscience de soi
+On privilégie dans le domaine des connaissances l'activité de conscience par la raison -> mais cela ne veut pas dire que la raison est le seul moyen de penser
+
+(Digression : Langue est la différence entre l'homme et l'animal malgré que certains animaux possèdent des moyens de communication (abeilles par ex. mais celles-ci ne peuvent que communiquer ce que la nature leur a prévu de communiquer : abeilles ne peuvent pas dire qu'une source de sucre est en-haut), animaux sont parfaits dans leur genre, il ne manque de rien pour sa conservation.)
+-> La conscience des animaux ne peut pas se réduire à la nôtre
+
+Si l'homme se définit par la conscience, alors la raison peut être comprise comme la forme la plus achevée de cette capacité de représentation qui est la nôtre et qui nous distingue du reste de la nature
+-> La conscience permet à l'homme de penser et pensée rationelle est la forme la plus achevée de la pensée quand il s'agit de connaître (Exemple: il vaut mieux lire un traité sur les émotions que de lire Phèdre)
+
+Cette capacité qu'a l'homme de se représenter à lui-même, c'est la conscience de soi. L'homme ne se contente pas de se représenter les choses, il sait que c'est lui qui se les représente. Il est capable de l'étendre au réel -> par la raison, l'homme est capable de concevoir le réel. Raison est ce qui rend possible une représentation objective du réel(<=> faire aparaître ce qui est ordonné, structuré dans le réel selon des lois).
+
+Le réel qu'étudie la science est une conception, une idée puisque le réel n'existe que tant que nous le pensons, c'est la conception que nous nous en faisons -> réel est une construction de l'esprit, on lui impose des modèles de pensée
+
+Lois ne sont pas des propriétés du réel
+
+Lois sont forcément fondées en raison car ce sont les seules lois que tous peuvent comprendre, seules lois objectives
 
 
 
