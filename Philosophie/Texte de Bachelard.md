@@ -17,16 +17,11 @@
 §3 :
  - De plus, contrairement à observation, expérimentation vient toujours après hypothèse, elle est nécessairement polémique car sa condition d'existence est l'hypothèse qu'elle veut tester
 - Expérimentation plus polémique que l'observation : Une observation est réfutable car subjective, tandis qu'une expérimentation standardisée et reproduisible par tous force l'accord car elle cesse d'être dépendante de l'individu
-- Cependant, Bachelard montre la faille de l'expérience : elle doit passer par des instruments, qui sont des "théories matérialisées"
+- De plus, le contrôle exercé par l'individu lors de l'expérience, qui la différencie de la simple observation, l'enferme plus encore dans la théorie. Bachelard le montre notamment par l'exemple des instruments : l'expérience doit passer par des instruments, qui sont des "théories matérialisées"
 - Instruments sont des théories matérialisées :
 	- Càd que les instruments utilisés dans l'expérience ne permettent une observation d'un certain phénomène qu'en utilisant une loi, donc une théorie : Pour observer les phénomènes spaciaux, les téléscopes optiques utilisent le modèle de comportement de la lentille convergente, qui est lui aussi une théorie (de Descartes)
-	- Les phénomènes supposés indéniablement vrai se retrouvent donc eux aussi touchés par la théorie
-- L'expérimentation est donc encore plus enfermée dans la théorie que l'observation car elle 
+	- Les phénomènes supposés indéniablement vrai se retrouvent donc eux aussi touchés par la théorie 
 
-Trois mouvements :
-- Bachelard montre comment la vérité scientifique n'est qu'un projet vérifié par l'observation humaine
-- Il poursuit ensuite en analysant le caractère polémique de l'observation scientifique : la vérité scientifique étant un projet et non une vérité objective, l'observation ne peut que confirmer ou infirmer une thèse antérieure ; la vérité scientifique ne peut être objective car la pensée est tjrs entre l'humain et les choses ("réfléchir avant de regarder")
-- Il analyse ensuite comment l'expérimentation renforce encore ce caractère polémique de l'observation scientifiue : les instruments utiisés pour standardiser les mesures ne font que renforcer l'emprise du projet sur l'observation
 
 # Introduction (!!! A refaire)
 
@@ -37,7 +32,7 @@ Thèse : La vérité scientifique n'est qu'un projet, une théorie, qui enferme 
 Plan : 
 Trois mouvements (1 par §):
 - Bachelard montre comment la vérité scientifique n'est qu'un projet vérifié par l'observation humaine
-- Il poursuit ensuite en analysant l'observation scientifique : la vérité scientifique 
-- Il analyse ensuite comment l'expérimentation renforce encore ce caractère polémique de l'observation scientifique : les instruments utiisés pour standardiser les mesures ne font que renforcer l'emprise de la théorie sur l'observation
-Enjeu :
+- Il poursuit ensuite en analysant l'observation scientifique : Celle-ci est supposée permettre de se rapprocher du réel en vérifiant la théorie scientifique. Cependant, pour ne pas faire d'erreurs, elle doit se doter de précautions qui forcent l'intrusion de la pensée dans l'observation et qui éloigne donc l'observation du réel. L'observation devient même polémique, càd qu'elle n'observe plus le réel tel qu'il est, mais ne fait que confirmer ou infirmer une théorie, ce qui l'enferme en qq sorte
+- Il analyse ensuite comment l'expérimentation est encore plus polémique que l'observation : les instruments utiisés pour standardiser les mesures ne font que renforcer l'emprise de la théorie sur l'observation
+Enjeu : (Pistes : Nouveau modèle de la physique quantique OU Universalité de la science)
 
