@@ -42,6 +42,8 @@ Preuve de mesure universelle : On ne peut apprendre la langue d'un cocker mais o
 Exemple de mesure universelle : Tous les êtres qui pensent bien peuvent s'accorder sur le fait qu'il faut sauver l'homme avant l'animal
 Unité de la conscience est le propre de l'homme
 
+Etude texte de Malebranche p.302
+
 Etude d'un texte de Kant
 Différence entre vouloir (mettre tout en oeuvre pour atteindre l'objectif) et avoir envie (désirer qqchose sans forcément mettre quoi que ce soit en oeuvre)
 Kant dit ici "Quand on veut on peut" cependant dans la vraie vie ceci est faux
@@ -95,6 +97,15 @@ Le réel qu'étudie la science est une conception, une idée puisque le réel n'
 Lois ne sont pas des propriétés du réel
 
 Lois sont forcément fondées en raison car ce sont les seules lois que tous peuvent comprendre, seules lois objectives
+
+C'est donc bien qu'elle a pour finalité la connaissance : connaître le réel, c'est découvrir derrière les apparences le principe premier, ce qui rend ces phénomènes possibles.
+C'est la raison pour laquelle la science est la démarche qui s'est imposée dans la recherche de la vérité par la raison
+
+## 2) Le modèle scientifique
+
+La connaissance du réel que recherche la raison réclame l'objectivité -> modèle scientifique s'impose à la raison
+Objectivité s'oppose à la subjectivité, càd fait de faire intervenir des éléments relatifs à chacun
+Science est considérée comme démarche la plus objective car elle ne repose que sur des raisonnements 
 
 
 

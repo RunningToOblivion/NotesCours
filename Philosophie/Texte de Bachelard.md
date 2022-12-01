@@ -32,7 +32,7 @@ Amorce :
 Thème  : La vérité scientifique
 Problème : La vérité scientifique connait-elle vraiment le réel ?
 Thèse : La vérité scientifique n'est qu'un projet, une théorie, qui force l'observation scientifique à être une observation polémique
-Plan :
+Plan : 
 Trois mouvements (1 par §):
 - Bachelard montre comment la vérité scientifique n'est qu'un projet vérifié par l'observation humaine
 - Il poursuit ensuite en analysant le caractère polémique de l'observation scientifique : la vérité scientifique étant un projet et non une vérité objective, l'observation ne peut que confirmer ou infirmer une thèse antérieure ; la vérité scientifique ne peut être objective car la pensée est tjrs entre l'humain et les choses ("réfléchir avant de regarder")
