@@ -1,4 +1,4 @@
-## Réflexions personnelles (à ne pas observer si je les oublie sur la copie)
+## Analyses paragraphe
 
 §1 :
 - "Devant le réel le plus complexe" : Bachelard parle ici des sciences du réel et non purement théorique comme les mathématiques + réel le plus complexe -> pas situations évidentes, s'il était nécessaire de le préciser
@@ -26,8 +26,8 @@
 # Introduction (!!! A refaire)
 
 Amorce : 
-Thème  : La vérité scientifique
-Problème : La vérité scientifique connait-elle vraiment le réel ?
+Thème  : La connaissance scientifique
+Problème : La connaissance scientifique est-elle vraiment connaissance du réel ?
 Thèse : La vérité scientifique n'est qu'un projet, une théorie, qui enferme l'observation, supposée se rapprocher du réel, dans la théorie.
 Plan : 
 Trois mouvements (1 par §):
@@ -36,3 +36,13 @@ Trois mouvements (1 par §):
 - Il analyse ensuite comment l'expérimentation est encore plus polémique que l'observation : les instruments utiisés pour standardiser les mesures ne font que renforcer l'emprise de la théorie sur l'observation
 Enjeu : (Pistes : Nouveau modèle de la physique quantique OU Universalité de la science)
 
+# Correction
+
+Problème : A quelle condition une science peut-elle être possible ? /
+Quel rapport un sujet doit-il entretenir avec le réel pour en avoir une connaissance scientifique ?
+
+§1 : Analyse la manière de l'homme de se rapporter au monde puis énonce sa thèse : la science est un projet, elle est donc caractérisée par son mouvement
+
+Rationnalisme : Réduisent le monde à ce qu'ils en pensent, le monde est leur vérification
+Artistes : Font du monde leur  représentation, le monde dépend de leur perception sensible, de leur sensibilité, autant de mondes que d'individus -> Bachelard veut "psychanaliser la connaissance", éviter de projeter nos émotions, nos désirs sur les choses
+? : Font du monde une convention -> ne s'intéressent qu'à la dimension pratique, vision nominaliste des choses -> empêche la connaissance des choses
