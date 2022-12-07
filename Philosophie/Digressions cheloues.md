@@ -5,3 +5,5 @@
 
 "cancel culture" est dangereuse car mène à pensée unique
 Toute pensée est subversive (= peut renverser l'ordre établi) -> cancel culture empêche toute pensée subversive
+
+Ne pas avoir d'instinct -> pas de détermination de notre comportement -> permet la liberté

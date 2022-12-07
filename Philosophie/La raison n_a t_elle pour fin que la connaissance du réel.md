@@ -106,11 +106,57 @@ C'est la raison pour laquelle la science est la démarche qui s'est imposée dan
 La connaissance du réel que recherche la raison réclame l'objectivité -> modèle scientifique s'impose à la raison
 Objectivité s'oppose à la subjectivité, càd fait de faire intervenir des éléments relatifs à chacun
 Science est considérée comme démarche la plus objective car elle ne repose que sur des raisonnements 
+modèle = paradigme
+Vérité objective :
+	-> vérité générale -> != particulière
+	-> n'exclut pas relativité -> != absolue -> relative à l'homme quel qu'il soit, au sujet qui pense -> connaissance objective est subjective si on entend par sujet le sujet transcendental (forme que prend la pensée)
+	-> universelle
+Modèle des sciences s'impose à pensée soucieuse de connaître -> maths sont propédeutique à tout connaissance "Que nul n'entre ici s'il est géomètre" 
+Il s'agit bien pour la raison de calculer, de quantifier ce qui derrière les particularités et les changements ordonne le réel selon des lois nécessaires et universelles formulables mathématiquement
+Raison rationnalise une réalité qui n'est pas rationnelle selon les concepts qui sont les siens -> Exemple : comparaison est une propriété de l'esprit qui observe le réel et nn du réel
+Cf texte Kant : On n'apprend pas de la nature comme un écolier apprend de son maître mais on la force à répondre à nos questions : Texte 7p.366
+-> Exemple :loi de la chute des corps exprime un rapport entre temps  écoulé et vitesse d'un mobile alors que ces deux éléments n'ont pas nécessairement un rapport dans la nature
 
+### 3) La connaissance est la fin suprême de la raison
 
+Ce qui meut la raison, c'est la volonté de tout connaître. Elle est portée par sa propre nature à tout connaître => Oui, la fin suprême de la raison est la connaissance
 
+Tellement qu'elle veut même connaître des choses qui par nature la dépassent et sont inconnaissables -> Dieu ou ce qu'il y a après la mort -> objets métaphysiques -> on ne peut ni prouver ni infirmer leur existence
+Pourtant la raison veut connaître les objets métaphysiques à la manière avec laquelle elle connaît les objets physiques
+-> Raison est irationnelle et déraisonnable
 
+Raison qui voudrait connaître Dieu déraisonne car DIeu dépasse l'entendement -> Pascal par exemple
+Quel rôle la raison peut-elle alors jouer -> Permettre d'éviter la démesure, l'extrêmisme, limiter la religion dans les limites de la simple raison
 
+Domaine métaphysique n'est pas le seul domaine où homme exerce sa raison alors qu'il ne peut en tirer aucun savoir -> La raison aimerait tout savoir sur l'homme -> nombreuses sciences qui étudient l'homme : sciences humaines (qui appliquent autant que faire ce peut les méthodes utilisées sur la matière) (Question annexe : L'homme peut-il être un objet de science comme un autre ? -> Peut-on réduire l'homme à un phénomène parmi d'autres phénomènes possibles ?)
+
+Kant parle de "destin de la raison" -> "La raison humaine a un destin singulier : elle est accablée de questions qu'elle ne peut pas repousser. Celles-ci lui sont en effet proposées par sa nature sans même qu'elle puisse y répondre parfois car elles dépassent tout son pouvoir"
+
+Ainsi, même si la raison ne parvient pas à tout prouver,elle ne peut s'empêcher de chercher à tout prouver
+Cette démarche exprime le souci qui est le sien de vouloir rendre raison de tout
+
+Il semble que tous les rapports que la raison établisse ont pour fin de connaître le réel. Cependant, force est de constater que bien souvent le savoir est mis au service de l'action. On ne peut donc pas nier que la raison ait aussi une fin pratique. On peut se poser la question de savoir si la raison ne cherche à connaître le réel que pour mieux agir sur lui. 
+
+## La fin technique de la raison
+
+Mythe de Prométhée de Platon -> Homme ne doit sa conservation qu'en ayant recours aux artifices de l'intelligence
+
+Texte 1 p.390
+L'homme est le plus démuni des animaux : la nature ne lui a pas donné les qualités qui lui permettent sa conservation.
+Mythe de Prométhée raconte que les dieux ont chargé Epiméthée et Prométhée de donner à toutes les espèces animales sur Terre les qualités nécessaires à leur conservation -> Epiméthée donne à tous les animaux l'instinct (connaissance immédiate donnée par la nature), qui leur permet de survivre, mais oublie l'homme. Prométhée va voler le feu (symbole de la raison) à Héphaïstos et son arc à Athéna (symbole de l'outil)
+Homme médiatise la nature à l'aide de l'outil afin de la rendre consommable
+-> Fin de la raison est d'abord finalité technique
+-> Homme ne se contente pas de penser le réel, il se l'approprie par l'intermédiaire de la technique, un artifice permis par la raison
+Raison apparaît  également comme une faculté des moyens : c'est un moyen et pas seulement une fin en soi car elle rend possible les outils qui nous permettent de mener à bien nos actions, dont la première est la conservation.
+
+L'homme doit sa survie aux artifices et a besoin de médiatiser son rapport aux choses -> raisonner c'est  ordonner nos jugements en vue d'agir sur les choses et non pas seulement en vue de les penser
+La raison ne se contente pas de penser les choses, elle se donne aussi pour tâche d'agir sur les choses
+
+Définitions de culture :
+Homme est un être de culture
+- Culture au sens anthropologique : manières d'être différenciées d'un groupe humain à l'autre
+- Culture au sens humaniste : savoir général
+- Culture au sens technique : transformer la nature pour la rendre consommable
 
 
 
