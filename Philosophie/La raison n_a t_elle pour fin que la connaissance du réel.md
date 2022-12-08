@@ -139,6 +139,8 @@ Il semble que tous les rapports que la raison établisse ont pour fin de connaî
 
 ## La fin technique de la raison
 
+### 1) Raison comme principe d'action efficace
+
 Mythe de Prométhée de Platon -> Homme ne doit sa conservation qu'en ayant recours aux artifices de l'intelligence
 
 Texte 1 p.390
@@ -157,6 +159,43 @@ Homme est un être de culture
 - Culture au sens anthropologique : manières d'être différenciées d'un groupe humain à l'autre
 - Culture au sens humaniste : savoir général
 - Culture au sens technique : transformer la nature pour la rendre consommable
+
+Raison est aussi faculté d'agir sur les choses voire de les transformer
+Homme doit passer par l'artifice pour survivre. C'est à ce titre que le travail et la technique peuvent être considérés également comme des produits de la raison, comme son prolongement
+
+Texte d'Aristote p.392 qui s'intéresse à la main
+
+Main est un  outil universel car on peut le prolonger à l'aide de tous les outils possibles
+Thèse d'Aristote dit de la main et de l'homme que "ce n'est pas parce qu'il a des mains que l'homme est le plus intelligent des animaux mais parce qu'il est le plus intelligent qu'il a des mains"
+
+2 possibilités :
+- Représentation théologique : la nature a doté l'homme de mains, l'homme est la créature privilégiée de DIeu
+- Représentation théléologique de la nature -> se représenter la nature comme un ensemble de choses qui poursuivent leur fin -> La nature est "bien faite"
+On représentait l'homme comme un être perfectible -> inachevé mais peut se perfectionner grâce à sa riason, par l'intermédiaire de l'artifice
+
+La science n'arrive pas à expliquer cette perfection de la nature et de l'homme
+(Mais représentation humaniste de l'homme devient de plus en plus obsolète)
+
+La main "dit" la raison
+La main comme prolongement naturel de la raison semble indiquer que cette faculté ne se limite pas à n'être qu'ue faculté théorique
+
+Que ce soit l'outil ou la main comme outil ou la machine, aussi fabriquée par la main de l'homme, tous ses outils rendus possibles par la raison, le premier outil d'entre tous, sont des produits de la raison par lesquels l'homme s'assure une certaine maîtrise du réel
+
+(Digression :
+Illustrer que l'homme est raisonnable jusque dans son corps
+Langage articulé : Nous articulons artificiellement notre rapport aux choses
+Exemple : dire "sac" crée un rapport artificiel entre le mot et la chose -> rapport artificiel car un anglais dirait un autre mot
+Langage = logos = raison 
+Perception passe par le langage qui est un artifice
+Langage ne dépend pas des organes, mais est le signe de la pensée -> Preuve :organes dont dépend la  parole n'ont pas de fonction langagière : respiratoire et alimentation. De plus, si nous sommes sourds et muets, nous utiliserons d'autres organes pour parler -> Homme tétraplégique,  sourd et muet et qui ne peut que cligner de la paupière a pu écrire un roman, car la personne qui l'aidait pouvait comprendre les mots qu'il essayait d'écrire après 2 lettres
+On trouvera toujours un artifice, rien n'est biologiquement déterminé
+Même si certains animaux ont des organes plus performants que nous, ils ne s'en servent pas car il leur manque la raison
+)
+
+La fin de l'homme, c'est la maîtrise. Même si la pensée peut lui permettre d'avoir une certaine maîtrise sur les choses, cette maîtrise passe aussi par des outils  
+Si bien que la finalité théorique a peut-être en vue la finalité technique
+
+### 2) La finalité théorique en vue de la finalité technique
 
 
 

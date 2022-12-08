@@ -7,3 +7,8 @@
 Toute pensée est subversive (= peut renverser l'ordre établi) -> cancel culture empêche toute pensée subversive
 
 Ne pas avoir d'instinct -> pas de détermination de notre comportement -> permet la liberté
+
+Ile de Toshiba -> Singes lavent les pommes de terre dans l'eau, avec transmission du savoir -> Proximité des grands singes avec l'homme
+
+Frontière est un terme à la fois géopolitique -> rapport avec autrui mais aussi rapport à l'altérité -> homme/animal ou homme/machine
+Frontière n'est plus qu'un problème de géopolitique

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+                "file": "Philosophie/Digressions cheloues.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+                "file": "Philosophie/Digressions cheloues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+                "file": "Philosophie/Digressions cheloues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md"
+                "file": "Philosophie/Digressions cheloues.md"
               }
             }
           }
@@ -139,14 +139,14 @@
   "active": "23a18352a9be786f",
   "lastOpenFiles": [
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+    "Philosophie/Digressions cheloues.md",
+    "Philosophie/Corrections/correction_dissert_philo.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
     "Philosophie/Peut-on penser par soi-même.md",
     "Philosophie/Méthode_intro_etude_de_texte.md",
     "Philosophie/Repères/Origine-Fondements.md",
     "Philosophie/Définition de la philosophie.md",
     "Philosophie/Connaissance scientifique est_elle objective.md",
-    "Philosophie/comment_sait_on_que_on_a_raison.md",
-    "Philosophie/Digressions cheloues.md",
-    "Philosophie/Texte de Bachelard.md"
+    "Philosophie/comment_sait_on_que_on_a_raison.md"
   ]
 }
