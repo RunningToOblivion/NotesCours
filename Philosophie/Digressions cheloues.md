@@ -12,3 +12,9 @@ Ile de Toshiba -> Singes lavent les pommes de terre dans l'eau, avec transmissio
 
 Frontière est un terme à la fois géopolitique -> rapport avec autrui mais aussi rapport à l'altérité -> homme/animal ou homme/machine
 Frontière n'est plus qu'un problème de géopolitique
+
+Texte de Kant (7 p.366) : Moment de "révolution copernicienne" où on se rend compte que rien n'est donné et que tout est construit 
+Pourquoi copernicienne : Moment où on passe de penser que  l'objet précède le sujet à penser que le sujet précède l'objet
+Idée qu'un objet requiert un sujet qui pense
+Nature est formalisée par l'esprit qui pense
+

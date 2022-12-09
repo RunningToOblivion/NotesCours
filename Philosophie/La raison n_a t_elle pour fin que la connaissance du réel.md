@@ -197,6 +197,27 @@ Si bien que la finalité théorique a peut-être en vue la finalité technique
 
 ### 2) La finalité théorique en vue de la finalité technique
 
+La raison est un principe d'action efficace (Connaissance, vraie fin de la raison, est subordonnée à l'action pratique qui est l'action technique) -> Est-ce que l'homme ne cherche pas à connapitre le réel dans le seul but d'agir sur lui ?
+=> Il n'est pas stupide de penser que la raison aurait dans ce cas pour finalité moins la connaissance des choses que l'action
+
+C'est dans ce sens que Descartes (philosophe le plus rationnaliste qui soit) entreprend son projet scientifique, qu'il subordonne à l'action "La connaissance de la nature peut nous permettre de nous en rendre comme maître et possesseur"
+
+Dit des connaissances  que "nous les pourrions employer \[...\] et nous rendre comme maîtres et possesseurs de la nature"
+
+On peut considérer que la fin technique, c'est la fin de la raison, et qu'au fond la technique est ce qui permettrait en tout premier lieu de définir l'homme. L'homme ne serait pas tant homo sapiens qu'homo faber (càd un technicien)
+
+Distinction d'homo faber faite par Bergson (texte 3 p.393)
+- Suggère que technique serait, avant la connaissance, la fin de la raison -> En ce qui concerne l'intelligence, on a pas assez remarqué que l'invention mécanique a d'abord été sa démarche essentielle. L'intelligence, dans ce qui en paraît être la démarche originelle, est la facullté de fabriquer des objets artificiels, en particulier des outils à faire des outils"
+- La finalité théorique a une fin qui est la finalité technisque -> savoir ne serait qu'un moyen de pouvoir
+
+Pourtant, de nombreuses techniques ont atteint la perfection de leur forme sans le secours d'aucun savoir donc science et technique peuvent être indépendantes l'une de l'autre
+-> Technique peut être indépendante de la connaissance du réel -> Connaissance ne peut pas n'être qu'un moyen pour la technique
+
+Cf texte de Descartes p.415 -> Lunette astronomique, instrument "si utile et si admirable" n'a premièrement été trouvée que par l'expérience et la fortune. Jacques Métus, homme qui n'avait jamais étudié, a crée la lunette astronomique par hasard et a défini le patron de toutes les lunettes astronomiques -> Certaines inventions ne se sont appuyées sur  aucun savoir -> Indépendance possible du savoir et de la technique
+
+### 3) Autres rapports possibles entre la finalité théorique et la finalité technique
+
+
 
 
 
