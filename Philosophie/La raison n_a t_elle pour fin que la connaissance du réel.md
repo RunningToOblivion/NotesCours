@@ -12,9 +12,9 @@ Plan :
 
 1. La raison a pour fin le savoir
 2. Fin technique (sans connaissance de la nature, pas possible d'assoir son pouvoir sur la nature) -> Pouvoir
-3.Pouvorir ne peut se faire sans dimension morale -> Devoir (même si certaines choses sont possibles, nous ne devons pas nécessairement les faire)
+3. Pouvoir ne peut se faire sans dimension morale -> Devoir (même si certaines choses sont possibles, nous ne devons pas nécessairement les faire)
 
-Accorder des droits aux animaux -> Example corrida : on en peut pas les bouffer si on leur accorde des droits
+Accorder des droits aux animaux -> Example corrida : on ne peut pas les bouffer si on leur accorde des droits
 Si on leur accorde des droits -> quels devoirs peut-on leur demander ?
 
 Le droit n'a tjrs pas tranché -> Même si dans le code civil animaux sont considérés comme êtres sensibles, les deux seuls types reconnus dans le code civil sont les personnes et les meubles
@@ -215,7 +215,50 @@ Pourtant, de nombreuses techniques ont atteint la perfection de leur forme sans 
 
 Cf texte de Descartes p.415 -> Lunette astronomique, instrument "si utile et si admirable" n'a premièrement été trouvée que par l'expérience et la fortune. Jacques Métus, homme qui n'avait jamais étudié, a crée la lunette astronomique par hasard et a défini le patron de toutes les lunettes astronomiques -> Certaines inventions ne se sont appuyées sur  aucun savoir -> Indépendance possible du savoir et de la technique
 
+Fin pratique ne peut donc pas être fin essentielle de la raison
+
 ### 3) Autres rapports possibles entre la finalité théorique et la finalité technique
+
+Subordonner la connaissance du réel à la technique, ce serait supposer que tout ce que l'homme connaît devrait être appliqué pour ne pas dire rentabilisé. Or, cela est démenti dans les faits. Nous disposons d'une somme indéterminée de connaissances que nous n'utilisons ni n'appliquons ni ne rentabilisons.
+La raison ne peut donc pas être subordonnée seulemnt à la technique.
+La fin de la raison doit donc bien nécessairement être une fin désintéressée. 
+[[pourquoi_philosopher_aristote|(cf. texte d'Aristote)]]
+La connaissance renvoie donc essentiellement au domaine théorétique (-> càd celui de la contemplation) -> connaître pour connaître, connaissances libérées de toutes fins utiles
+
+La fin de la raison peut donc également être technique mais que cette fin technique ne peut pas être la fin dernière. La fin de la raison serait-elle donc la moralité ?
+
+# III) La morale, fin dernière de la raison ?
+
+Question : Avons-nous des devoirs envers la nature
+Textes: 
+- Texte 15 P.127
+- Texte 13 P.287
+- Texte 14 P288
+
+Question : La technique n'est-elle qu'une affaire de techniciens ?
+
+## 1) La raison comme faculté morale
+
+Vocation morale de la raison apparaît des lors qu'on examine les sens des termes qu'on peut dériver du terme de raison : usage rationnel de la raison -> usage théorique mais aussi usage raisonnable de la raison -> juger si une action est raisonnable ou non
+Raison est donc différente de calcul -> un calcul peut être déraisonnable -> quand je fomente un crime, je fais un calcul déraisonnable.
+Raison veut aussi dire mesure -> sens qualitatif et quantitatif -> être raisonnable, c'est savoir faire preuve de mesure, dans ses pensées comme dans ses actions.
+Mesure quantitative: éviter les excès, faire preuve de justess
+Mesure qualitative : évaluer le bien, être juste
+Quand on se "raisonne", on se montre capable de modération
+L'homme montre qu'il est capable de faire valoir autre chose que ce qui l'attache à ses désirs sensibles ou ses intérêts particuliers -> manifester sa capacité à être libre (l'homme libre est celui qui est maître de lui-même, donc de ses désirs et de ses intérêts particuliers)
+Raison est ce qui nous permet d'énoncer des lois universelles qui s'appliquent à tout homme dans le domaine théorique (science -> lois universelles) comme dans le domaine pratique (souhait de Kant -> si le principe de mon action n'est pas universalisable alors il n'est pas moral)
+
+Kant veut que, comme dans le domaine des sciences, la raison puisse énoncer des lois morales universelles
+Le but de la raison est de tendre vers une société harmonieuse où les hommes obéissent sur le plan moral aux mêmes lois
+
+(Digression : Problème de la loi sur le statut des animaux : ils ne sont pas capables de raison, on ne peut donc pas leur donner des devoirs donc des droits ; Espagne donne garde partagée aux animaux -> progrès vers le don du statut de personne à l'animal)
+(Digression: Parfois, pour respecter l'esprit de la loi il faut l'interpréter et non l'appliquer)
+
+Même si on peut critiquer l'idée d'une justice universelle comme un idéal qui ne se rélaisera jamais, certaines institutions disent déjà la loi de manière universelle -> crimes constre l'humanité
+Quelle que soit la culture, certaines actions nous heurtent tous -> ceux qui les pratiquent ne sont pas guidés par la raison universelle
+
+
+
 
 
 

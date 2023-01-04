@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23a18352a9be786f",
+            "id": "ad13c28eb217b0f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,17 +136,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23a18352a9be786f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad13c28eb217b0f7",
   "lastOpenFiles": [
-    "Philosophie/Digressions cheloues.md",
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Philosophie/Connaissance scientifique est_elle objective.md",
+    "Réflexions IA.md",
+    "Untitled.canvas",
+    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+    "Philosophie/Corrections/correction_ds_descartes.md",
+    "Philosophie/Texte de Bachelard.md",
+    "Philosophie/Digressions cheloues.md",
     "Philosophie/Corrections/correction_dissert_philo.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
-    "Philosophie/Peut-on penser par soi-même.md",
-    "Philosophie/Méthode_intro_etude_de_texte.md",
-    "Philosophie/Repères/Origine-Fondements.md",
-    "Philosophie/Définition de la philosophie.md",
-    "Philosophie/comment_sait_on_que_on_a_raison.md"
+    "Philosophie/Peut-on penser par soi-même.md"
   ]
 }
