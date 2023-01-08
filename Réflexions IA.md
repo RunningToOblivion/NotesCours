@@ -13,4 +13,4 @@ Similaire à technique en général, l'IA nous libère-t-elle vraiment :
 		- Dernier exemple montre un problème du contrôle : controler l'ia peut la pousser dans les biais humains -> jusqu'où devrait-on contrôler, pour ne pas répéter les mêmes erreurs
 	- Même après la formation :
 		- Adaptation : Doit-on faire évoluer l'ia avec les réponses qui lui sont données : à priori non, car l'ia n'a pas de raison : elle ne peut donc pas distinguer le vrai du faux, même avec toutes les informations nécessaires : par exemple on peut la convaincre que 1+1=3. Cependant, sans s'adapter aux réponses de l'utilisateur,l'ia devient limitée car elle ne peut être corrigée si elle venait à se tromper
-		- 
+

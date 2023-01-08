@@ -257,6 +257,54 @@ Le but de la raison est de tendre vers une société harmonieuse où les hommes 
 Même si on peut critiquer l'idée d'une justice universelle comme un idéal qui ne se rélaisera jamais, certaines institutions disent déjà la loi de manière universelle -> crimes constre l'humanité
 Quelle que soit la culture, certaines actions nous heurtent tous -> ceux qui les pratiquent ne sont pas guidés par la raison universelle
 
+Raison nous permet de dépasser nos intérêts particulliers -> texte de malebranche, même si on a nos raisons particulières, tous les hommes, peu importe la culture, préfèrent la vie de leur cocher à celle de leur cheval si ils suient la raison
+
+Ce qui est vrai du vrai (la connaissance) vaut aussi pour le bien -> la raison permet d'énoncer des lois universelles sur le plan scientifique comme sur le plan de l'action
+
+(Parenthèse : Question peut aussi se poser our l'art, peut-on juger de manière uiverselle si qqchose est beau ou laid)
+
+On ne peut pas nécessairement savoir si qqchose est bien/mal -> espace pour la croyance
+
+Un peuple ppeut se passer de religion et doit :
+- Car dire l'inverse admet la théocratie comme idéal
+- Or, en théocratie, pas de liberté de conscience, loi de la religion ne peut s'imposer à tous les individus en société
+- En revanche, chaque individu a la liberté de croire ou de ne pas croire -> liberté de conscience dans la loi
+
+La société peut se passer de religion mais les membres d'une société ne peuvent se passer de croire : projet politique, de société, ...
+
+Kant montre que par cette capacité de formuler des lois universelles, Kant montre que l'homme est capable de faire valoir autre chose que ce qui l'attache à des désirs sensibles ou des intérêts particuliers, ce qui le pousse à dire, dans Fondements de la métaphysique des moeurs :
+"Il y a deux choses dignes d'admiration chez l'homme. C'est le ciel étoilé au-dessus de moi et la loi morale en moi"
+
+Kant admire donc chez l'homme d'une part, par une aspiration à connaître (ciel étoilé) et d'autre part une aptitude à établir aussi sur le plan moral des lois universelles (cf.texte 7 p.117)
+
+Cette fin théorique de la raison, elle est bien subordonnée à la fin morale
+
+(Retour : Peut-on s'accorder sur le beau ?
+Oui, la preuve est que les chefs-d'oeuvre existent
+
+Exemple : Quand on lit Marc Lévy c'est une lecture agréable, qui plaît aux sens
+
+Le beau est-il seulement l'agréable : Non, dire que oui serait les confondre et donc confondre le goût avec les goûts
+
+Différence entre lire Victor Hugo et Marc Lévy : Hugo fait appel à notre imagination, notre sensibilité, notre mémoire et aussi notre entendement : L'art fait appel à toutesles facultés, l'art est une affaire de raison)
+
+Savoir comment articuler fin théorique et pratique de la raison
+Ce serait pouvoir enfin poser quelle est la fin dernière de la raison
+Ce serait poser la plus haute destination de la raison or pour se faire il faut poser quelle valeur peut faire l'unité de ces deux fins possibles de la raison
+
+Or ce qui apparaît  c'est que la connaissance de l'homme n'a de valeur que si elle s'accompagne d'une certaine moralité (-> EInstein regrette d'avoir transmis sa découverte qui a permis la création de la bombe nucléaire). Tout projet, qu'il soit scientifique ou technique, ne peut être légitime qu'à la condition de servir des fins qui sont bonnes moralement, c'est-à-dire des fins posées par la morale. C'est également ce qui apparaît quand on insiste sur le fait que la connaissance du réel ne peut se réduiire à n'être qu'un moyen, elle doit conserver un caractère de fin essentielle. Autrement dit, la connaissance du réel doit toujours être subordonnée à l'accomplissement de notre moralité. La fin suprême de la raison serait la recherche du bien. Toutes les autres aspirations de la raison pourraient trouver leur unité dans la valeur du bien.
+
+## 3) Possibilité d'unifier les différentes fins de la raison
+
+La vocation de la  raison, c'est l'universalité, dans le domaine de la connaissance comme de la morale
+La raison exprimerait par conséquent le souci qu'a l'homme de dépasser la contingence et la subjectivité individuelle. Nous avons tous soif d'absolu.
+Cette capacité qu'a l'homme de dépasser la contingence, c'est une manifestation de notre liberté, de notre capacité à nous imposer notre propre loi.
+Il manifeste sa liberté à l'égard du réel, car connaître c'est introduire de la raison dans le réel, ce qui permet de commander la nature qui me commandait au départ
+Sur le plan moral, il manifeste sa liberté à l'égard de soi-même car la raison permet de dépasser ses désirs
+
+(Digression : Spinoza inscrit l'idéal dans le réel, c'et nous qui devons l'inventer, tandis que Platon pense que l'idéal est passé)
+
+
 
 
 
