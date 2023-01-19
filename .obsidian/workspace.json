@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c7737c7c72831500",
+        "id": "9086ad0038fe0528",
         "type": "tabs",
         "children": [
           {
-            "id": "ad13c28eb217b0f7",
+            "id": "c8f0369810f48b53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Réflexions IA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8e43f6ee3516694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grand oral Monopoly.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grand oral Monopoly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grand oral Monopoly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Grand oral Monopoly.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +149,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f195ed4bec60a3f",
+  "active": "172cab7646a7f876",
   "lastOpenFiles": [
+    "Grand oral Monopoly.md",
+    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
+    "Philosophie/Avons_nous des devoirs envers la nature.md",
+    "Philosophie/L'homme peut-il être un objet de science.md",
+    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Réflexions IA.md",
     "Excalidraw/Réflexions IA 2023-01-08 09.42.09.excalidraw.md",
     "Excalidraw/Drawing 2023-01-08 09.41.40.excalidraw.md",
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Philosophie/Connaissance scientifique est_elle objective.md",
-    "Untitled.canvas",
-    "Philosophie/Corrections/correction_ds_descartes.md",
-    "Philosophie/Texte de Bachelard.md",
-    "Philosophie/Digressions cheloues.md",
-    "Philosophie/Corrections/correction_dissert_philo.md"
+    "Untitled.canvas"
   ]
 }

@@ -304,11 +304,67 @@ Sur le plan moral, il manifeste sa liberté à l'égard de soi-même car la rais
 
 (Digression : Spinoza inscrit l'idéal dans le réel, c'et nous qui devons l'inventer, tandis que Platon pense que l'idéal est passé)
 
+Liberté serait faculté par laquelle l'homme pourrait faire valoir à terme son autonomie, càd  l'aptitude qu'a l'homme de se donner ses propres lois, autrement dit l'aptitude qu'a l'homme à viser le bien.
 
+SI bien que la fin derniere de la raison serait la moralité, càd le bien
 
+Connaître le réel, c'est à terme connaître le bien et se disposer à agir  conformément à ce bien -> le vrai est toujours subordonnée au bien
 
+Beau n'est pas fin de la raison mais il est signe de vrai et de bien, vrai et bien sont subsumés au beau
 
+Fin de la raison est bien de viser l'idéal du vrai, du bien et du beau -> soif d'absolu
+Homme ne peut pas tt connaitre mais vise à tt connaître
 
+Ce n'est qu'à cette condition qu'on pourra dire de l'homme qu'il est absolument libre -> on doi s'efforcer de tendre vers l'absolu
+
+Il n'y a pas de liberté sans moralité universelle -> idéal de Kant d'une société administrant la loi d'une manière universelle
+
+Exemple de Descartes sur la responsabilité de nos actions:
+Il n'ignore pas que nous pouvons être conduits par autre chose que notre raison mais il affirme qu'il suffit d'un effortde volonté pour rentrer dans le droit chemin
+=> Exemple de la petite fille louche :
+Descartes dit dans sa jeunesse n'avoir éprouvé de désir que pour les filles "louches" (qui louchent) mais, après réflexion, s'être souvenu qu'il avait vécu ses premiers émois avec une femme qui louchait et s'être donc libéré de cette passion -> quand on veut, on peut
+
+Exemple du chien de chasseur:
+Quand ils sont chiots, ils sont portés à s'enfuir quand ils entendent le bruit d'un fusil
+On les dresse de sorte à ce qu'ils accourent sur la proie quand ils entendent le bruit d'un fusil 
+-> S'il est possible de changer les dispositions dans l'esprit d'un animal doué de raion, il est possible de changer les dispositions dans l'esprit d'un homme doué de raison
+Descartes n'envisage donc pas ici la possibilié d'un inconscient
+
+Spinoza envisage qu'on ne puisse prévoir certains facteurs qui poussent un tueur en série à tuer, ils ignorent les causes qui les déterminent
+-> Un individu peut par exemple ne pas suivre la morale car il n'a pas reçu d'éducation morale
+-> Ainsi, en justice, on tente de déterminer si le coupable était conscient au moment de ses actes et ce qui peut amener un homme à être inhumain, et à prendre le mal pour le bien.
+
+Seul l'homme est capable d'inhumanité
+La justice est injuste, elle condamne des gens qui ont été manipulés par leur inconscient (? PAS SÛR)
+Rousseau se trompe sur la moralité : l'homme apr nature est forcément bon de nature car le bien et le mal ne peuvent s'envisager qu'en fonction d'autrui, l'homme n'est donc ni bon ni mauvais quand il est seul
+
+La raison a donc plusieurs fins. La connaissance du réel est donc bien une fin essentielle de la raison: elle particcipe à l'essence de l'homme. Cependant, c'est la vocation morale de la raison qui semble pouvoir et devoir fonder une telle connaissance. C'est la raison pour laquelle connapitre le réel c'est viser et parfois atteindre l'universalité dans la connaissance des choses mais c'est aussi et surtout tenter d'etteindre à l'universalité dans le domaine de la morale. Il s'agit par la raison de nous donner des lois qui nous permettent d'agir moralement et ce faisant de manifester notre liberté
+
+La fin de la raison c'est la moralité et donc la liberté car la libetré c'est la moralité, ce qui nous permet d'éviter la licence càd la loi du plus fort.
+
+Qu'en est-il des fins de la raison dans une représentation transhumaniste de l'homme
+-> Dans une vision transhumaniste de l'homme, il n'y a pas de raison car l'homme n'est qu'un système d'information
+
+Dans la vision humaine, l'homme est perfectible moralement alors que pour le transhumanisme l'homme est physiquement inadapté et il va falloir compléter cet inachèvement
+-> en faisant appel à la science et la technique pour un perfectionnement en terme de performance
+-> on essaye d'augmenter sa force
+Mais les hommes n'auront pas tous accès à ces moyens d'augmenter sa force -> loi du plus fort
+L'homme transhumaniste du point de vue de la morale est errant
+La raison doit avoir une fin car l'homme ne peut pas ne pas avoir de fin car sans fin, c'est la fin de l'homme.
+
+Digression sur l'art:
+Raison permet de donner des lois sur la nature (ce quii est vrai, jugement de connaissance) et des lois morales (ce qui est bien, jugement moral)
+
+Raison permet aussi d'exprimer des lois sur l'art -> déterminer ce qui est beau
+
+On peut dire que qqchose est vraie ou bonne tant qu'on a la règle qui permet de le déterminer.
+Quand on dit que qqchose est beau, on dit une propriété de la chose sans connaître la règle qui permet de le déterminer. Cependant, le beau reste universel -> pourquoi ferions-nous des musées autrement ?
+On apprend rien sur l'objet quand on dit qu'il est  beau, mais on apprend qqchose sur la manière dont on perçoit l'objet -> jugement réfléchissant : renvoie à la perception qua le sujet de la chose -> on en apprend moins sur la chose jugée que sur celui qui juge
+Mais si jugement esthétique était relatif, il n'y aurait pas lieu de distinguer proust de marc lévy
+La lecture de marc lévy fait appel à nos sens, c'est une lecture agréable -> confondre marc lévy avec proust, c'est confondre le beau avec l'agréable
+Il y a donc peut-être un universel qui fait qu'on s'accorde sur le beau. Le chef d'oeuvre es le signe que l'art a à faire avec la raison : certaines oeuvres d'art donnent à penser
+Art est le seul domaine qui fait appel à toutes les facultés de l'esprit: sensibilité, raison, mémoire, imagination 
+On dit d'un artiste qu'il a du génie: génie est une faculté innée et génie est à l'origine d'une nouvelle règle : le génie est le talent qui donne ses règles à l'art
 
 
 
