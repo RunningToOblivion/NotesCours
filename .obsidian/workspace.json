@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8f0369810f48b53",
+            "id": "01527373e42164c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Explication de texte Kant.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Explication de texte Kant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Explication de texte Kant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Explication de texte Kant.md"
+              }
             }
           },
           {
@@ -149,17 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "172cab7646a7f876",
+  "active": "01527373e42164c4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md",
+    "Explication de texte Kant.md",
+    "Philosophie/Méthode_intro_etude_de_texte.md",
     "Grand oral Monopoly.md",
     "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
     "Philosophie/Avons_nous des devoirs envers la nature.md",
     "Philosophie/L'homme peut-il être un objet de science.md",
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Réflexions IA.md",
-    "Excalidraw/Réflexions IA 2023-01-08 09.42.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-08 09.41.40.excalidraw.md",
-    "Philosophie/Connaissance scientifique est_elle objective.md",
-    "Untitled.canvas"
+    "Excalidraw/Réflexions IA 2023-01-08 09.42.09.excalidraw.md"
   ]
 }
