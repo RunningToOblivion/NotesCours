@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9086ad0038fe0528",
+        "id": "075eb359705580a7",
         "type": "tabs",
         "children": [
           {
-            "id": "01527373e42164c4",
+            "id": "6d1ab9f073730587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explication de texte Kant.md",
+                "file": "Philosophie/Digressions cheloues.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explication de texte Kant.md",
+                "file": "Philosophie/Digressions cheloues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Explication de texte Kant.md",
+                "file": "Philosophie/Digressions cheloues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Explication de texte Kant.md"
+                "file": "Philosophie/Digressions cheloues.md"
               }
             }
           },
@@ -157,17 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01527373e42164c4",
+  "active": "6d1ab9f073730587",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md",
-    "Explication de texte Kant.md",
-    "Philosophie/Méthode_intro_etude_de_texte.md",
-    "Grand oral Monopoly.md",
-    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
     "Philosophie/Avons_nous des devoirs envers la nature.md",
+    "Philosophie/Connaissance scientifique est_elle objective.md",
+    "Philosophie/Digressions cheloues.md",
     "Philosophie/L'homme peut-il être un objet de science.md",
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
-    "Réflexions IA.md",
-    "Excalidraw/Réflexions IA 2023-01-08 09.42.09.excalidraw.md"
+    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
+    "Notes Allemand Autriche.md",
+    "Enseignement Scientifique/Activité p.172-173.md",
+    "Excalidraw/Activité p.172-173 2023-01-23 10.44.34.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md"
   ]
 }
