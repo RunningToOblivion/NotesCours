@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "075eb359705580a7",
+        "id": "d69bdae6828dcae5",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1ab9f073730587",
+            "id": "5855cb73ee34cd7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Digressions cheloues.md",
+                "file": "Philosophie/Avons_nous des devoirs envers la nature.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Digressions cheloues.md",
+                "file": "Philosophie/Avons_nous des devoirs envers la nature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Digressions cheloues.md",
+                "file": "Philosophie/Avons_nous des devoirs envers la nature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Digressions cheloues.md"
+                "file": "Philosophie/Avons_nous des devoirs envers la nature.md"
               }
             }
           },
@@ -157,17 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d1ab9f073730587",
+  "active": "5855cb73ee34cd7a",
   "lastOpenFiles": [
-    "Philosophie/Avons_nous des devoirs envers la nature.md",
-    "Philosophie/Connaissance scientifique est_elle objective.md",
-    "Philosophie/Digressions cheloues.md",
     "Philosophie/L'homme peut-il être un objet de science.md",
+    "Réflexions IA.md",
+    "Philosophie/Corrections/correction_ds_descartes.md",
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
-    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
-    "Notes Allemand Autriche.md",
-    "Enseignement Scientifique/Activité p.172-173.md",
-    "Excalidraw/Activité p.172-173 2023-01-23 10.44.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md"
+    "Philosophie/Connaissance scientifique est_elle objective.md",
+    "Philosophie/Avons_nous des devoirs envers la nature.md",
+    "Chimie Orga/Structure et groupes fonctionnels.md",
+    "Philosophie/pourquoi_philosopher_aristote.md",
+    "Philosophie/Penser_par_soi_meme_droit_devoir.md",
+    "Philosophie/Raison.md"
   ]
 }

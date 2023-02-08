@@ -54,7 +54,7 @@ L'enfant commence par parler de lui à la 3e personne : c'est quand il commence 
 
 Plan renvoie à la notion de savoir (science), à celle de pouvoir (donc de technique) et de devoir -> notion en jeu est la raison mais trois autres notions sont engagées
 
-La raison permet à l'homme de se représenter le réel -> quelle est donc cette faculté qui nous permet d'atteindre à une vérité objective -> on peut dire que la recherche de la vérité peut être comprise comme la fin de la raison
+La raison permet à l'homme de se représenter le réel -> elle est donc cette faculté qui nous permet d'atteindre à une vérité objective -> on peut dire que la recherche de la vérité peut être comprise comme la fin de la raison
 Il semble que  cette vérité représente le but le plus élevé de l'esprit humain
 Cependant, ceci est contredit par les faits -> nous ne faisons pas usage de la raison uniquement pour connaître, nous l'utilisons pour assoir un pouvoir sur les choses -> la raison a aussi  une fin pratique, pas que théorique, qui consiste à assoir sur les choses un pouvoir, à se rendre "comme maître et possesseur de la nature" (Descartes). Les techniques semblent être également des produits de la raison humaine et on pourrait aller jusqu'à dire que souvent le savoir est mis au service du pouvoir. Dans ce cas je ne peux pas réduire la raison à cette seule fonction théorique -> Comment articuler ces deux fins qui sont à priori antithétiques ? Existe-t-il une fin à laquelle la fin autant théorique que pratique serait subordonnée
 (Distinction savoir (connaissance désintéressée)/pouvoir assoir un pouvoir sur les choses)
@@ -327,7 +327,7 @@ Descartes dit dans sa jeunesse n'avoir éprouvé de désir que pour les filles "
 Exemple du chien de chasseur:
 Quand ils sont chiots, ils sont portés à s'enfuir quand ils entendent le bruit d'un fusil
 On les dresse de sorte à ce qu'ils accourent sur la proie quand ils entendent le bruit d'un fusil 
--> S'il est possible de changer les dispositions dans l'esprit d'un animal doué de raion, il est possible de changer les dispositions dans l'esprit d'un homme doué de raison
+-> S'il est possible de changer les dispositions dans l'esprit d'un animal non doué de raion, il est possible de changer les dispositions dans l'esprit d'un homme doué de raison
 Descartes n'envisage donc pas ici la possibilié d'un inconscient
 
 Spinoza envisage qu'on ne puisse prévoir certains facteurs qui poussent un tueur en série à tuer, ils ignorent les causes qui les déterminent

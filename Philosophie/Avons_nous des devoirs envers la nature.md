@@ -35,6 +35,12 @@ Texte de Kant p.92
 # 2) Mais il existe des devoirs indirects envers la Nature
 ## a) Education
 - Texte de Kant, apprendre un enfant à ne pas torturer l'animal, c'est une manière de développer le sens moral, pas de lui apprendre à respecter l'animal ou la nature mais lui apprendre à se respecter lui-même, à adopter un comportement digne
+## b) Devoir de l'homme envers lui-même
+- Texte de Kant p.287 : Cruauté envers les animaux ou la nature est indigine de l'homme et émousse notre sens moral -> devoir de l'homme relativement aux animaux mais envers lui-même
+## c) Devoir de l'homme envers l'humanité
+- Être indigne de soi-même, c'est être indigne de l'humanité -> ne pas la respecter
 L'objet de ces devoirs, c'est toujours le prochain sur le plan de la famille mais aussi sur le plan de l'espace (occupants du même espace) ou du temps (les contemporains) -> morale kantienne ne s'applique pas à ceux qui sont différents
 # 3) Ajd, nous ne sommes pas seulement responsables de nous-mêmes mais aussi des générations futures -> morale pas que pour les proches mais aussi pour les lointains (migrants ?)
 Texte de Hans Jonas
+
+Respecter aussi les lointains car respect uniquement aux prochaisn a servi à justifier l'esclavage ou le colonialisme
