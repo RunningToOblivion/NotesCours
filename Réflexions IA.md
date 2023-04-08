@@ -1,4 +1,4 @@
-# Problème du contrôle
+d# Problème du contrôle
 
 Similaire à technique en général, l'IA nous libère-t-elle vraiment :
 - RIsque en plus de révolte de l'IA (mais pas d'avancée sans risque)

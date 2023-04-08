@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4166510f5c94648",
+            "id": "857b3bc6ec3385ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "De la conscience à l'inconscient.md",
+                "file": "Leçon sur le language.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De la conscience à l'inconscient.md",
+                "file": "Leçon sur le language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De la conscience à l'inconscient.md",
+                "file": "Leçon sur le language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De la conscience à l'inconscient.md"
+                "file": "Leçon sur le language.md"
               }
             }
           },
@@ -157,17 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4166510f5c94648",
+  "active": "857b3bc6ec3385ff",
   "lastOpenFiles": [
-    "Texte de Merleau_ponty.md",
-    "De la conscience à l'inconscient.md",
-    "Chimie Orga/Structure et groupes fonctionnels.md",
-    "Philosophie/Avons_nous des devoirs envers la nature.md",
-    "Philosophie/L'homme peut-il être un objet de science.md",
+    "Peut-on parler pour ne rien dire ?.md",
     "Réflexions IA.md",
-    "Philosophie/Corrections/correction_ds_descartes.md",
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
-    "Philosophie/Connaissance scientifique est_elle objective.md",
-    "Philosophie/pourquoi_philosopher_aristote.md"
+    "Leçon sur le language.md",
+    "De la conscience à l'inconscient.md",
+    "La question qui suis je admet elle une reponse exacte.md",
+    "COURS SUR LA TECHNIQUE.md",
+    "Qu_est_ce_qui_peut_faire_la_force_d_une_idee.md",
+    "Texte de Merleau_ponty.md",
+    "Chimie Orga/Structure et groupes fonctionnels.md",
+    "Philosophie/Avons_nous des devoirs envers la nature.md"
   ]
 }
