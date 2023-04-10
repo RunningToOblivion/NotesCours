@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d69bdae6828dcae5",
+        "id": "88e7302da28b49dc",
         "type": "tabs",
         "children": [
           {
-            "id": "857b3bc6ec3385ff",
+            "id": "3a127859f17682df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte de Merleau_ponty.md",
+                "file": "De la conscience à l'inconscient.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:language",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte de Merleau_ponty.md",
+                "file": "De la conscience à l'inconscient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte de Merleau_ponty.md",
+                "file": "De la conscience à l'inconscient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte de Merleau_ponty.md"
+                "file": "De la conscience à l'inconscient.md"
               }
             }
           },
@@ -158,17 +157,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "857b3bc6ec3385ff",
+  "active": "3a127859f17682df",
   "lastOpenFiles": [
-    "Leçon sur le language.md",
-    "De la conscience à l'inconscient.md",
+    "Philosophie/Texte de Bachelard.md",
+    "Philosophie/Avons_nous des devoirs envers la nature.md",
+    "Philosophie/comment_sait_on_que_on_a_raison.md",
+    "Philosophie/Connaissance scientifique est_elle objective.md",
+    "Philosophie/Définition de la philosophie.md",
+    "Philosophie/Digressions cheloues.md",
+    "Philosophie/Explication de texte Kant.md",
+    "Philosophie/L'homme peut-il être un objet de science.md",
+    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
+    "Philosophie/Méthode_intro_etude_de_texte.md",
+    "Philosophie/Penser_par_soi_meme_droit_devoir.md",
+    "Philosophie/Peut-on penser par soi-même.md",
+    "Philosophie/pourquoi_philosopher_aristote.md",
+    "Philosophie/Raison.md",
     "La question qui suis je admet elle une reponse exacte.md",
-    "Philosophie/Corrections/correction_dissert_philo.md",
-    "Peut-on parler pour ne rien dire ?.md",
-    "Réflexions IA.md",
-    "COURS SUR LA TECHNIQUE.md",
-    "Qu_est_ce_qui_peut_faire_la_force_d_une_idee.md",
-    "Texte de Merleau_ponty.md",
-    "Chimie Orga/Structure et groupes fonctionnels.md"
+    "Leçon sur le langage.md",
+    "Notes Allemand Autriche.md",
+    "Peut_on_parler_pour_ne_rien_dire.md",
+    "Excalidraw/Drawing 2023-04-10 15.00.58.excalidraw.md",
+    "Excalidraw/Structure et groupes fonctionnels 2023-01-31 15.12.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md",
+    "Excalidraw/Activité p.172-173 2023-01-23 10.44.34.excalidraw.md",
+    "De la conscience à l'inconscient.md",
+    "Texte de Merleau_ponty.md"
   ]
 }

@@ -3,9 +3,46 @@ COMPLETER AVEC LES NOTES DE ZACHARY
 Pour pouvoir pposer une telle question, il faut n'être ni un objet ni un animal
 Dire "Je suis un homme" ne dit rien de la personne que nous sommes : Comment rendre objectif le sujet qui pose cette question
 
+Problème à ne pas poser : une connaissance de soi est-elle possible
+Véritable problème : qui suis-je -> sujet
+
+Il n'y a pas toujours un seul cours associé, ici on devrait plus penser à "l'homme peut-il être un objet de science"
+
+# I) Qui suis-je est la question d'un sujet à lui-même
+## 1) L'homme est un sujet
+Pour dire ce qu'est une chose, il faut déterminer sa nature
+-> Il faut donc être capable de déterminer la nature de l'être qui dit je
+Or pour se poser des questions il faut rompre avec l'immédiateté donc je suis ni un objet ni un animal
+Or le seul être qui n'est ni un animal ni une chose c'est l'homme ("Cogito" de Descartes) -> l'homme est une conscience
+Donc l'homme est une conscience
+
+## 2) Mais cette conscience fait que le sujet n'est pas réductible
+
+L'homme a une dignité -> Homme au-dessus de toutes les créatures sur Terre (cf Kant "posséder le je") donc l'homme a une conscience morale
+
+## 3) Mais nous avons des personnalités
+Il ne suffit pas à l'homme de savoir qui il est pour savoir qui il est réellement
+
+Connaître ma nature ne suffit pas pour donner une réponse exacte à la question qui suis-je, est-il donc possible d'objectiver le sujet ?
+
 # II) Comment objectiver le sujet
 a) La société nous donne une identité civile
+
+Apporter une réponse exacte à la question implique que nous puissions donner des éléments de réponse objective
+
+La vie en société prouve bien à l'homme une identité
+Ces personnes font bien partie d'étude qui font partie de sciences
+
+L'identité profonde n'est cependant pas réductible à notre identité civile
+
+Sciences humaines font des lois générales et non universelles
+
 b) Cette identité ne nous donne pas cependant notre réelle identité : dysphorie de genre par exemple, identité civile n'est qu'une identité standard
+
+Par son regard, l'autre peut faire de nous un objet, de plus l'autre est le médiateur de moi et moi-même -> il ne pourra pas répondre à ma question qui suis-je
+
+L'homme reste un objet des sciences humaines et sociales mais ce n'est pas suffisant pour répondre à la question qui suis-je de manière exacte
+
 c)Est-ce à dire que nous ne puissions pas être objet, que le moi ne puisse pas être détemriné avec la même objectivité que s'il s'agissait d'un objet scientifique
 Non,nous pouvons être un objet dans le regard de l'autre. L'autre peut être un médiateur entre moi et moi-même -> me faire connaître sur moi des choses que  j'ignorais
 Exemple : Je peux tricher une fois mais dans le regard d'autrui je resterais tricheur
@@ -15,6 +52,7 @@ On peut donc dire qu'on peut être un objet pour la science, en particulier pour
 
 # III) S'interroger sans refuser la part d'incertitude qui nous caractérise
 a) Pour trouver une réponse exacte à la question "Qui suis-je ?" il convient d'admettre que ce qui peut-être nous caractérise, c'est cette part irréductible d'incertitude. Nous échappons en grande partie en tant que sujet à une connaissance exacte de qui nous sommes -> Si qqchose nous constitue, c'est peut-être précisément cette question : "Qui suis-je ?" Après tout, exister pour un sujet, c'est peut-être justement être en permanence susceptible de se remetre en question, de remettre en question notre identité
+
 b) Je me fais être qui je suis
 A ce titre, je ne suis rien (de fixé, de définitif). Mais être rien, c'est être une infinité de possibilités. Je suis une ouverture aux possibles. Tant que j'existe, tant que je suis en vie, j'ai toujours la possibilité de me faire être autre que ce que je suis. Au fond, ce n'est qu'à ma mort que je pourrais dire ce que je suis, mais je ne pourrais plus alors dire quoi que ce soit. Ce n'est que pour l'autre que je suis quelqu'un
 

@@ -84,6 +84,63 @@ Autrui est donc bien le garant de l'objectivité du monde
 
 ## b) Autrui est le garant de l'objectivité du monde
 
+Conscience renvoie à la pensée
+Autrui est un Alter ego (autre moi) donc une autre conscience
+
+Le rapport à autrui passe par 3 étapes :
+- 1ere étape : l'autre est étranger -> un monde qui n'est pas le mien donc un monde qui s'oppose au mien -> le 1er rapport est donc le conflit
+Autrui est toujours une source de conflit avec moi mais bien que différent il reste un semblable, un ego -> nous sentons qu'on peut partager avec lui -> grâce au dialogue -> "avoir le je dans sa représentation"
+
+Autrui est un autre monde possible, il permet d'élargir notre point de vue
+
+Autrui peut aussi être une menace s'il nous ressemble -> risque de la pensée unique
+
+- 2e étape, autrui est avant tout un moyen
+Confrontation mène à l'emulation (concours où il faut se démarquer des autres) -> autrui est donc un moyen de progresser
+Nous sommes toujours qqun pour autrui -> les autres nous permettent d'avoir le sentiment d'exister, le sentiment d'être qqun
+
+Désir de reconnaissance : chez Spinoza "le mimétisme", chez Hegel "le travail"; chez René Girard le "désir mimétique"
+
+Désir mimétique : Dans le désir il n'y avait pas seulement un rapport moi->objet mais plutot
+![[Drawing 2023-04-10 15.00.58.excalidraw]]
+Exemple : Dans Le Rouge ou Le Noir, Mr de Rénal souhaite faire de Julien Sorel le précepteur de ses enfants car il imagine que son rival le désire aussi
+2e exemple : Dans la publicité nous ne désirons pas l'objet pour sa qualité mais car des célébrités le désirent aussi
+
+Ce qui importe à celui qui désire un objet ce n'est pas sa valeur mais l'image qu'il me permet de renvoyer aux autres
+
+---
+Digression : Il y a une différence entre le ça et le sur-moi (exigence de la société). Nous avons intériorisé des règles donc parfois nous faisons des choses en secret mais il reste un rapport à autrui
+
+---
+
+Être seul est seulement possible si on a expérimenté le rapport avec l'autre
+
+Autrui se trouve aussi dans notre solitude -> Aussi nous habite car on a intériorisé des règles
+
+Le regard de l'autre nous objective, il fait de nous des objets -> Exemple du tricheur : on a triché une fois donc on est tricheur
+
+3e étape : Autrui est une fin -> Impératif catégorique de Kant : traiter l'autre comme une fin en soi, respecter sa dignité humaine
+Fin du texte de Merleau-Ponty (autrui est celui qui oblige le respect, on lit dans le regard le devoir "tu ne tueras point")
+
+Le langage objective -> on ne peut pas désirer certaines choses (des sentiments) ou certaines personnes
+
+Levinas dit qu'autrui m'oblige à être conscience morale
+Comme moi, autrui a une dignité -> l'autre est un sujet
+
+On ne connait pas vraiment un sujet mais on peut connaître un objet
+
+Autrui fait prendre conscience de l'espace, du temps et du fait qu'on est une personne morale
+
+Une vie sans les autres est une vie qui se répète, on ne prend conscience du temps qu'avec les autres
+
+Exemple : Robinson et Vendredi, il redevient humain en tenant son journal et avec vendredi -> il réalise et prend conscience du temps
+
+Espace : Je ne peux pas me mettre au même endroit que qqun
+
+Morale -> J'ai besoin de voir les conséquences de mes actions sur les autres pour être une personne morale
+
+Ceci a des conséquences existentielles
+
 ## c) Les conséquences existtentielles de la conscience
 
 ### 1) L'identité personnelle
@@ -117,6 +174,7 @@ Connaître l'essence générique, ça ne détermine aucunement l'individu singul
 
 Extrait du "garçon de café" de Jean-Paul Sartre
 
+Problème : dans notre société on objectifie les gens
 ### c)
 
 # III) L'hypothèse d'un inconscient psychique est-elle nécessaire et légitime ?
@@ -269,3 +327,95 @@ L'inconscient n'est pas un alibi pour la conscience, il nous appelle au contrair
 Freud ne remet pas en question que c'est la conscience qui rend libre, il dit juste qu'il ne suffit pas d'être conscient pour être libre et qu'il faut faire en sorte que l'inconscient devienne conscient en passant par la thérapie psychanalytique.
 
 Freud accorde à la conscience le rôle de libérer le psychisme par l'analyse donc la parole -> le langage
+
+---
+
+# Conférence : Freud, à la découverte de l'inconscient :
+
+Freud (1856-1939)
+Psychanalyse s'inscrit dans le courant de la modernité -> crise de la subjectivité, ère du soupçon
+-> Rapprochement entre Freud et Nietzsche ou Schopenhauer
+-> Recherche des "motivations inconscientes" : idée que le discours conscient (cogito cartésien) voile qqchose de caché dont le sujet lui-même n'a pas conscience, qui renvoie à un désir inconscient
+
+Ce désir se manifeste lors de la vie quotidienne par exemple lors du rêve
+-> Freud utilisera ces péripéties pour prouver l'existence de l'inconscient
+
+Freud tente de prouver qu'il n'existe pas seulement une conscience claire et distincte mais aussi un inconscient
+Freud propose l'hypothèse de l'existence d'un inconscient et va considérer que cet inconscient est un inconscient profond, càd qu'il ne peut parvenir à la conscience
+
+Jusqu'à Freud, les philosophes pensaient que pensée = conscience, tout phénomène psychique s'accompagne de la conscience que nous en avons
+
+Descartes définit le moi comme une chose qui pense, dont l'essence est de penser
+
+L'hypothèse d'un inconscient est donc rejeté par cette tradition psychique
+
+Certains philosophes comme Leibniz avaient pressenti que les mobiles de certaines de nos actions ne sont pas toujours conscients -> l'idée d'un inconscient était familière à certaines penseurs
+Mais Freud possède une originalité en l'approfondissant : Pour Freud, l'incosncient n'est pas les choses qui nous échappent provisoirement, ce qui peut être rappelé à la conscience mais ce qui ne peut pas être atteint par la conscience, qui constitue la couche la plus profonde de l'appareil psychique
+
+Freud avance plusieurs arguments pour justifier son hypothèse :
+L'hyptohèse de l'inconscient est nécessaire car les données de la conscience sont extrêmement lacunaires, notre conscience n'est pas entièrement unitaire, aussi bien chez l'homme sain que chez le malade, il se produit des actres psychiques qui pour etre expliques presupposent d'autres actes qui ne bénéficient pas du ttémoignage de la conscience
+
+Les actes manqués et les rêves : Les actes manqués sont les failles de notre atttention : les lapsus, les oublis,...
+Pour Freud, ces actes aparemment insignifiants sont significatifs et doivent être mis en rapport avec l'histoire du sujet dans le cadre d'une cure psychanalytique
+Le sujet n'a pas conscience de la signification de ces actes mais ces actes ont une signification cachée, inconsciente.
+Ainsi notre expérience quotidienne nous met en présence de pensées dont nous ignorons l'origine
+Dans un certain nombre de cas nous pouvons donner une explication à ces phénomènes mais lorsqu'on ne peut pas, on peut croire donner une explication mais elle n'est pas la bonne -> c'est la rationnalisation, on donne un prétexte pour expliquer le phénomène
+Nous avons conscience de nos actes mais parfois la conscience n'est pas adéquate à la connaissance
+Je peux être conscient de mon aggresivité envers quelqu'un sans en connaître les raisons profondes
+
+La doctrine freudienne nous amène à relativiser la frontière entre le normal et le pathologique.
+Freud montre qu'il existe une porosité entre le normal et le pathologique
+La différence n'est pas une différence de nature mais une différence de degrés : tant que l'influence de l'inconscient ne nous empêche pas de mener une vie sociale,culturelle,... normale alors on est normal
+Pour Freud, être normal c'est être capable d'aimer et de travailler. Nous avons tous en nous des éléments névrotiques (exemple d'un claustrophobe que nous ne considérons pas fou même si sa phobie prend racine dans l'inconscient). Nous sommes tous mus par des motivations inconscientes qui déterminent nos comportements -> Thèse de Freud qui pense que nos choix amoureux dépendent des relations entretenues avec ses parents lors de sa petite enfance
+
+Freud a deux topiques, deux représentations de l'appareil psychique :
+1. 
+- Trois niveaux de l'appareil psychique, comme une boule : la surface c'est la conscience, entre deux le préconscient (la mémoire, ce qui n'est pas immédiatement présent mais que je peux rappeler à la conscience) et au centre l'inconscient
+- L'inconscient n'est accessible que par des rejetons d'inconscient : le psychanalyste va s'efforcer d'analyser les manifestations de l'inconscient : les crises d'angoisse, les rêves et la libre association : dire tout ce qui nous passe par la tête -> on va arriver à reconstituer les éléments inconscients qui constituent le sujet
+2.  
+- Freud développe une seconde topique : on n'a plus affaire à conscience préconscient inconscient mais moi, sur-moi et ça
+- Le moi, c'est la conscience, le sur-moi (instance importante : les comportements, les valeurs, les règles parentales issues de l'éducation qui sont intériorisées -> instaure le sens de la limite; du bien, du mal chez l'individu) et le ça (les pulsions)
+- Problème des éducations trop libertaires : on a cru que freud disait que les enfants étaient traumatisés par l'éducation des parents alors qu'un laxisme éducatif fait que l'enfant va se retrouver aux prises avec ses pulsions alors qu'il ne sait pas les assumer ; Un enfant sans éducation deviendrait un enfant sauvage car il lui manquerait des éléments fondamentaux de l'humanité qui ne sont pas inscrits dans ses gènes
+
+Omniprésence de l'inconscient dans la vie consciente : "Je est un autre" : je suis un autre pour moi-même -> je peux m'étonner d'avoir pu produire certains rêves
+Les sentiments prennent leur source dans l'inconscient : l'amour ne prend pas racine dans la consciece
+
+ça m'a échappé : le "ça" est plus fort que moi
+C'est comme si je me dédoublais, qu'il y avait une autre personne en moi
+Nous pouvons tous être débordés de l'intérieur par qqchose de plus forts que nous
+Pendant qu'on dort, la conscience est "débranchée", il doit donc bien y avoir qqchose qui produit les rêves
+Idem, le fait que certaines oeuvres d'art nous émeuvent et non les autres prend racine dans l'inconscient donc dans notre enfance
+"L'inconscient c'est l'infantile" - Freud
+Pas toute l'enfance mais les traces enfouies de celle-ci
+Pour Freud, la période la plus importante de la vie c'est l'enfance de par l'impact qu'elle a sur le reste de notre vie
+Période très importante dont nous n'avons aucun souvenir pourtant
+L'inconscient ignore donc le temps mais aussi la contradiction : l'amour et la haine s'adressent aux mêmes -> on n'est jamais aussi cruel qu'avec les gens qu'on aime, ceux que l'on n'aime pas nous sont indifférents
+
+Préconscient : mémoire ou perceptions marginales (intentions qui m'échappent à peine formulées) ou les idées qui fuient ou les images qui nous viennent quand on se laisse aller à la rêverie ou les actes machinaux ou les associations d'idées qui surgissent -> zone crépusculaire de la conscience qui exprime des désirs plus profonds
+
+Freud posutule l'existence de l'inconscient en-dessous de cette couche, qui échappe totalement à la conscience
+L'inconscient est constitué par des pulsions enfouies voire refoulées pendant la petite enface car elles n'étaient pas compatibles avec les exigences morales de la société
+La pulsion est une certaine quantité d'énergie psychique libre, qui n'est pas affectée à un objet, contrairement au phénomène de l'instinct -> déterminisme strict de l'instinct VS énergie qui peut se porter sur des objets différents chez l'homme)
+=> Importance de l'éducation, qui va définir les objets de cette énergie psychique
+Exemple : pour freud nous avons tous une certaine aggressivité en nous
+Pour Freud nous avons deux pulsions : la pulsion de vie (eros) et la pulsion de mort (thanatos)
+La pulsion de mort régit tous les comportements d'aggressivité comme la haine ou le sadisme
+
+Cette pulsion correspond à un stade de la libido, càd le désir
+1er stade est le stade oral, premiers rapports avec la mère par le contact entre la zone buccale et le sein
+Ensuite stade sadique-anal -> apprentissage de la propreté, de la maîtrise du sphincter mais aussi développement de l'aggressivité
+
+Freud montre que nous pouvons faire du bien avec une pulsion comme nous pouvons faire le mal
+Exemple : Le sadisme permet de devenir un tueur en série ou un bon chirurgien car il faut avoir la capacité d'ouvrir le ventre de qqun (certaiins étudiants en médecine doivent changer d'orientation car ils ne supportent pas la vue du sang)
+Autre exemple : Freud fait le rapprochement entre la pulsion de jouer avec ses excréments et le talent de sculpteur
+
+L'homme est un être en devenir aussi car il peut donner des objets à ses pulsions
+
+L'inconscient profond est donc constitué des pulsions primitives et abrite les traces des péripéties personnelles
+C'est pourquoi les traumatismes chez le jeune enfant sont très graves car il est difficile d'en efffacer les séquelles
+
+Exemple d'une malade de 20 ans qui refuse de boire -> Après l'avoir fait se souvenir gâce à l'hypnose qu'elle avait vu le chien de sa gouvernante boire dans un verre, elle fut soignée
+
+Freud va dire qu'il y a une sexualité infantile (mais pour lui la sexualité est l'ensemble des désirs) qui va se traduire par des comportements comme le fait d'éprouver du plaisir lorsqu'il suce le sein de sa mère
+
+C'est par l'inconscient que nous nous construisons et que la civilisation progresse, c'est le carburant de ma personnalité et de ma création
