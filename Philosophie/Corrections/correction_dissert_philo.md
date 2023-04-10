@@ -1,6 +1,6 @@
 Erreurs commises :
 - Liberté de penser != Liberté de (la) pensée -> c'est parce qu'elles ne sont pas réductibles que question se pose => sujet affirme que pas de liberté de pensée sans droit d'exprimer ses pensées -> Pb que pose le sujet : Il ne suffit pas d'exprimer ses pensées pour qu'elles soient libérées ; liberté d'expression est condition nécessaire mais non suffisante de pensée libérée
-- Expression n'est pas que language (par ex. garder le silence est une forme d'expression)
+- Expression n'est pas que langage (par ex. garder le silence est une forme d'expression)
 
 Introduction :
 

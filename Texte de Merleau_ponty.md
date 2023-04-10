@@ -12,7 +12,7 @@ Entrelacs -> Matière et esprit pas distinguable chez l'homme
 L'apparaître, c'est la vraie apparence
 
 (Phénoménologie : Courant du XIXe siècle, inventé par Husserl et introduit par Merleau-Ponty et Sartre en France)
-Phénoménologie veut revenir aux choses même, sans le language
+Phénoménologie veut revenir aux choses même, sans le langage
 
 MAtérialisme: l'homme n'est qu'une chose
 Spiritualisme : L'homme est un pur esprit

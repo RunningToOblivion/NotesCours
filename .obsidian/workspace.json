@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leçon sur le language.md",
+                "file": "Texte de Merleau_ponty.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leçon sur le language.md",
+                "file": "Texte de Merleau_ponty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leçon sur le language.md",
+                "file": "Texte de Merleau_ponty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leçon sur le language.md"
+                "file": "Texte de Merleau_ponty.md"
               }
             }
           },
@@ -159,15 +160,15 @@
   },
   "active": "857b3bc6ec3385ff",
   "lastOpenFiles": [
-    "Peut-on parler pour ne rien dire ?.md",
-    "Réflexions IA.md",
     "Leçon sur le language.md",
     "De la conscience à l'inconscient.md",
     "La question qui suis je admet elle une reponse exacte.md",
+    "Philosophie/Corrections/correction_dissert_philo.md",
+    "Peut-on parler pour ne rien dire ?.md",
+    "Réflexions IA.md",
     "COURS SUR LA TECHNIQUE.md",
     "Qu_est_ce_qui_peut_faire_la_force_d_une_idee.md",
     "Texte de Merleau_ponty.md",
-    "Chimie Orga/Structure et groupes fonctionnels.md",
-    "Philosophie/Avons_nous des devoirs envers la nature.md"
+    "Chimie Orga/Structure et groupes fonctionnels.md"
   ]
 }

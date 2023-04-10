@@ -268,4 +268,4 @@ L'inconscient n'est pas un alibi pour la conscience, il nous appelle au contrair
 
 Freud ne remet pas en question que c'est la conscience qui rend libre, il dit juste qu'il ne suffit pas d'être conscient pour être libre et qu'il faut faire en sorte que l'inconscient devienne conscient en passant par la thérapie psychanalytique.
 
-Freud accorde à la conscience le rôle de libérer le psychisme par l'analyse donc la parole -> le language
+Freud accorde à la conscience le rôle de libérer le psychisme par l'analyse donc la parole -> le langage

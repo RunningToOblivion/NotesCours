@@ -53,7 +53,7 @@ L'existence de l'homme dépend de sa manière de se rapporter à la situation
 
 ---
 
-Digression : Dans les vieux couples, les consciences similaires se reconnaissent et arrivent à se comprendre sans passer par le language
+Digression : Dans les vieux couples, les consciences similaires se reconnaissent et arrivent à se comprendre sans passer par le langage
 
 Digression deux : Le fait qu'on est pas le même au fur et à mesure du temps est effrayant, c'estpourquoi nous nous cherchons une identité -> Nietzsche critique cette superstition des logiciens qui cherchent une identité à l'homme qui est un être changeant
 
