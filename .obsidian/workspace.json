@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "De la conscience à l'inconscient.md",
+                "file": "Leçon sur le langage.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De la conscience à l'inconscient.md",
+                "file": "Leçon sur le langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De la conscience à l'inconscient.md",
+                "file": "Leçon sur le langage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De la conscience à l'inconscient.md"
+                "file": "Leçon sur le langage.md"
               }
             }
           },
@@ -161,12 +161,11 @@
   "active": "3a127859f17682df",
   "lastOpenFiles": [
     "La question qui suis je admet elle une reponse exacte.md",
-    "Philosophie/L'homme peut-il être un objet de science.md",
-    "De la conscience à l'inconscient.md",
+    "Philosophie/pourquoi_philosopher_aristote.md",
     "COURS SUR LA TECHNIQUE.md",
-    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
-    "Philosophie/Penser_par_soi_meme_droit_devoir.md",
-    "Grand oral Monopoly.md",
+    "Philosophie/Connaissance scientifique est_elle objective.md",
+    "Leçon sur le langage.md",
+    "De la conscience à l'inconscient.md",
     "Philosophie/Texte de Bachelard.md",
     "Leçon sur le langage.md",
     "Notes Allemand Autriche.md",
@@ -175,16 +174,21 @@
     "Réflexions IA.md",
     "Philosophie/Avons_nous des devoirs envers la nature.md",
     "Philosophie/comment_sait_on_que_on_a_raison.md",
-    "Philosophie/Connaissance scientifique est_elle objective.md",
     "Philosophie/Définition de la philosophie.md",
     "Philosophie/Digressions cheloues.md",
     "Philosophie/Explication de texte Kant.md",
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
-    "Texte de Merleau_ponty.md",
-    "Philosophie/pourquoi_philosopher_aristote.md",
+    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
     "Philosophie/Méthode_intro_etude_de_texte.md",
+    "Philosophie/Penser_par_soi_meme_droit_devoir.md",
     "Philosophie/Peut-on penser par soi-même.md",
     "Philosophie/Raison.md",
-    "Excalidraw/Drawing 2023-04-10 15.00.58.excalidraw.md"
+    "Notes Allemand Autriche.md",
+    "Peut_on_parler_pour_ne_rien_dire.md",
+    "Excalidraw/Drawing 2023-04-10 15.00.58.excalidraw.md",
+    "Excalidraw/Structure et groupes fonctionnels 2023-01-31 15.12.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md",
+    "Excalidraw/Activité p.172-173 2023-01-23 10.44.34.excalidraw.md",
+    "Texte de Merleau_ponty.md"
   ]
 }
