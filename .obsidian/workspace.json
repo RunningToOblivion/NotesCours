@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88e7302da28b49dc",
+        "id": "984c53dc8928b82b",
         "type": "tabs",
         "children": [
           {
-            "id": "3a127859f17682df",
+            "id": "35f4519c0e07e0d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leçon sur le langage.md",
+                "file": "Peut_on_parler_pour_ne_rien_dire.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leçon sur le langage.md",
+                "file": "Peut_on_parler_pour_ne_rien_dire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leçon sur le langage.md",
+                "file": "Peut_on_parler_pour_ne_rien_dire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leçon sur le langage.md"
+                "file": "Peut_on_parler_pour_ne_rien_dire.md"
               }
             }
           },
@@ -158,16 +157,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a127859f17682df",
+  "active": "35f4519c0e07e0d8",
   "lastOpenFiles": [
+    "Leçon sur le langage.md",
     "La question qui suis je admet elle une reponse exacte.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
     "COURS SUR LA TECHNIQUE.md",
     "Philosophie/Connaissance scientifique est_elle objective.md",
-    "Leçon sur le langage.md",
     "De la conscience à l'inconscient.md",
     "Philosophie/Texte de Bachelard.md",
-    "Leçon sur le langage.md",
     "Notes Allemand Autriche.md",
     "Peut_on_parler_pour_ne_rien_dire.md",
     "Qu_est_ce_qui_peut_faire_la_force_d_une_idee.md",
@@ -186,9 +184,6 @@
     "Notes Allemand Autriche.md",
     "Peut_on_parler_pour_ne_rien_dire.md",
     "Excalidraw/Drawing 2023-04-10 15.00.58.excalidraw.md",
-    "Excalidraw/Structure et groupes fonctionnels 2023-01-31 15.12.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-08 14.18.18.excalidraw.md",
-    "Excalidraw/Activité p.172-173 2023-01-23 10.44.34.excalidraw.md",
-    "Texte de Merleau_ponty.md"
+    "Excalidraw/Structure et groupes fonctionnels 2023-01-31 15.12.25.excalidraw.md"
   ]
 }
