@@ -21,7 +21,7 @@ Condition = manière de se rapporter à une chose
 => Condition humaine = manière qu'a l'homme de se rapporter aux choses
 -> Animal n'a pas de condition car il ne se représente pas le monde, il est présent
 
-1er mouvement de "Il y a deux vues classiues" à "acosmique" : Melreau-ponty expose les deux conceptions classiques de l'être humain et d'affirmer qu'aucune de ces deux vues ne pense l'homme de manière adéquate
+1er mouvement de "Il y a deux vues classiques" à "acosmique" : Melreau-ponty expose les deux conceptions classiques de l'être humain et d'affirmer qu'aucune de ces deux vues ne pense l'homme de manière adéquate
 Dans un deuxième temps, de "A la première" jusqu'à "se les représenter tous", Merleau-Pointy réfute la conception matérialiste de lhomme'
 Le troisième mouvement lui permet d'une part de réfuteer la conception spiritualiste et d'affirmer la thèse qui est la sienne : le mode d'êtree propre à l'homme est l'intentionnalité. Autrement dit, penser l'homme c'est le penser comme un entrelacs de matière et d'esprit
 
