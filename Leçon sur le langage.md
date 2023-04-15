@@ -193,3 +193,34 @@ En attribuant un nom à une chose, nous laissons dans l'ignorance la plupart des
 Le résultat de cette sélection dans notre perception va impacter ntore manière de nous rapporter au réel : l'usage du mot va déterminer la perception de la chose et le langage, issu de cette perception va renforcer cette limitation (la langue impacte nos manières de pensée).
 Bergson implique qu'il y a bien une forme de détemrinisme  qui agit sur la conscience. Parler une langue c'est penser le monde d'une certaine manière.
 C'est  tout notre rapport à la réalité qui s'en trouve simplifié, voire distancié, car nous ne sommes jamais dans un rapport immédiat aux choses, nous nous rapportons toujours aux choses par l'intermédiaire du langage, ce qui amène Bergson à dire que le mot s'insinue entre la chose et nous.
+
+Le premier mouvement nous montre le caractère tronqué de notre rapport au réel. Bergson justifie cet aspect par le besoin vital. Mais il existe un cas particulier où cette limitation est plus discutable, c'est lorsqu'il s'agit pour nous de nous rapporter à nos états d'âme. C'est l'objet du deuxième moment de ce texte, moment qui sert aussi à Bergson pour montrer que seul l'artiste échapperait à ce phénomène
+
+2e mouvement :
+
+La conscience se rapporte au sentiment comme elle se rapporterait à n'importe quel objet. Or, par définition, le sentiment est qqchose "d'intime, de personnel, d'originalement vécu". Il renvoie au sujet particulier que je suis. Traiter de manière objective ce qui par anture est subjectif c'est nécessairement déformer notre perception. Ce rapport est un cas vraiment particulier : Lorsque la cosncience perçoit l'extériorité, elle la perçoirt en général, en ignorant les détails. De la même façon, lorsque nous nous rapportons à nos états, nous ne les percevons qu'en les identifiant par un nom commun. Il y a pourtant bien des différences d'une peur à l'autre :;  avoir peur de la guerre, ce n'est pas avoir peur d'une araignée. Le concept ne note de la chose que sa fonction la plus commune, ce qui est général. En dehors de la conscience, il n'y a pas de perception -> impuissance de la conscience à se rapporter pleinement à elle-même. Or, c'est bien de notre identité qu'il s'agit, ce que nous éprouvons c'est précisément ce qui devrait nous différencier d'autrui or, lorsque nous exprimons ce que nous éprouvons, nous utilisons exactement les mêmes mots que ceux qu'utilisent les autres.
+
+C'est la raison pour laquelle on accepte bien moins la réduction qu'opère le langage lorsqu'elle concerne nos états intérieurs, on a plus de mal à l'admettre.
+
+Question : Comment dire de manière adéquate ce que nous éprouvons individuellement et qui est susceptible de révéler ce que nous sommes ?
+-> Il faudrait pouvoir appprendre à percevoir au-delà de ce que l'usage de la langue nous a appris à reconnaître : être à l'écoute de soi-même, contempler nos états d'âme,...
+Donc, seul celui qui peut s'éloigner de l'action pour se recueillir aurait des chances d'accéder à son intériorité car c'est l'action qui provoque la réduction liée au langage
+il faudrait donc pouvoir être dégagé de la préoccupation des besoins, des "urgences de la vie", être donc en mesure d'adopter l'attitude contemplative, or  cette attitude à l'opposé de l'action est précisément celle de l'artiste.
+Bergson dit dans le même texte qu'il est "détaché du réel" et "un homme qui voit mieux que les autres"
+Cependat, cette mise à distance n'est pas propre à l'artiste : le philosophe et le scientifique mettent eux aussi à distance les intérêts strictement matériels, comme lors  de la pratique du doute, de la suspension du jugemennt (éviter la précipitation en adoptant le détachement)
+
+---
+Chez Descartes, deux causes de l'erreur : prévention et précipitation
+
+2 types de doute : doute sceptique qui consiste à douter de tout, à renoncer à penser et le doute cartésien (doute méthodique et volontaire)
+
+---
+
+Chez l'artiste, le détachement est naturel, il ne décide pas de rompre avec la matérialité et est naturellement en marge de tout ce qui pourrait venir entacher sa pensée.
+
+L'artiste n'est pas un génie, il en a, il en est doté naturellement, ce qui est inexplicable.
+Newton est un génie mais n'a pas de gnie car si Newrton n'avait pas découvert les lois de la gavité quelqu'un d'autre l'aurait fait.
+C'est naturellement que l'artiste ne perçoit pas les chose comme les autres.
+
+Par conséquent, c'est la raison poiur laquelle Bergson dit que si nous pouvions tous saisir parfaitement notre intériorité nous serions tous artistes.
+C'est comme si la Nature avait donné aux artistes un don de voir les choses différemment

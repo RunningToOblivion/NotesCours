@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peut_on_parler_pour_ne_rien_dire.md",
+                "file": "Leçon sur le langage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peut_on_parler_pour_ne_rien_dire.md",
+                "file": "Leçon sur le langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peut_on_parler_pour_ne_rien_dire.md",
+                "file": "Leçon sur le langage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peut_on_parler_pour_ne_rien_dire.md"
+                "file": "Leçon sur le langage.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "35f4519c0e07e0d8",
   "lastOpenFiles": [
+    "Peut_on_parler_pour_ne_rien_dire.md",
     "Leçon sur le langage.md",
     "La question qui suis je admet elle une reponse exacte.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
@@ -167,7 +168,6 @@
     "De la conscience à l'inconscient.md",
     "Philosophie/Texte de Bachelard.md",
     "Notes Allemand Autriche.md",
-    "Peut_on_parler_pour_ne_rien_dire.md",
     "Qu_est_ce_qui_peut_faire_la_force_d_une_idee.md",
     "Réflexions IA.md",
     "Philosophie/Avons_nous des devoirs envers la nature.md",
@@ -182,7 +182,6 @@
     "Philosophie/Peut-on penser par soi-même.md",
     "Philosophie/Raison.md",
     "Notes Allemand Autriche.md",
-    "Peut_on_parler_pour_ne_rien_dire.md",
     "Excalidraw/Drawing 2023-04-10 15.00.58.excalidraw.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-01-31 15.12.25.excalidraw.md"
   ]
