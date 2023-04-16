@@ -30,7 +30,7 @@ a) La société nous donne une identité civile
 
 Apporter une réponse exacte à la question implique que nous puissions donner des éléments de réponse objective
 
-La vie en société prouve bien à l'homme une identité
+La vie en société trouve bien à l'homme une identité
 Ces personnes font bien partie d'étude qui font partie de sciences
 
 L'identité profonde n'est cependant pas réductible à notre identité civile
@@ -97,23 +97,7 @@ Digression deux : Le fait qu'on est pas le même au fur et à mesure du temps es
 
 ---
 
-c) L'homme va adopter la posture de la mauvaise foi
-Posture qui consiste, au moment où il serait trop difficile d'admettre qu'on est libre, de considérer qu'on ne l'était pas -> Valmont qui dit que ce n'était pas sa faute lors d'une tirade
 
-La conséquence de la liberté infinie de l'homme c'est la responsabilité -> il est impossible de me déresponsabiliser en disant "Ce n'est pas ma faute" ou "Je suis comme cela" . Pourtant, il arrive que dans certains cas je ne veuille pas reconnapître, car ça ne m'arrange pas, que je suis l'auteur de mes pensées et de mes actions, je préfère me faire croire que je n'avais pas le choix, que je ne peux pas penser ou agir autrement dans cette situation. Cette posture qui consiste à ne pas assumer la repsonsabilité de mes actes quand il serait trop, dur de les assumer est celle que Sartre appelle la mauvaise foi
-
-Nous pouvons tous être de mauvaise foi ponctuellement mais certains prennent la posture de la mauvaise foi tout le temps.
-Deux exemples
-- La figure de l'homosexuel qui se culpabilise de l'être
-- La figure de "la coquette" (!= d'une femme coquette):  
-	- C'est une jeune femme qui a été conviée à un rendez-vous et lorsqu'elle arrive au lieu du rendez-vous et que l'homme commence à lui faire la cour elle adopte la posture qui consiste à vouloir et à ne pas vouloir  à la fois le désir de l'homme qui lui fait la cour -> elle veut ce désir au sens où elle veut être admirée mais elle ne veut pas de ce désir au sens où elle ne veut pas voir le but de celui qui lui fait la cour
-	- -> elle abandonne sa main, fait comme si elle était un pur objet
-	- Ainsi, si elle ne voulait pas ce désir, elle pourrait la retirer alors que si elle est un pur objt, elle fait comme si son corps n'était qu'une pure facticité et donc qu'elle n'est pas responsable de ses actes
-	- Attitude qui fait que le pour soi que nous sommes était sur le mode de l'en soi
-
-Cependant mauvaise foi ne rend pas l'inconscient nul et non avenu -> la coquette ne sait pas pourquoi elle est systématiquement de mauvaise foi
-
-Est-ce à dire que l'hypothèse d'un inconscient psychique soit nécessaire et légitime ?
 
 
 

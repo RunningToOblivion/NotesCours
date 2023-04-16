@@ -139,7 +139,7 @@ Pensée ne se fait pas sans maître -> pas de maîtrise mais va éveiller à l'a
 Exemple : Nietzche a pour maître Schopenhauer -> pas maîtrise mais Schopenhauer l'a éveillé à son propre génie
 Au départ, on est informe mais un enseignement nous révèle à nous-même
 
-Pensée ne peut se progresser qu'en se confrontant à la pensée d'autrui
+Pensée ne peut progresser qu'en se confrontant à la pensée d'autrui
 Refus du dialogue est un aveu de faiblesse
 
 Kant "Penserions-nous bien si nous ne pensions-pas, pour ainsi dire en commun avec d'autres qui nous font part de leur pensée et auxquels nous communiquons les nôtres"

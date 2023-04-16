@@ -21,16 +21,16 @@ Condition = manière de se rapporter à une chose
 => Condition humaine = manière qu'a l'homme de se rapporter aux choses
 -> Animal n'a pas de condition car il ne se représente pas le monde, il est présent
 
-1er mouvement de "Il y a deux vues classiques" à "acosmique" : Melreau-ponty expose les deux conceptions classiques de l'être humain et d'affirmer qu'aucune de ces deux vues ne pense l'homme de manière adéquate
-Dans un deuxième temps, de "A la première" jusqu'à "se les représenter tous", Merleau-Pointy réfute la conception matérialiste de lhomme'
-Le troisième mouvement lui permet d'une part de réfuteer la conception spiritualiste et d'affirmer la thèse qui est la sienne : le mode d'êtree propre à l'homme est l'intentionnalité. Autrement dit, penser l'homme c'est le penser comme un entrelacs de matière et d'esprit
+1er mouvement de "Il y a deux vues classiques" à "acosmique" : Melreau-ponty expose les deux conceptions classiques de l'être humain et affirme qu'aucune de ces deux vues ne pense l'homme de manière adéquate
+Dans un deuxième temps, de "A la première" jusqu'à "se les représenter tous", Merleau-Ponty réfute la conception matérialiste de l'homme'
+Le troisième mouvement lui permet d'une part de réfuter la conception spiritualiste et d'affirmer la thèse qui est la sienne : le mode d'être propre à l'homme est l'intentionnalité. Autrement dit, penser l'homme c'est le penser comme un entrelacs de matière et d'esprit
 
 # 1er mouvement
 
 ### 1er moment
 
 1ere conception : issue du savoir scientifique
-Cette conception considère que l'homme n'a pas un statut diférent des autres êtres vivants (et par extension des objets) "le résultat de différentes influences qui agissent sur lui"-> l'homme ne choisit pas ce qu'elle est selon cette conception. Il est déterminé "du dehors" par des causes naturelles "physiologiques","physiques" mais également par des causes sociales "sociologiques", qu'il ne maîtrise pas. pour le fonctionnement du corps, cérébral ou place qu'il occupe dans la société, homme serait détemriné par des facteurs indépendants de sa volonté (Bourdieu, Marx, sciencee qui montre qu'homme est aussi soumis aux lois de la nature comme la loi de la chute des corps)
+Cette conception considère que l'homme n'a pas un statut diférent des autres êtres vivants (et par extension des objets) "le résultat de différentes influences qui agissent sur lui"-> l'homme ne choisit pas ce qu'il est selon cette conception. Il est déterminé "du dehors" par des causes naturelles "physiologiques","physiques" mais également par des causes sociales "sociologiques", qu'il ne maîtrise pas. pour le fonctionnement du corps, cérébral ou place qu'il occupe dans la société, homme serait déterminé par des facteurs indépendants de sa volonté (Bourdieu, Marx, sciencee qui montre qu'homme est aussi soumis aux lois de la nature comme la loi de la chute des corps)
 Cette thèse chosifie l'homme, en fait "une chose entre les choses"
 Cette approche ôte à l'homme sa liberté
 
@@ -39,8 +39,8 @@ Cette approche ôte à l'homme sa liberté
 Présente la 2e conception : l'homme se définit à partir de sa conscience (càd sa faculté à se déterminer par soi-même). L'homme agit à partir d'une "liberté acosmique"
 Càd liberté indépendante des contraintes matérielles propres au monde (espace et temps,...)
 Alors que tout dans la nature est soumis à un ensemble de lois,par sa conscience, l'homme se tient en dehors de cette législation, il serait une exception : nous serions "un empire dans un empire" (Descartes)
-Renvoie au penseurs qui pensent l'homme comme un sujet auteur de ses pensées et dde ses actions et peut donc se mettre en marge des déterminismes
-C'est donc bien l'esprit qui donne à l'homme sa consistence et sa consistence spirituelle prime sur sa consistecne naturelle et sociale
+Renvoie aux penseurs qui pensent l'homme comme un sujet auteur de ses pensées et de ses actions et peut donc se mettre en marge des déterminismes
+C'est donc bien l'esprit qui donne à l'homme sa consistance et sa consistance spirituelle prime sur sa consistance naturelle et sociale
 L'homme se définit par sa capacité qu'il a à penser -> se libérer des contraintes matérielles(penser au futur pour se libérer du présent)
 Lhomme est "conscience constituante du monde"
 
@@ -87,7 +87,7 @@ Lorsque dans le discours de la méthode Descartes écrit qu'il espère grandemen
 Exemple historique :
 Lorsque les penseurs du 18e affirment l'égalité des raisons, et par là l'universalité des droits de l'homme, ils n'ajoutent aucune mise en garde quant au risque d'ethnocentrisme
 
-=> Même les philosophes ne sont pas des esprits purs, ils pensent dans un contxxte
+=> Même les philosophes ne sont pas des esprits purs, ils pensent dans un contexte
 -> L'homme est donc bien un entrelacs de matière et d'esprit
 On ne doit pas penser l'homme de manière abstraite (pur esprit ou simple chose) mais penser sa condition en situation
 
