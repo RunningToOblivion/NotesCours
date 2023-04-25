@@ -224,3 +224,40 @@ C'est naturellement que l'artiste ne perçoit pas les chose comme les autres.
 
 Par conséquent, c'est la raison poiur laquelle Bergson dit que si nous pouvions tous saisir parfaitement notre intériorité nous serions tous artistes.
 C'est comme si la Nature avait donné aux artistes un don de voir les choses différemment
+
+L'diée introduite ici est l'idée selon laquelle cette figure emblématique de la conscience (car sa vision du monde devient notre vision du monde) échapperait à la réduction de la perception est la conséquence de la première partie de la thèse : seul celui qui est détaché peut échapper à la réduction de la perception : la conscience de l'artiste filtre beaucoup moins les détails de ce qu'il perçoit. Cette deuxième partie de thèse présente cependant un aspect paradoxal : certains artistes (romanciers, poètes) utilisent le langage : ce ne serait pas donc tant le langage qui poserait problème mais un certain usage qu'on en fait : le romancier et le poète ont bien pour matériau de leur production le langage. Ce ne sont sans doute pas les mots que nous utilisons qui limitent notre perception que l'usage que nous en faisons. Mallarmé distingue ainsi le langage de la tribu (appauvri, qui va s'exprimer par lieu commun sans nécessairement faire le choix des mots, faire certains rapporchements) et le langage du poète. Le poète fait donc un certain usage du langage, il en joue comme d'un instrument, en jouant sur des rapprochements inédits, des combinaisons ou des transformations de mots, pour créer des transformations nouvelles voire énigmatiques.
+
+Exemple de Proust (cousin germain de Bergson) : Il déclare qu'il "a tenté de faire en littérature ce que les impressionistes ont fait en peinture : rendre l'impression dans ce qu'elle a d'unique et de fugace"
+
+C'est aussi ce que semble décrire Bergson quand il dit que l'artiste sait rendre "les mille nuances fugitives et les mille résonances profondes". 
+
+Autrement dit le poète ou encore le romancier ne sont pas là pour démontrer ou prouver quoi que ce soit, ils ne passent pas par le mode discursif mais ils nous rendent présents, ils montrent, ils nous font éprouver plus qu'ils ne prouvent, par un certain usage du mot, de la musique,...
+
+C'est le style et non le mot en lui-même qui est supposé recréer un climat, une sensation, qui nous met en présence de ce sentiment.
+L'artiste est celui, qui, par sa manière qu'il a d'en jouer, parvient à contourner les limites intrinsèques du langage conceptuel qui sont aussi les limites de la pensée rationnelle. Cependant, nous ne sommes pas tous artistes et, nous ne pourrons jamais le devenir.
+Il convient de trouver les conséquences ontologiques de ce texte.
+
+3e partie : Les conséuences ontologiques (= étude de l'être en tant qu'être)
+
+Pour Bergson il est impossible à l'homme d'atteindre qqchose d'absolu
+
+Nos perceptions nous amènent à ne jamais percevoir parfaitement ni les choses ni nous-mêmes
+Nous n'apercevons de notre état d'âme que son déploiement extérieur -> paradoxe, l'état d'âme renvoie à l'intériorité alors que nous le saisissons que par le mot qui extériorise.
+
+Ce que Bergson met en lumière ici, c'est que lorsque nous percevons les sentiments ce n'est que de manière générale que nous les percevons
+L'être particulier des choses nous échappent
+Nous ne saisissons du sentiment qui est nôtre que ce qui ressemble à tout autre, le caractère commun.
+Bergson insiste en disant que nous en saisissons que son aspect impersonnel que le langage a pu noter car il est le même pour tousels hommes;
+
+Nous sommes donc toujours dans un entre-deu, un à peu près, entre les choses et nous
+
+La conséquence de cette thèse est donc ontologique car dans notre rapport au réel le particulier, le singulier nous échappe. Cette conséquence ontologique concerne en premier lieu la conscience commune du fait de la sélection opérée dans la perception par les nécessités de l'action.
+
+Cette critique revêt une importance particulière car elle renvoie aussi à la philosophie et à la science : la science comme la philosophie, dés lors qu'elles n'utilisent la langue que de manière conceptuelle, ne font dire les choses que de manière générale et non en particulier.
+
+Ces représentation ont de la valeur sur le plan de l'utilité mais elles ne sont pas les seules représentations possibles, ni les seules qui vaillent -> il y a pour la raison des choses qui ne lui sont pas accessibles, qui dépassent l'entendement.  Chercher la vérité au moyen de la raison, c'est nécessairement atteindre à certaines vérités mais il est des vérités qui ne sont pas discursives, qui n'existent pas rationnellement.
+
+Bergson nous dit donc ici que quelle que soit la rigueur de la pensée,  l'individualité échappera toujours à la raison. Avec Bergson on comprend qu'il puisse y avoir des vérités inaccessibles à la raison et qu'il y ait d'autres voies d'accès à ce type de vérités : la croyance religieuse mais aussi l'art.
+
+
+Plan détaillé de "Peut-on dire du temps qu'il est libre  ?" pour le mercredi 17 mai
