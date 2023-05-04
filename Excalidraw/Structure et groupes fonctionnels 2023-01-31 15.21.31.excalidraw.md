@@ -9,13 +9,13 @@ tags: [excalidraw]
 
 # Text Elements
 butane
-(alkane) ^S2Fivaid
+(alcane) ^S2Fivaid
 
 2-butene
-(alkene or olefin or vinyl) ^VX5Aleji
+(alcène ou oléfine) ^VX5Aleji
 
 2-butyne
-(alkine or acetylene) ^BQ5FY4GL
+(alcyne) ^BQ5FY4GL
 
 %%
 # Drawing
@@ -328,8 +328,8 @@ butane
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 2089298172,
+			"version": 64,
+			"versionNonce": 549294405,
 			"isDeleted": false,
 			"id": "S2Fivaid",
 			"fillStyle": "hachure",
@@ -339,32 +339,32 @@ butane
 			"opacity": 100,
 			"angle": 0,
 			"x": -94.24270862988729,
-			"y": -107.80614035637768,
+			"y": -109.47280702304431,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 110.39300312105198,
-			"height": 70.76474559041793,
+			"width": 110,
+			"height": 72,
 			"seed": 354961476,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1675176484935,
+			"updated": 1682432947117,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.305898236167174,
 			"fontFamily": 1,
-			"text": "butane\n(alkane)",
-			"rawText": "butane\n(alkane)",
-			"baseline": 59.76474559041793,
+			"text": "butane\n(alcane)",
+			"rawText": "butane\n(alcane)",
+			"baseline": 61,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "butane\n(alkane)"
+			"originalText": "butane\n(alcane)"
 		},
 		{
 			"type": "text",
-			"version": 133,
-			"versionNonce": 237499588,
+			"version": 153,
+			"versionNonce": 1549382859,
 			"isDeleted": false,
 			"id": "VX5Aleji",
 			"fillStyle": "hachure",
@@ -373,28 +373,28 @@ butane
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 103.19093156737875,
+			"x": 146.19093156737875,
 			"y": -114.88261491541948,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 346.74725339304786,
-			"height": 70.76474559041793,
+			"width": 260,
+			"height": 72,
 			"seed": 523818492,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1675176484937,
+			"updated": 1682433098735,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.305898236167174,
 			"fontFamily": 1,
-			"text": "2-butene\n(alkene or olefin or vinyl)",
-			"rawText": "2-butene\n(alkene or olefin or vinyl)",
-			"baseline": 59.76474559041793,
+			"text": "2-butene\n(alcène ou oléfine)",
+			"rawText": "2-butene\n(alcène ou oléfine)",
+			"baseline": 61,
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "2-butene\n(alkene or olefin or vinyl)"
+			"originalText": "2-butene\n(alcène ou oléfine)"
 		},
 		{
 			"type": "line",
@@ -613,8 +613,8 @@ butane
 		},
 		{
 			"type": "text",
-			"version": 122,
-			"versionNonce": 1388149572,
+			"version": 131,
+			"versionNonce": 161957035,
 			"isDeleted": false,
 			"id": "BQ5FY4GL",
 			"fillStyle": "hachure",
@@ -623,28 +623,28 @@ butane
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 478.951730652498,
+			"x": 560.451730652498,
 			"y": -121.95908947446127,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 283.0589823616717,
-			"height": 70.76474559041793,
+			"width": 120,
+			"height": 72,
 			"seed": 1380983932,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1675176484938,
+			"updated": 1682433103389,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.305898236167174,
 			"fontFamily": 1,
-			"text": "2-butyne\n(alkine or acetylene)",
-			"rawText": "2-butyne\n(alkine or acetylene)",
-			"baseline": 59.76474559041793,
+			"text": "2-butyne\n(alcyne)",
+			"rawText": "2-butyne\n(alcyne)",
+			"baseline": 61,
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "2-butyne\n(alkine or acetylene)"
+			"originalText": "2-butyne\n(alcyne)"
 		}
 	],
 	"appState": {
@@ -662,10 +662,10 @@ butane
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 450.0792973704132,
-		"scrollY": 392.3018446903646,
+		"scrollX": 202.84705978126965,
+		"scrollY": 921.4215419517456,
 		"zoom": {
-			"value": 1.2802638827165849
+			"value": 0.6000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
