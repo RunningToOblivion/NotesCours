@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie Orga/Structure et groupes fonctionnels.md",
-                "mode": "preview",
+                "file": "Leçon sur l'art.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipsé",
+                "query": "imaginat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie Orga/Structure et groupes fonctionnels.md",
+                "file": "Leçon sur l'art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie Orga/Structure et groupes fonctionnels.md",
+                "file": "Leçon sur l'art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie Orga/Structure et groupes fonctionnels.md"
+                "file": "Leçon sur l'art.md"
               }
             }
           },
@@ -159,9 +159,12 @@
   },
   "active": "ae365c57e0651ef1",
   "lastOpenFiles": [
+    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+    "Leçon sur l'art.md",
+    "Chimie Orga/Structure et groupes fonctionnels.md",
+    "Leçon sur le langage.md",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.md",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.png",
-    "Chimie Orga/Structure et groupes fonctionnels.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 22.32.28.excalidraw.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 22.32.28.excalidraw.svg",
@@ -169,13 +172,10 @@
     "Excalidraw/Drawing 2023-04-25 16.35.02.excalidraw.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 16.44.49.excalidraw.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 16.39.09.excalidraw.md",
-    "Leçon sur le langage.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-01-31 15.21.31.excalidraw.md",
-    "Leçon sur l'art.md",
     "De la conscience à l'inconscient.md",
     "Philosophie/Peut-on penser par soi-même.md",
     "La question qui suis je admet elle une reponse exacte.md",
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Philosophie/Corrections/correction_dissert_philo.md",
     "Philosophie/L'homme peut-il être un objet de science.md",
     "Texte de Merleau_ponty.md",
