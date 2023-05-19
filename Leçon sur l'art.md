@@ -171,7 +171,88 @@ Il convient de se défaire de tous les intérêts habituels de l'homme. Dans la 
 
 L'agréable, càd ce qui fait immédiatement plaisir, varie d'un homme à l'autre. 
 La raison en l'homme lui permet de s'accorder sur ce qui est bon ou mauavais car la règle qui nous permet de juger est donnée avant l'action. Le beau n'est pas moral, il peut même venir heurter la morale. 
-Le jugement esthétique renvoie à une satisfaction entièrement désintéressée à tel point que je peux trouver beau un tableau qui m'est désagréable ou qui peut me mettre mal à l'aise (exemple: Voyage au bout de la nuit ou Monomane de l'envie) voire des choses dont on voudrait qu'elles n'existent pas (exemple : le chant du castrat)
+Le jugement esthétique renvoie à une satisfaction entièrement désintéressée à tel point que je peux trouver beau un tableau qui m'est désagréable ou qui peut me mettre mal à l'aise (exemple: Voyage au bout de la nuit ou Monomane de l'envie) voire des choses dont on voudrait qu'elles n'existent pas (exemple : le chant du castrat) (Marie Lene Fosserel - anorexique qui se prend en photo)
 
 Object spécifique, loeuvre d'art est donc également l'object d'un jugement spécifique
 Cependant, devant une oeuvre, nous ne nous contentons pas seulement de ressentir sa beauté. Nous sommes portés comme par notre propre naturze à nous poser la question de son sens, nous cherchons à savori ce qu'elle signifie. Il nous faut donc interroger le rapport entre l'art et la réalité
+
+Interrogation nécessaire car dpeuios le XXe siècle les artistes veulent se dégager de l'injonction qui consiste à considérer que l'art doit être nécessairement associé au beau. 
+Cf Marcel Duchamp qui expose à New York un urinoir sous le titre "fontaine" : l'urinoir a la forme de la Joconde -> Duchamp pisse sur la Joconde
+Citation :"Ma fontaine pissotière partait de l'idée de jouer un exercice sur la question du goût : choisir l'objet qui ait le moins de chance d'être aimé, une pissotière, il y a peu de gens pour trouver cela merveilleux. C'est le danger, le danger c'est la délectation esthétique" càd que lorsque nous allons dans un musée, nous nous attendons à voir certains objets plutôt que d'autres, ce qui fait perdre toute subversivité à l'art. Le danger pour l'art, c'est que nous nous attendions à voir certains objets et pas d'autres.
+Les oeuvres "classiques" sont des oeuvres mortes
+Même ce qui a le moins de chance d'être contemplé peut devenir qqchose qui mérite d'être contemplé
+L'art doit avoir un impact sur la manière que nous avons de nous représenter le réel
+Duchamp nous demande de disjoindre la question de l'art de celle de la beauté et qu'une oeuvre d'art peut signifier qqchose de la réalité, nous dire  qqchose sur le réel
+
+# III/ L'art et la réalité
+
+## 1) La condamnation platonicienne de l'art
+
+Cf "L'artiste, un imitateur"
+Platon veut bannir tous les artistes car ils imitent la réalité, sauf les musiciens car la musique se rapproche des mathématiques
+
+En effet, les arts comme la peinture ou la poésie ne restituent pas les choses dans leur essence.
+L'artisan, lorsqu'il crée un objet, n'est pas non plus dans la vérité, il ne crée pasun objet conformément à l'essence de l'objet mais au moins cet objet est utile et participe à la conservation de la société.
+Platon admet la nécessité de l'artisanat mais affirme la toxicité de l'art car il va avoir un impact sur le plan moral
+
+Pour illustrer cette idée, il va prendre un objet : le lit, et montrer que trois lits s'éloignent du vrai lit
+Le lit de l'arttiste s'éloigne du vrai lit de deux degrés, son lit est le résultat de la copie de ce qui est déjà une copie, il nous éloigne donc de deux degrés de la vérité
+Celui de l'artisan s'éloigne du vrai lit d'un degré, il imite le vrai lit
+Les choses idéales existent, elles sont relatives à la personne
+Le vrai lit est intelligible, il n'existe pas matériellement, il s'agit de l'idéal du lit
+
+Pour Platon, le vrai c'est le réel car le réel c'est l'intelligible
+
+L'artiste nous éloigne de la connaissance vraie quand la connaissance est la saisie par esprit de l'essence
+L'artiste se maintient au niveau des apparences sensible, il détourne donc du vrai car le seul vrai c'est le réel
+
+
+Platon dit donc que l'art ne nous permet pas de percevoir le réel, il nous en éloigne
+
+Aristote dit que la mimesis, l'imitation de la nature, permet la catharsis
+
+## 2) Réhabiliter l'art ?
+
+Texte de Hegel
+Remet en question la thèse d'Aristote selon laquellela fin de l'art serait la mimesis. -> considérer que la fin de l'art est l'imitation est vain et présomptueux
+Emet la thèse selon laquelle l'art est la vérité sous une forme non aboutie mais sensible
+
+
+Dans cet extrait, Hegel prolonge la réflexion axée sur le rapport art/réalité mais en défendant la thèse selon laquelle l'art ne peut pas avoir pour fin la mimesis 
+
+Pour défendre cette thèse il utilise plusieurs objections
+
+1. si la plus haute mission de l'art était d'imiter le réel alors il serait aussi inférieur que la copie est inférieure à son modèle
+2. si ce qui fait la valeur d'une oeuvre d'art c'est sa ressemblance avec le modèle, on ne pourrait admirer l'oeuvre en l'absence du modèle
+3. si la fin de l'art était d'imiter la nature, le summum de l'art serait le trompe-l'oeil.
+Par conséquent, l'oeuvre d'art ne peut pas avoir pour fin la mimesis, et ce serait sans doute une erreur de considérer qu'elle n'est que cela
+Pour Hegel, l'oeuvre d'art est l'incarnation de l'esprit dans la matière
+Ce que l'art rend visible, c'est l'esprit humain, certes l'esprit d'un artiste mais on sait combien l'artiste est celui qui, visionnaire, sait incarner l'esprit de son temps.
+Il y a du spirituel en art, même l'art le plus réaliste, bien qu'exprimant l'esprit de l'artiste, épure le réel pour aller à l'essentiel et parvient à en détacher des figures universelles, chez lesquelles tout homme peut se reconnaître : la figure d'antigone incarne la révolte, rastignac incarne l'ambition, arpagon l'avarice,... Même des situations peuvent être ainsi appellées pour rendre compte d'un certan nombre de cjoses du réel, on dira d'une situation qu'elle est cornélienne lorsqu'un dilemme entre devoir et passion apparaît, kafkaienne lorsque la situation est absurde et inquiétante,...
+
+Loin de nous éloigner de la vérité, pour Hegel, l'art l'incarne de manière sensible. L'art manifeste donc bien la vérité sous une forme non aboutie mais il est bien un moment de la vérité
+
+L'art est donc nécessairement au-delà) de la nature, il est donc ibien production de l'esprit et donc manifestation de la liberté.
+Il n'en reste pas moins vrai que même si Hegel s'oppose à Platon sur la question de l'essence de l'art, il n'en est pourtant pas si éloigné : il partage avec lui le même critère d'évaluation, la part d'intelligible qu'il comporte, de vérité qu'il manifeste ; l'art est donc jugé en fonction de la "quantité" de pensée qu'il manifeste comme si ce qui donnait de la valeur à une production esthétique c'était la pensée. L'art se trouve donc asujetti à la métaphysique.
+
+Les artistes du XXe siècle vont tenter de renouer avec le sensible et de délaisser l'idée selon laquelle l'art doit manifester la vérité. ils vont considérer qu'une vérité peut être autre chose que conceptuelle car une vérité conceptuelle est toujours une vérité en général.
+
+C'est ce que développe Bergson dans le texte que nous avons étudié, notamment dans sa deuxième partie
+
+## 3) Renouer avec le sensible, texte de Bergson
+
+L'art est une voie d'accès à des vérités non rationnelles, la religion l'est aussi
+Les deuxc peuvent révéler des vérités que la philosophie ou la science ne peuvent révéler
+
+On peut conclure avec une citation de '"Les voies du silence"' d'André Malraux : "L'art naît de la fascination de l'insaisissable, du refus de copier des spectacles, de la volonté d'arracher les formes au monde... Les grands artistes ne sont pas les transcripteurs du monde, ils en sont les rivaux" (spectacles au sens d'apparences)
+
+Forme / matière : forme indépendante de toute matière, c'est l'idée indépendante du concept : le monde des idées est un monde de pure forme, de pure essence. Cette forme est matérialisée cocnrètement par des lits particuliers.
+Arracher les formes au monde = arracher l'être même des choses
+Les artistes créent un monde qui rivalise avec le monde qui se présente à nous et qui va finir par s'imposer
+
+L'art peut rendre beau ce qu'on ne trouvait pas beau auparavant (Renoir peint des femmes grosses, jusqu'à peindre la cellulite), il ouvre un autre monde possible qui souvent devient le monde
+L'artiste n'est pas utile  mais son activité a quand même des effets, une activité peut être désintéressée et tout de même avoir de l'efficacité
+
+L'art ne détourne pas de la réalité, pas plus qu'il ne la représente, il donne à voir ce que nous e faisions que regarder soit avec mépris soit avec indifférence.  Il faut donc fair e une distinction conceptuelle entre regarder et voir :  voir c'est faire surgir un regard neuf sur l'essentiel. En l'occurence, c'est réorgansier notre rapport au monde au delà de ce que les habitudes nous avaient imposés
+L'art (et donc l'homme) crée bien le monde
+Cependant, la question de qui a créé la nature demeure sans réponse

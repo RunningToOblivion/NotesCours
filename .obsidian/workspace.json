@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e505bb3205c942dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peut-on se mentir à soi-même.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leçon sur l'art.md",
+                "file": "Peut-on se mentir à soi-même.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leçon sur l'art.md",
+                "file": "Peut-on se mentir à soi-même.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leçon sur l'art.md"
+                "file": "Peut-on se mentir à soi-même.md"
               }
             }
           },
@@ -157,16 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae365c57e0651ef1",
+  "active": "e505bb3205c942dc",
   "lastOpenFiles": [
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Leçon sur l'art.md",
+    "Peut-on se mentir à soi-même.md",
+    "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Chimie Orga/Structure et groupes fonctionnels.md",
+    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Leçon sur le langage.md",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.md",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.png",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 22.32.28.excalidraw.md",
-    "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 22.32.28.excalidraw.svg",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 16.49.35.excalidraw.md",
     "Excalidraw/Drawing 2023-04-25 16.35.02.excalidraw.md",
