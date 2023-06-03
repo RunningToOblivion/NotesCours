@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae365c57e0651ef1",
+            "id": "9b5f8b18705bd53a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leçon sur l'art.md",
+                "file": "Lecon sur le bonheur.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e505bb3205c942dc",
+            "id": "b362540db5dca2de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md",
+                "file": "Religion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imaginat",
+                "query": "affair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +76,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f0aa39de08aaabbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md",
+                "file": "Lecon sur le bonheur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md",
+                "file": "Lecon sur le bonheur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md"
+                "file": "Lecon sur le bonheur.md"
               }
             }
           },
@@ -170,10 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e505bb3205c942dc",
+  "active": "bc96ed0eed9456d1",
   "lastOpenFiles": [
+    "Religion.md",
+    "Lecon sur le bonheur.md",
+    "L_artiste_travaille_t_il.md",
     "Leçon sur l'art.md",
     "Peut-on se mentir à soi-même.md",
+    "Peut-on dire du temps qu'il est libre ?.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Chimie Orga/Structure et groupes fonctionnels.md",
     "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
@@ -195,10 +207,6 @@
     "Texte de Merleau_ponty.md",
     "Philosophie/Texte de Bachelard.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
-    "Philosophie/Penser_par_soi_meme_droit_devoir.md",
-    "Philosophie/Méthode_intro_etude_de_texte.md",
-    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
-    "Philosophie/Explication de texte Kant.md",
-    "Philosophie/Digressions cheloues.md"
+    "Philosophie/Penser_par_soi_meme_droit_devoir.md"
   ]
 }
