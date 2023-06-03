@@ -8,31 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae365c57e0651ef1",
+            "id": "f9be89e8d7f35849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leçon sur l'art.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e505bb3205c942dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peut-on se mentir à soi-même.md",
+                "file": "Le bonheur est-il une affaire d_Etat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ed61be6d32fd7a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e8d5fc7028a2cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imaginat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,6 +78,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ccf5e1e8886e87f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md",
+                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md",
+                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peut-on se mentir à soi-même.md"
+                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md"
               }
             }
           },
@@ -170,13 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e505bb3205c942dc",
+  "active": "81e8d5fc7028a2cf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.png",
+    "Le bonheur est-il une affaire d_Etat.md",
+    "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
+    "Pasted image 20230519213641.png",
+    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Leçon sur l'art.md",
     "Peut-on se mentir à soi-même.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Chimie Orga/Structure et groupes fonctionnels.md",
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
     "Leçon sur le langage.md",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.md",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.png",
@@ -196,9 +211,6 @@
     "Philosophie/Texte de Bachelard.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
     "Philosophie/Penser_par_soi_meme_droit_devoir.md",
-    "Philosophie/Méthode_intro_etude_de_texte.md",
-    "Philosophie/La technique n'est-elle que l'affaire des techniciens.md",
-    "Philosophie/Explication de texte Kant.md",
-    "Philosophie/Digressions cheloues.md"
+    "Philosophie/Méthode_intro_etude_de_texte.md"
   ]
 }

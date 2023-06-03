@@ -12,6 +12,9 @@ L'art transforme-t-il le monde?
 1) L'art transforme la nature et non le monde (art au sens de technique)
 2) En transformant la nature,  l'art crée le monde 
 3) L'art recrée le monde (art au sens de beaux-arts)
+
+---
+
 # I) Qu'est-ce qui distingue une oeuvre d'art d'un objet quelconque ?
 
 Aucune distinction à priori entre l'objet d'art et l'object technique -> ce sont tous les deux des artifices
