@@ -8,30 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9be89e8d7f35849",
+            "id": "9b5f8b18705bd53a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le bonheur est-il une affaire d_Etat.md",
+                "file": "Lecon sur le bonheur.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ed61be6d32fd7a64",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "81e8d5fc7028a2cf",
+            "id": "b362540db5dca2de",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md"
+                "file": "Religion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -64,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "affair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,14 +78,15 @@
             }
           },
           {
-            "id": "6ccf5e1e8886e87f",
+            "id": "f0aa39de08aaabbd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
+                "file": "Lecon sur le bonheur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
+                "file": "Lecon sur le bonheur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md"
+                "file": "Lecon sur le bonheur.md"
               }
             }
           },
@@ -181,15 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81e8d5fc7028a2cf",
+  "active": "bc96ed0eed9456d1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.png",
-    "Le bonheur est-il une affaire d_Etat.md",
-    "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
-    "Pasted image 20230519213641.png",
-    "Philosophie/La raison n_a t_elle pour fin que la connaissance du réel.md",
+    "Religion.md",
+    "Lecon sur le bonheur.md",
+    "L_artiste_travaille_t_il.md",
     "Leçon sur l'art.md",
     "Peut-on se mentir à soi-même.md",
+    "Peut-on dire du temps qu'il est libre ?.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Chimie Orga/Structure et groupes fonctionnels.md",
     "Leçon sur le langage.md",
@@ -210,7 +206,6 @@
     "Texte de Merleau_ponty.md",
     "Philosophie/Texte de Bachelard.md",
     "Philosophie/pourquoi_philosopher_aristote.md",
-    "Philosophie/Penser_par_soi_meme_droit_devoir.md",
-    "Philosophie/Méthode_intro_etude_de_texte.md"
+    "Philosophie/Penser_par_soi_meme_droit_devoir.md"
   ]
 }
