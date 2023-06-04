@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b5f8b18705bd53a",
+            "id": "738a5fa92b0f3e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecon sur le bonheur.md",
+                "file": "Le bonheur est-il une affaire d_Etat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecon sur le bonheur.md",
+                "file": "Le bonheur est-il une affaire d_Etat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecon sur le bonheur.md",
+                "file": "Le bonheur est-il une affaire d_Etat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecon sur le bonheur.md"
+                "file": "Le bonheur est-il une affaire d_Etat.md"
               }
             }
           },
@@ -178,10 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc96ed0eed9456d1",
+  "active": "738a5fa92b0f3e24",
   "lastOpenFiles": [
-    "Religion.md",
+    "Transcript partie 2 conf bonheur_etat.md",
+    "Le bonheur est-il une affaire d_Etat.md",
     "Lecon sur le bonheur.md",
+    "Religion.md",
     "L_artiste_travaille_t_il.md",
     "Leçon sur l'art.md",
     "Peut-on se mentir à soi-même.md",
@@ -205,7 +206,6 @@
     "Philosophie/L'homme peut-il être un objet de science.md",
     "Texte de Merleau_ponty.md",
     "Philosophie/Texte de Bachelard.md",
-    "Philosophie/pourquoi_philosopher_aristote.md",
-    "Philosophie/Penser_par_soi_meme_droit_devoir.md"
+    "Philosophie/pourquoi_philosopher_aristote.md"
   ]
 }
