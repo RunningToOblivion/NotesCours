@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le bonheur est-il une affaire d_Etat.md",
+                "file": "Peut-on se mentir à soi-même.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4566a4353f77d4eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiche Justice.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "affair",
+                "query": "justice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le bonheur est-il une affaire d_Etat.md",
+                "file": "Fiche Justice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le bonheur est-il une affaire d_Etat.md",
+                "file": "Fiche Justice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le bonheur est-il une affaire d_Etat.md"
+                "file": "Fiche Justice.md"
               }
             }
           },
@@ -177,15 +191,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "738a5fa92b0f3e24",
+  "active": "4566a4353f77d4eb",
   "lastOpenFiles": [
-    "Transcript partie 2 conf bonheur_etat.md",
+    "Peut-on se mentir à soi-même.md",
+    "Fiche Justice.md",
+    "Excalidraw/Drawing 2023-05-20 22.24.06.excalidraw.md",
+    "Pasted Image 20230605190033_123.png",
     "Le bonheur est-il une affaire d_Etat.md",
+    "Transcript partie 2 conf bonheur_etat.md",
     "Lecon sur le bonheur.md",
     "Religion.md",
     "L_artiste_travaille_t_il.md",
     "Leçon sur l'art.md",
-    "Peut-on se mentir à soi-même.md",
     "Peut-on dire du temps qu'il est libre ?.md",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 23.09.41.excalidraw.md",
     "Chimie Orga/Structure et groupes fonctionnels.md",
@@ -204,8 +221,6 @@
     "La question qui suis je admet elle une reponse exacte.md",
     "Philosophie/Corrections/correction_dissert_philo.md",
     "Philosophie/L'homme peut-il être un objet de science.md",
-    "Texte de Merleau_ponty.md",
-    "Philosophie/Texte de Bachelard.md",
-    "Philosophie/pourquoi_philosopher_aristote.md"
+    "Texte de Merleau_ponty.md"
   ]
 }
