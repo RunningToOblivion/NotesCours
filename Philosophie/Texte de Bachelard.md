@@ -46,3 +46,5 @@ Quel rapport un sujet doit-il entretenir avec le réel pour en avoir une connais
 Rationnalisme : Réduisent le monde à ce qu'ils en pensent, le monde est leur vérification
 Artistes : Font du monde leur  représentation, le monde dépend de leur perception sensible, de leur sensibilité, autant de mondes que d'individus -> Bachelard veut "psychanaliser la connaissance", éviter de projeter nos émotions, nos désirs sur les choses
 ? : Font du monde une convention -> ne s'intéressent qu'à la dimension pratique, vision nominaliste des choses -> empêche la connaissance des choses
+
+Obstacle épistémologique
