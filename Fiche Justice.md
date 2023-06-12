@@ -25,7 +25,7 @@ ATTENTION : CES THÈSES SONT DÉFENDUES PRINCIPALEMENT PAR LES SOPHISTES ET LES 
 # Thèse naturaliste : il existe des principes de justice supérieurs aux usages, aux coutumes et aux lois
 ## 1) Le droit naturel et le droit positif
 -  Droit positif = ensemble des lois en vigueur dans un Etat ou une société -> Droit positif est variable et relatif
-- Mais lois sont censées être justes = conformes à des principes de justice éternels, qu'on appelle droit naturel (car non conventionnel)
+- Mais lois sont censées être justes = conformes à des principes de justice éternels, qu'on appelle droit naturel (car non conventionnel) qui nous permettent de qualifier des lois de légitimes (distinction légal/légitime)
 - Cicéron - "Il y a une loi vraie, droite raison \[...\] loi une, et éternelle, et immuable, elle sera pour toutes nations et de tout temps"
 - Droit positif est un fait mais droit naturel est une hypothèse
 ## 2) Le droit naturel est nécessaire
@@ -44,8 +44,9 @@ ATTENTION : CES THÈSES SONT DÉFENDUES PRINCIPALEMENT PAR LES SOPHISTES ET LES 
 - Pour Kant, le mal et l'injustice consistent à traiter une personne comme une chose, à l'utiliser sans égards pour sa dignité d'être humain
 - "Agis de telle sorte que tu traites l'humanité, aussi bien dans ta personne que dans la personne de tout autre, toujours en même temps comme une fin et jamais simplement comme un moyen"
 ### c) Rawls : qu'est-ce qu'une société juste ?
-- Pour Rawls, une société juste est fondée sur des principes choisis par ses futurs membres dans l'ignorance de la position qu'ils y occuperont
+- Pour Rawls, une société juste est fondée sur des principes choisis par ses futurs membres dans l'ignorance de la position qu'ils y occuperont (notion de "voile d'ignorance")
 - Une telle société accorderait à ses membres le maximum de liberté compatible avec l'égalité effective des chances
+- Pour Rawls, les inégalités sont tolérables tant qu'elles produisent des avantages pour chacun, notamment les plus désavantagés, car seules ces inégalités permettent la coopération volontaire de chaque membre de la société
 - Rawls - "La justice est la première vertu des institutions sociales"
 ### d) Justice et égalité
 - Idée de justice entretient un lien avec l'idée d'égalité (symbole de la balance par exemple)
@@ -79,6 +80,10 @@ A NOTER : Pour Hobbes, il n'y a pas de justice en dehors de la loi car sans Etat
 
 # Comment déterminer ce qui est juste ?
 
-
+- 2 types de justice pour Aristote :
+	- Justice distributive -> proportion géométrique, les personnes égales se voient attribuer des parts égales et les personnes inégales se voient attribuer des parts inégales
+	- Justice corrective -> proportion arithmétique, peu importe la personne, le châtiment dépend simplement du crime commis et a pour but d'égaliser. Kant propose ainsi un châtiment égal à la faute, càd une loi du talion, mais qui s'organiserait uniquement au tribunal et non en privé, pour éviter la vengeance, et qui ferait en sorte que le châtiment impacte vraiment le criminel (un riche ne paierait pas d'amende mais serait forcé par exemple de baiser la main de qqun d'un rang inférieur)
+- Pour Leibniz, pour décider de ce qui est juste, on doit se mettre à la place d'autrui. Non seulement du criminel mais aussi de tous les hommes. La justice est donc "la volonté constante de faire en sorte, autant qu'il est possible, qu'on ne puisse se plaindre de nous, quand nous nous plaindrions d'autrui en cas pareil"
+- 
 
 NB : Revoir aussi la notion de devoir qui a des liens intéressants avec la justice : faire son devoir, c'est faire le bien, ce qui est juste -> Par exemple notion de devoir social chez Durkheim renvoie à la justice mise en place simplement pour cohabiter proposée par Freud
