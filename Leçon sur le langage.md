@@ -261,3 +261,8 @@ Bergson nous dit donc ici que quelle que soit la rigueur de la pensée,  l'indiv
 
 
 Plan détaillé de "Peut-on dire du temps qu'il est libre  ?" pour le mercredi 17 mai
+
+LANGAGE EST UN INSTRUMENT :
+- Un outil
+- Il instrumentalise
+- On peut en jouer
