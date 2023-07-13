@@ -23,8 +23,8 @@ Dans la mesure où la temporalité se manifeste pour une conscience essenitielle
 A ce titre l'homme ne peut pas se libérer du temps
 On peut citer Jules Lagneau "L'étendue est la marque de ma puissance, le temps la marque de mon impuissance" (étendue = espace)
 ## 2) Le temps est irréversible
-Cette dimension de l'irréversibilité nous renvoie à la corruption temporelle : le temps corrompt. Cette corruption, c'est particulièrement ce qui a frappé profondément les grecs de l'antiquité. Tout passe, tout s'écoule, on ne se baigne jamais deux fois dans le même fleuve (Héraclite) et c'est bien ce qui suscite en l'homme l'angoisse car paradoxalement on sait tout en ne sachant pas : on a peur d'un objjet non identifié, on sait qu'on va mourir mais on ne sait pas quand et on ne sait pas ce que c'est.
-On retrouve ce passage du temps dans la littérature :"A la recherche du temps perdu","Ô temps suspends ton vol"
+Cette dimension de l'irréversibilité nous renvoie à la corruption temporelle : le temps corrompt. Cette corruption, c'est particulièrement ce qui a frappé profondément les grecs de l'antiquité. Tout passe, tout s'écoule, on ne se baigne jamais deux fois dans le même fleuve (Héraclite) et c'est bien ce qui suscite en l'homme l'angoisse car paradoxalement on sait tout en ne sachant pas : on a peur d'un objet non identifié, on sait qu'on va mourir mais on ne sait pas quand et on ne sait pas ce que c'est.
+On retrouve ce passage du temps dans la littérature :"A la recherche du temps perdu" , "Ô temps suspends ton vol"
 Le temps use et corrompt tout ce qu'il touche sans que l'homme puisse l'empêcher, et donc s'en libérer.
 ## 3) Je suis prisonnier du temps
 Loin d'être l'expression d'une quelconque liberté, il consacre bien le contrraire, notre impuissaznce tragique à ne pas vieillior et à ne pas mourir . La mort se trouve par le temps   au centre de l'existence même, au point que le philosophe Heidegger ira jusqu'à dire "dés qu'un homme est né il est assez vieux pour mourir". Le temps n'est donc pas libre, j'y suis soumis
