@@ -13,7 +13,8 @@ Premier mensonge potentiel : L'évanouissement de Lorenzo est-il réel ou feint 
 
 Acte 1 scène 5 : réitération de la présentation de l'orfèvre comme un républicain
 Critique de la passivité du peuple face aux affaires de pouvoir
-Proximité de la noblesse de Strozzi avec le peuple
+Proximité de la noblesse des Strozzi avec le peuple
+(A noter une chose sur les Républicains : Ce sont en réalité des grandes familles florentines qui rêvent d'un retour à l'oligarchie ancienne, et ne se préoccupant nullement du sort du peuple qui leur propose son soutien)
 Salviati représente la débauche florentine -> comparaison avec Lorenzo intéressante
 Les dames se rendent à San Miniato pour se faire admirer et donner une image de piété 
 
@@ -32,7 +33,7 @@ N'agit pas non plus quand on lui annonce que sa fille risque d'être séduite pa
 Acte 2 scène 2 : Cynisme de Lorenzo : "Tout cela est parfaitement vrai et parfaitement faux, comme tout au monde"
 Critique de la fusion de l'art et de la religion
 Eglise est prête à fermer les yeux sur libertinage du duc s'il donne l'exemple en allant à la messe
-Tebaldeo -> Artiste médiocre, pieux mais pense que les terres corrompues et la souffrance font les grands artistes
+Tebaldeo -> Artiste médiocre, pieux mais pense que les terres corrompues et la souffrance font les grands artistes (peut être compris comme un double pur de Lorenzo, un rappel de sa jeunesse et de son innocence)
 Seul personnage avec une vraie foi en "la sainte religion de la peinture" -> mode lyrique, mais on s'interroge sur la légitimité de sa foi, qui accepte la compromission en s’accommodant de la tyrannie au nom de la créativité tout en se fondant sur des idéaux de pureté -> n'arrive pas à convvaincre, à faire croire non plus
 Lorenzo insulte aussi Florence ->signe qu'il en critique un peu la débauche ?
 Lorenzo se moque de son art puis semble le "tester", lui demande s'il est rép., ce qu'il ferait si le duc l'attaquait,...
@@ -48,7 +49,8 @@ Narration d'une hallucination de la mère : Elle voit le spectre de Lorenzo lors
 Lorenzo ne tente pas de démentir qu'il s'est évanoui à la vue d'une épée : Pourquoi a-t-il intérêt à ce qu'on pense qu'il est faible ?
 Venturi semble attaché à ce qu'on ne pense pas qu'il soit marchand de soie, il dit seulement qu'il en fabrique
 Il dit face à Bindo et Venturi qu'il est républicain : Pour les trahir ou pour fomenter qqchose ?
-Fait nommer Bindo ambassadeur à Rome et donne à Venturi le titre de fournisseur de la cour -> Ceux-ci acceptent avec empressement, ce qui montre les contraditions entre les discours républicains et les actes (il en est de même pour les idéaux de la marquise Cibo et de Philippe Strozzi qui finissent respectivement en désillusion et en renoncement)
+Fait nommer Bindo ambassadeur à Rome et donne à Venturi le titre de fournisseur de la cour -> Ceux-ci acceptent avec empressement, ce qui montre les contraditions entre les discours républicains et les actes (il en est de même pour les idéaux de la marquise Cibo et de Philippe Strozzi qui finissent respectivement en désillusion et en renoncement) 
+Lorenzo apparaît par cet acte non pas comme un débauché mais comme celui qui dégonfle les grands discours républicains des marchands
 Le Duc est déjà ennuyé de la Cibo et veut séduire la tante de Lorenzo, qui renâcle à lui la présenter
 Le Duc est un beauf "Bon ! elle ne fait pas l'amour en latin"
 Face au duc, Lorenzo critique Philippe Strozzi, le traite de butor et le méprise, lui et les bannis; tout en promettant au duc de dénoncer quelques républicains de plus -> On ne sait toujours pas de quel côté il est

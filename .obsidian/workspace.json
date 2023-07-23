@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85d112b883d95f5a",
+            "id": "c1a8fcc9703b1d6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale PCSI/Lorenzaccio.md",
+                "file": "Culture générale PCSI/Les Liaisons dangereuses.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture générale PCSI/Lorenzaccio.md",
+                "file": "Culture générale PCSI/Les Liaisons dangereuses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture générale PCSI/Lorenzaccio.md",
+                "file": "Culture générale PCSI/Les Liaisons dangereuses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture générale PCSI/Lorenzaccio.md"
+                "file": "Culture générale PCSI/Les Liaisons dangereuses.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85d112b883d95f5a",
+  "active": "c1a8fcc9703b1d6b",
   "lastOpenFiles": [
-    "Culture générale PCSI/La crise de la culture.md",
     "Culture générale PCSI/Lorenzaccio.md",
+    "Culture générale PCSI/Les Liaisons dangereuses.md",
+    "Untitled 1.md",
+    "Culture générale PCSI/La crise de la culture.md",
     "Random",
     "De la conscience à l'inconscient.md",
     "Culture générale PCSI",
@@ -193,7 +195,6 @@
     "Philosophie/pourquoi_philosopher_aristote.md",
     "COURS SUR LA TECHNIQUE.md",
     "Philosophie/Texte de Bachelard.md",
-    "Philosophie/Raison.md",
     "Random/Pasted Image 20230605190033_123.png",
     "Excalidraw/Drawing 2023-04-30 15.36.09.excalidraw.png",
     "Excalidraw/Structure et groupes fonctionnels 2023-04-25 22.32.28.excalidraw.svg"
