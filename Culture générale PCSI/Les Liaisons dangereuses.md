@@ -57,9 +57,96 @@ Lettre XLVIII : Lettre la plus connue du livre peut-être, chargée de doubles s
 Par exemple, Valmont raconte qu'il a passé la nuit "dans l'agitation d'une ardeur dévorante"
 La "table" sur laquelle il écrit devient pour lui "l'autel sacré de l'amour"
 
-Lettre XLIX : Cécile Volanges a décidé de se séparer de Danceny, convaincue qu'elle est condamnée à ne plus l'aimer une fois mariée à Gercourt
+Lettre XLIX : Cécile Volanges a décidé de se séparer de Danceny, pour une raison encore inconnue
 
 Lettre L : présidente de Tourvel demande à Valmont de ne plus lui parler d'amour et refuse même l'amour tout court : elle en donne une image très négative.
+Lettre LI : On apprend la raison de la rupture de Cécile. Elle est allée se confesser et a maintenant peur du chatîment divin si elle continue  à  aimer Danceny
+On note aussi une forme de fausseté (peut-être involontaire chez Cécile) : Elle prie Dieu chaque jour de lui faire oublier Danceny, de sorte qu'elle pense à Danceny chaque jour
+Merteuil demande à Valmont de conduire Danceny pour le forcer à avoir un peu  plus de courage et d'audace, de sorte que Valmont guide Danceny et Merteuil Volanges et deviennent ainsi les metteurs en scène du couple de Volanges et Danceny
+
+Lettre LII : Valmont réécrit l'histoire  en se faisant passer pour un personnage vertueux, corrompu par les femmes qu'il a fréquentées "Moi-même enfin je me crus inconstant, parce que j'étais délicat et sensible"
+
+Lettre LIV : Danceny reste l'un des personnages les plus naïfs et loyaux du roman (malgré sa relation avec Merteuil), il ne profite pas des situations que lui offre Merteuil et Valmont avec Cécile
+
+Lettre LV : La peur du diable de Cécile n'a pas duré longtemps : Danceny a "été plus fort que le confesseur"
+
+Lettre LVII : Valmont finit par "croire" à nouveau à son propre mensonge : "j'étais moi-même, dans ce moment, amoureux et timide"
+
+Lettre LXI : La mère de Cécile a tout découvert et, dans la lettre suivante, interdit à Danceny de revoir Cécile
+
+Lettre LXIII : On apprend que c'est Merteuil qui a tout organisé en parlant à la mère de la relation entre sa fille et Danceny. Cela lui permet :
+- De donner des obstacles à Danceny
+- De se donner une bonne image auprès de la mère
+- Et de se rapprocher de la fille
+Merteuil devient "comme la DIvinité" en étant le seul agent de deux intérêts contraires, ceux de la fille et ceux de la mère -> Merteuil et Valmont tendent tous deux à rempalcer Dieu : Valmont veut remplacer Dieu dans l'esprit de la Présidente et Merteuil le remplace en quelque sorte dans l'esprit de la mère et de la fille. on peut aussi noter ce phénomène chez Danceny qui est "plus fort que le confesseur"
+
+Introduction du personnage de Prévan, plus dangereux que Valmont et dont Merteuil doit, selon Valmont, se défendre
+
+Lettre LXXII : Danceny demande à Cécile d'accepter l'aide de Valmont, ce qui la jette involontairement dans ses griffes
+
+Lettre LXXIV : Merteuil décide, contre l'avis de Valmont, d'entamer une liaison avec Prévan, à noter cependant que ici c'est elle qui fait les premières démarches
+
+Lettre LXXV : Jeu des regards qui "fait croire" chez Valmont : "On dirait toujours qu'il n'y songe pas ; et pourtant toutes les fois que je cherche ses yeux, je suis sûre de les rencontrer tout de suite"
+Naïveté de Cécile : "Il faut qu'il ait bien bon cœur d'être venu exprès pour rendre service à son ami et à moi"
+
+Lettre LXXVI : Problème de la réputation chez les femmes : Il est très aisé de faire croire, à partir d'une simple apparence, qu'on a séduit une femme, ce dont Valmont avertit Merteuil si elle reçoit Prévan "Les sots y croiront, les méchants auront l'air d'y croire"
+Valmont s'y montre aussi misogyne "puis-je deviner les mille et mille caprices qui gouvernent la tête d'une femme"
+
+Lettre LXXIX : Nature changeante de l'opinion publique : "La scandaleuse constance fut soumise à la censure publique \[...\] Le public, qui se lasse de tout,  se lassa bientôt d'une censure infructueuse \[...\] Il changea la critique en éloge"
+
+Lettre LXXXI : Autre lettre très connue. La marquise de Merteuil répond vigoureusement aux propos de Valmont, en lui montrant que les succès dont il se  vante ne sont pas si grands et que, surtout, les succès de la marquise de Merteuil demandent bien plus d'effort. En effet,  "Dans cette partie si inégale, notre fortune est de ne pas perdre, et votre malheur de ne pas gagner". Les femmes doivent en effet constamment faire attention à ne pas être déshonorées.
+De plus, la femme doit faire attention si elle veut mettre un terme à une liaison et agir avec prudence sans quoi elle pourrait devenir l'objet d'un scandale, de sorte que 'Ses bras s'ouvrent encore, quand son cœur est fermé"
+Cependant, la marquise de Merteuil a réussi à se "créer des moyens inconnus jusqu'à moi", qui lui ont permis de maîtriser les hommes et de conserver sa réputation pure tout en se livrant à ses fantaisies.
+Selon elles, les recommandations de Valmont ne sont valables que pour les femmes normales, dont elle détaille les défauts en amour, par exemple elle critique celles qui "dans leur amant actuel, ne savent pas voir leur ennemi futur"
+
+Elle décrit ensuite une éducation autodidacte de l'art de la dissimulation, qui lui a permis de devenir ce qu'elle est aujourd'hui. "Je recueillais avec soin ceux(les discours) qu'on cherchait à me cacher" "Cette utile curiosité, en servant à m'instruire, m'apprit encore à dissimuler ; forcée souvent de cacher les objets de mon attention" "Je tâchai de régler de même les divers mouvements de ma figure" "ma façon de penser fut pour moi seule, et je  ne montrais plus que celle qu'il m'était utile de laisser voir"
+
+On note aussi que  l'image qu'elle  se crée est modifiable à volonté, elle peut même s'employer à nuire à sa réputation pour ne pas décourager les libertins
+Pour faire croire à son invincibilité, elle accepte les hommages des hommes qui ne lui plaisent pas, de sorte à se donner l'air de résister, et a une liaison privée avec les vrais amants
+
+Lettre LXXXIV : Valmont demande à Cécile de lui donner la clé de sa chambre
+Citation utile pour l'art du mensonge "la vraisemblance rend les mensonges sans conséquence, en ôtant le désir de les vérifier"
+
+Lettre LXXXV : Merteuil raconte son aventure avec Prévan, tout au long de laquelle elle lui a fait croire qu'elle était séduite "j'eus l'adresse de m'en défendre maladroitement et de jeter sur Prévan un coup d'oeil prompt, mais timide et déconcerté, et propre à  lui faire croire que toute ma crainte était qu'il ne devinât la cause de mon trouble", puis où elle fait scandale avec l'aide de ses domestiques pour perdre Prévan, forcé à se rendre en prison par son commandant.
+
+Lettre LXXXVIII: Cécile croit toujours à la toute-puissance de sa mère : "maman regarde à tout, et s'aperçoit de tout"
+
+Lettre XCII : Crédulité de Danceny, qui passe constamment de l'amour transi à "O Dieu ! est-il possible ? Cécile ne m'aime plus."
+
+Lettre XCVI : Toujours remplacement de la divinité : Valmont dit de la présidente qu'elle lui rend un culte
+La lettre raconte le viol de Cécile par Valmont
+
+Lettre XCVIII:
+Madame De Volanges se trompe sur la raison du malheur de Cécile et pense qu'il s'agit de son amour pour Danceny. Cependant, si elle se trompe sur cette cause, elle en arrive à une "bonne" décision, qui est de repousser le mariage et peut-être laisser Cécile épouser celui qu'elle aime.
+
+Lettre XCIX : Arrogance de Valmont : "Je puis enfin prédire, avec certitude, le moment de la chute de mon austère dévote"
+Cependant, il raconte aussi comment Cécile a réussi à lui résister et qu'il a trouvé sa porte fermée de dedans
+
+Lettre C : Valmont a eu tort de croire la victoire certaine. La présidente de Tourvel l'a fui
+
+Lettre CI : Valmont organise la surveillance de la présidente par Azolan, son chasseur et lui demande d'intercepter ses lettres
+
+Note : Merteuil experte dans l'art de faire croire à des mensonges qui semblent vrais par de faux raisonnements. Par exemple, pour décourager Valmont d'écrire à sa Présidente, elle fait le raisonnement, valide en lui-même que parler est plus efficace qu'écrire pour séduire quelqu'un. Cependant, ce faisant, elle ignore volontairement que Valmont, à cet instant, n'avait pas la possibilité de parler, et que par conséquent écrire était la seule solution possible. En se basant sur un faux postulat, Merteuil parvient à une conclusion qui a l'apparence de la validité mais qui est en réalité fausse
+
+Lettre CV : Merteuil ment ouvertement à Cécile "Elle ira  \[...\] jusqu'à vous proposer Danceny pour époux ; et cela, pour vous engager de parler" alors que les intentions de la mère de lui proposer d'épouser Danceny sont sincères.
+Merteuil suggère à Cécile d'accepter les avances de Valmont
+Conseil de dissimulation à Cécile : "vous devez moins chercher à lui dire ce que vous pensez, que ce qui lui plaît davantage".
+On note que ce conseil s'applique à beaucoup des personnages du roman. Ce jeu d'écriture "pour" le destinataire fait que ce les lettres interceptées ou lues par les mauvaises personnes (par exemple les billets de Danceny à Cécile lus par Valmont) permettent à Merteuil et Valmont de mieux affiner leurs manipulations. Ceux qui refusent de "faire croire" sont les victimes du roman, et ce n'est qu'en cédant à cette nécessité qu'ils peuvent s'en tirer
+
+Lettre CVI : Merteuil se moque de Valmont mais lui donne une lettre pour faire revenir Cécile afin de nuire à Gercourt
+On note aussi ce jeu de dissimulation quand elle décrit la lettre qu'elle a fait à Madame de Volanges : "C'est ainsi que dans la même lettre, l'idée de nuire à Gercourt m'a donné le courage d'en dire du bien"
+
+Lettre CIX : Cécile se rend compte d'un mensonge de Merteuil, ce qui montre que faire croire ne marche pas tout le temps "Il me semble qu'un jour à l'Opéra vous me disiez au contraire qu'une fois mariée, je ne pouvais plus aimer que mon mari"
+
+Lettre CX : "Je règlerais l'état de ma santé sur l'impression qu'il fera sur elle"
+
+Lettre CXVII : Valmont dicte à Cécile une lettre dans son style, mais faite pour donner plus d'entrain à Danceny -> Mise en abyme, même chose que quand Laclos écrit des lettres avec des styles différents  pour faire croire aux personnages
+Double sens : Valmont écrit en parlant de lui-même "Il fait tout comme vous feriez vous-même (Danceny)"
+
+Lettre CXXI : Surabus du  jargon amoureux (exemple : les femmes "à qui il manque toujours d'être moi", destiné à faire croire ou à exprimer, selon l'usage, l'amour, lui retire toute crédibilité, et devient un simple protocole, une formule de politesse
+
+Lettre CXXIII : Désaveu de la religion, qui sert simplement d'intermédiaire et  de prétexte à la séduction
+
 
 
 
