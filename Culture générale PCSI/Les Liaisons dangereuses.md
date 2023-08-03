@@ -145,7 +145,26 @@ Double sens : Valmont écrit en parlant de lui-même "Il fait tout comme vous fe
 
 Lettre CXXI : Surabus du  jargon amoureux (exemple : les femmes "à qui il manque toujours d'être moi", destiné à faire croire ou à exprimer, selon l'usage, l'amour, lui retire toute crédibilité, et devient un simple protocole, une formule de politesse
 
-Lettre CXXIII : Désaveu de la religion, qui sert simplement d'intermédiaire et  de prétexte à la séduction
+Lettre CXXIII : Désaveu de la religion, qui sert simplement d'intermédiaire et  de prétexte à la séduction, la religion ne fait plus croire
+(On notera aussi que les dévotes sont de ferventes partisanes de Merteuil et que c'est le père Anselme qui permet à Valmont de vaincre la présidente, la religion devient un outil des séducteurs grâce au mensonge)
+
+Lettre CXXV : SIgnes que le costume d'amoureux que Valmont a porté lui a, comme Lorenzaccio, collé à la peau "quand j'aurais, un moment, partagé le trouvble et l'ivresse que je faisais naître" "pour lui jurer un amour éternel ; et, il faut tout avouer, je pensais ce que je disais"-> impossibilité de faire croire à un mensonge sans y croire un peu
+
+(Dans une amorce ou un petit développement on peut exploiter la doublepensée dans 1984, autant quand on traite d'Hannah Arendt ou de Lorenzaccio ou des Liaisons Dangereuses, cf définition de doublepensée :
+
+Doublepensée (en version originale Doublethink) est un terme inventé par George Orwell comme le novlangue, dans son roman dystopique 1984, indiquant une capacité à accepter simultanément deux points de vue opposés et ainsi mettre en veilleuse tout esprit critique1. C'est aussi une rupture avec le « principe de non-contradiction », sur lequel repose toute la science démontrable.
+
+La doublepensée étant un moyen d'accepter des vérités contradictoires et de se faire croire à ce mensonge à soi-même, d'oublier même que l'ancienne vérité contradictoire avait existé, comme le fait Winston quand il réécrit l'histoire et se force d'oublier qu'il a bien réécrit l'histoire (ici on peut noter la similarité avec le mensonge organisé dont traite Arendt) )
+
+Lettre CXXVI : Ironie car madame de Rosemonde se félicite de la rédemption de Valmont dans une lettre à la Présidente et se réjouit qu'elle soit "guérie" de sa passion pour Valmont après que la présidente s'est livrée à lui
+
+Lettre CXXXI : Religion persiste chez Madame de Rosemonde, peut-être la seule à encore croire en "celui_là seul qui lit dans les coeurs"
+
+Lettre CXXXIX : "on ne veut plus me voir \[...\] J'en ai conclu qu'il n'y avait pas un moment à perdre pour me présenter" -> Valmont brouille les apparences, au point que même la vertu de la présidente semble de façade, son refus de le voir indiquerait une envie de le voir. Le mensonge permanent crée, comme chez Arendt, une forme de cynisme même chez le lecteur qui ne sait plus où est la vérité quand tout le monde semble cacher ce qu'il pense. Cela vient aussi du fait que les lettres créent des narrateurs non fiables, ce qui fait que seul le recoupage des lettres peut permettre de reconstituer les évènements
+
+Lettre CLIV : Lettre supprimée de Valmont qui évoque son "désespoir" -> Réel amour pour la présidente ou simple tromperie ? Laclos préserve le doute
+
+Lettre CLXVIII : Madame de Volanges, malgré la présence de nombreuses rumeurs sur Merteuil due à la publication des lettres, continue à croire à l'innocence de Merteuil
 
 
 
